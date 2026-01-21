@@ -16,21 +16,7 @@ The system is delivered as a full-stack application, consisting of:
 
 ## High-Level Architecture
 
-User (Frontend)
-↓
-React Chat Interface
-↓
-FastAPI Backend
-↓
-LangChain Agent
-↓
-(Two-Step) Retrieval → ChromaDB (Policy Embeddings)
-↓
-LLM (Answer Generation)
-↓
-Response + Sources
-↓
-Frontend Display
+User (Frontend) → React Chat Interface → FastAPI Backend → LangChain Agent → (Two-Step) Retrieval → ChromaDB (Policy Embeddings) → LLM (Answer Generation) → Response + Sources → Frontend Display
 
 
 Conversation state and session history are stored separately to enable continuity across interactions.
