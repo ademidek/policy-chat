@@ -24,10 +24,7 @@ FastAPI Backend
 ↓
 LangChain Agent
 ↓
-┌───────────────────────────────────────────┐
-│ Retrieval │ → ChromaDB (Policy Embeddings)
-│ (Two-Step) │
-└───────────────────────────────────────────┘
+(Two-Step) Retrieval → ChromaDB (Policy Embeddings)
 ↓
 LLM (Answer Generation)
 ↓
