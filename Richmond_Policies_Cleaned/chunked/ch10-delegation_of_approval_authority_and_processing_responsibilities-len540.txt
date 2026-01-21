@@ -1,0 +1,7 @@
+. when evaluating a potential delegate for financial transactions, it is important for the
+approver to understand the delegate's responsibilities in their typical role so that the duties they will
+temporarily assume on the approver's behalf will not conflict with the permissions/authorizations in their
+usual position.
+to the extent that complete segregation of duties is not realistic due to the size of or expertise within a
+department or unit, best efforts should be made to develop and maintain other preventative or detective
+controls

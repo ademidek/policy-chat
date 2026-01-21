@@ -1,0 +1,9 @@
+or that richmond has other overriding legitimate grounds for retention;
+(d) restrict the processing of an individual's personal data;
+(e) transfer an individual's personal data to a third party (portability); and
+(f) upon an individual's objection, stop processing personal data when richmond is relying on a legitimate
+interest basis for processing such data unless richmond can demonstrate compelling legitimate grounds for
+processing that override the individual's interests in prohibiting such processing.
+(g) if an individual has provided consent to the use of their data, they have the right to withdraw consent
+without affecting the lawfulness of richmond's use of the information prior to receipt of that request.
+individuals may exercise these rights by contacting gdpr@richmond.edu

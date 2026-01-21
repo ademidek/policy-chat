@@ -1,0 +1,9 @@
+. community
+members rely on high availability and good performance in order to accomplish their work. systems using
+excessive amounts of bandwidth, causing network disruption, or are deemed to be a security and/or
+privacy risk may be disconnected from the network or otherwise limited without warning. if the network
+event is related to faculty research, is will attempt to contact the faculty member to resolve the issue
+before taking the resource offline. information services may employ automated systems that partition or
+restrict network bandwidth, protocols, or access either internally or at the internet gateway.
+the university does not monitor or generally restrict the content of material traversing the university's
+networks or stored on university managed or contracted systems and devices

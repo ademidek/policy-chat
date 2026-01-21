@@ -1,0 +1,9 @@
+extraction, manipulation, and reporting – extraction, manipulation, and reporting of administrative
+data must be done only for university business purposes and consistent with this and other applicable
+university policies. personal use of administrative data, in any format and at any location, is
+prohibited. all data users are expected to be familiar with and conform to the university's
+acceptable
+use policy.
+
+irm-4007.3 – roles and responsibilities
+see exhibit 1 for data trustees and data stewards for each data stewardship domain.

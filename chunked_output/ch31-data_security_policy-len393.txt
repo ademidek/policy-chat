@@ -1,0 +1,5 @@
+confidential or restricted information must be encrypted at a file-level during transfer. a minimum
+of aes 128-bit encryption must be used, although stronger encryption levels may be appropriate. this can be achieved using encrypted archive (e.g., .zip) files.
+
+refer to the external data transfer
+policy for detailed requirements. 4. the key to encrypted data must be transferred out of band.

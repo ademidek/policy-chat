@@ -1,0 +1,14 @@
+. no third party or
+departmental network access equipment is permitted.
+in all cases, users of university networks (campus, restricted, and visitor) are always required to adhere
+to the requirements of the acceptable use policy (https://is.richmond.edu/policies/acceptable-use.html), as
+well as those policies outlined at http://is.richmond.edu/policies/index.html.
+campus network
+the campus network is designed with logical and physical segmentation. technical controls are applied
+to groups of users and systems to ensure data confidentiality, integrity, and availability. security controls
+are placed on many shared access segments to mitigate the spread of malicious traffic. the campus
+network requires some form of authentication. anonymous access is permitted only on the visitor
+network.
+it is important that the requirements in the accompanying network device connectivity standard
+are
+evaluated prior to the purchase of any network connected device

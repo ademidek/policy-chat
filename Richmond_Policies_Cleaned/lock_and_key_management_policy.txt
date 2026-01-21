@@ -1,0 +1,202 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+this policy is designed to ensure effective control, security, and management of the university's lock and key
+system for the safety and protection of university personnel and equipment.
+scope:
+the lock and key management policy applies to all lock and key management controls, one cards electronic
+key controls, including approval and issuance of access, management of current inventory, and recovery of
+access post-separation and position transfers.
+index:
+sec-2004.1 .......definitions
+sec-2004.2 .......policy
+sec-2004.3 .......roles and responsibilities
+sec-2004.4 .......electronic card access
+sec-2004.5 .......hard-key access
+sec-2004.6 .......authorizations & approvals
+policy statement:
+sec-2004.1 – definitions
+access – the ability to enter a university space by mean of a traditional metal key or a university of
+richmond one card.
+policy #: sec-2004 policy title: lock and key management policy and
+procedure
+effective: 10/01/2019 responsible office: one card office
+university facilities
+date
+approved:
+09/29/2019
+approval: executive vice president and chief operating
+officer
+replaces
+policy dated:
+n/a responsible
+university official:
+director, environmental operations and
+director of business services
+
+sec-2004 – lock and key management policy and procedure
+university of richmond | 2
+access devices – traditional metal keys, gas keys for vehicle refueling, university one card ids, or any
+electronic means of access such as a smartphone.
+building master key – any key that provides access to one building.
+departmental master key – any key that provides access to a department within a building.
+department specific keys – any key that provides access to department specific equipment such as desk
+drawers, file cabinets, refrigeration, or other miscellaneous storage containers.
+electronic access – allows users to utilize the current one card as a means of access. the door system
+(cbord) replaces traditional keys with an electronic door stripe that is configured to allow for remote
+communication.
+gas key – any key assigned to a department provides access to fuel pump used to refill campus vehicles.
+grand master key – any key that provides access to more than one building.
+interior access - the electronic access readers are magnetically swiped, and then a personal pin must be
+entered on the keypad of the door. also, when students accidentally get locked out of their dorms,
+cbord offers the capability to electronically unlock their door as long as they enter their pin.
+exterior access - the electronic access readers are strategically placed around the perimeter of the
+building. they are magnetically swiped, which then allows access.
+one card – the official university of richmond identification card. this card permits access to their
+housing and many university services and facilities.
+operator key – any key that provides access to a limited number of locks within one building.
+outside contractors – companies hired by the university of richmond to provide a service.
+sec-2004.2 – policy
+the safety and security of the university of richmond's campus is a high priority. the university's open
+campus requires policies and procedures that mitigate any risks for its community. lock and key and card
+access governance, authorization, inventory management, decommissioning, audits, and monitoring are
+included in this policy.
+electronic card access
+installation of electronic card readers requires contacting one card services and submitting a completed
+electronic card access request form (see electronic card access policy sec-2005).
+• individuals needing electronic card access must complete the card access request form
+online at http://onecard.richmond.edu, which requires approval from the approval authority or the
+building coordinator. all areas of the form must be filled out, and the requestor must sign the form
+and agree to abide by the responsibilities listed.
+• each department requesting and granting electronic card access for individuals will be responsible
+for auditing and maintaining records on who has access to their respective area. the master list will
+be maintained in the one card office and sent to the respective department for review. a formal
+audit must be performed by june 30th annually and must list all access cards in the department's
+possession. also, the audit must document whom each card is assigned to or when access was
+removed before the audit. a copy of the completed audit must be maintained in the department,
+
+sec-2004 – lock and key management policy and procedure
+university of richmond | 3
+and a copy must also be sent to the one card office for their annual audit of all access to the cs
+gold system.
+hard-key access
+• key inventory procedures – the key inventory software utilized by the lock shop keeps a
+perpetual inventory. if someone requests a key that has previously been issued either to them or
+someone else, the application will notify the lock shop that the key is already in use. the lock
+shop is notified daily of employment separations of employees who have been issued keys. upon
+separation from the university or a transfer to another department, it's the supervisor responsibility
+to collect assigned keys and access cards (if applicable) from the employee before their last
+working day. keys, gas keys, and id cards are to be returned to the facilities and one card
+offices respectively by the third business day after separation has taken place. refer to the hr's
+resignation and termination policy for additional information.
+• if a key that has been issued by the lock shop is lost or stolen the corresponding door/cylinders
+that the key operated will be rekeyed. the key holder, the contractor, authorizing officials or
+department may be required to pay for the rekeying if deemed necessary by facilities and urpd.
+a key sign out form must be kept by each department which authorizes temporary access on a
+daily basis to contractors.
+authorizations & approvals
+university officials authorized to approve requests for university keys requested from the facilities
+department lock shop or electronic access from one card services are listed below:
+• coo, provost, associate vice presidents, and assistant vice presidents – all levels.
+• administrative officials, deans – grand master and master keys for building (s) in which their
+departments are located.
+• department entrance and room keys.
+• faculty desiring to provide students with access must utilize either the building coordinator,
+administrative assistant or their academic unit head to accomplish such authorization.
+emergency entry
+individuals who do not possess university keys or card access and must gain emergency entry to a
+university building or area may request assistance from the university of richmond police department
+(urpd). upon the receipt of such request, urpd must verify that the requestor has authorization for
+access and secure permission from the appropriate official, if not already handled by prior arrangement,
+to allow the requestor to enter the designated area and record the action taken in the daily
+communications log.
+temporary access
+authorizing officials who wish to allow university personnel to enter a university facility under their
+authority for an extended period with issuing them a key or card access may notify facilities
+(keyrequest@richmond.edu) and one card services (onecard@richmond.edu) of the person's name and
+the circumstances of the needed access for further instructions.
+
+sec-2004 – lock and key management policy and procedure
+university of richmond | 4
+contractors
+when access to university facilities is required in connection with a commercially contracted project, the
+project manager will coordinate the contractor's requirements with the director of one card services and
+director of maintenance services before issuance of keys/cards to contractors by the facilities
+department. the project manager will ensure that the contractors understand and agree to their
+responsibilities (which are also outlined in the temporary key agreement issued by facilities)). upon
+completion of their proof of the need for university keys/cards, the project manager and contractor will
+ensure that the keys/cards are returned to the facilities management lock shop and one card services.
+sec-2004.3 – roles and responsibilities
+the key system is primarily managed by facilities for physical keys and one card services for central
+electronic access, with day-to-day management relegated to some individual departments.
+responsibilities of approving authorities
+• maintain a current listing of personnel to whom they have issued university keys and card access.
+• make an accounting of all university keys/cards issued under their authority to ensure proper control
+and accountability each year by june 30th. student residence hall keys will be inventoried promptly at
+the end of each spring semester, and the end of each summer session and replacement keys will be
+ordered immediately.
+• notify one card services and the facilities lock shop when employees separate from the university or
+transfer to other departments. notify one card services and the facilities lock shop when there is an
+office move to another building.
+• ensure the return of university keys/cards by individuals at the termination of their employment,
+extended leave, or when their duties no longer require the possession of university keys. also, notify
+one card services when card access is no longer required for an employee remaining in the
+department.
+• investigate and report to urpd, facilities department, and one card services of all incidents
+involving the loss of university keys. these reports should provide the following data:
+o name of the official who authorized the issue of the key(s).
+o name of the individual to whom the key(s) were issued.
+o type of key(s).
+o room(s), building(s), or area(s) to which the key(s) were issued.
+o date of the discovery of the key(s) loss or theft and any other pertinent facts. if the key(s) was
+lost or stolen outside the jurisdiction of the urpd, a report should be filled with the police in
+the jurisdiction where the loss or theft occurred.
+responsibility of key/card holders
+individuals issued university keys are responsible for their physical security. the loss of a key(s) must be
+immediately reported to facilities management. if the said key(s) is lost or stolen off campus, a report must
+be filled with the police in the jurisdiction where the loss or theft occurred as well as filing a report with the
+urpd when they return to campus. the loss of cards must be reported to one card services and the
+facilities lock shop. loaning a key/card to another individual is strictly prohibited.
+all master keyrings that are assigned to an individual or department are prohibited from leaving campus.
+all rings are to be secured in a controlled lockbox with a designated keeper within the department.
+
+sec-2004 – lock and key management policy and procedure
+university of richmond | 5
+responsibility of facilities management
+the director, environmental operations is responsible for the manufacture/duplication and issuance of all
+keys. to maintain a proper university key registry, the facilities lock shop is authorized to conduct annual
+audits of key distribution by departments throughout campus. departments not following proper issuance
+and maintenance guidelines will be reported to the appropriate administrative authority for corrective action.
+the duplication of university keys by any other person or vendor is prohibited by this policy and the laws of
+virginia. such duplication, or the possession of a key duplicated with authorization, constitutes a class 3
+misdemeanor. the grandmaster and master keys have the "duplication prohibited" etched on the
+key. the facilities lock shop will generate and maintain a current listing of all keys
+manufactured/duplicated, and the list will document the distribution. approving authorities will use the
+facilities management work order system to order keys.
+responsibility of one card services
+the director of business services has the authority to question, modify and deny access requests. one card
+services will coordinate an annual audit of current card access users with approving authorities for
+verification. this will be completed annually by june 30th.
+departments with key distribution delegation
+• police department – responsible for officers and security guards
+• student involvement – is responsible for all access to student involvement spaces. student
+involvement has the authority to question, modify, and deny access requests. they will maintain their
+inventory and key control.
+• athletics – is responsible for all access to athletic spaces. athletics has the authority to question,
+modify, and deny access requests. they will maintain their inventory and key control.
+• residence life & housing – is responsible for all access to the residence halls. housing has the
+authority to question, modify, and deny access requests. residence life & housing maintain their
+inventory and key control.
+• information services – information services has the authority to question, modify, and deny access
+requests. they will maintain their inventory and key control.
+• recreation & wellness - is responsible for all access to recreation & wellness spaces. recreation &
+wellness has the authority to question, modify, and deny access requests. they will maintain their
+inventory and key control.
+related policies:
+sec-2005 electronic card access policy
+policy background:
+this policy was reviewed by president's cabinet prior to approval on 9/29/2019
+policy contacts:
+director, environmental operations, university facilities
+director of business services, campus services

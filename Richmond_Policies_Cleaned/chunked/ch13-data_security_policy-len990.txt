@@ -1,0 +1,15 @@
+. authorization to access confidential or restricted information is limited to those faculty, staff,
+students or vendors who require such access to perform their job on behalf of the university and
+will be provisioned in accordance with the principle of least privilege as noted in section irm-
+4004.1. access to education records is limited as set forth in the university's privacy of
+education records (ferpa) policy.
+f. university committees, task forces, and working groups may have access to institutional data only as
+defined in their charge and consistent with other university policies, including the administrative
+data policy. requests for any information beyond their specific charge must be made to the director
+of institutional effectiveness or appropriate data steward. such data shall not be disseminated
+beyond the authorized committee, task force or working group except with the approval of the
+relevant data steward.
+
+irm-4004 – data security
+university of richmond | 5
+g

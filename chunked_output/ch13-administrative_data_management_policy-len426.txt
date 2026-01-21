@@ -1,0 +1,4 @@
+specific policies implementing data access and security, including those developed by functional areas
+shall be reviewed by the data management committee to ensure consistency with this policy. 4. training – before an individual is permitted access to administrative data in any form, training in the
+use and attributes of the data, functional area data policies, and university policies regarding data is
+strongly encouraged.

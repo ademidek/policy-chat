@@ -1,0 +1,5 @@
+in order that the proper controls are applied, it is the responsibility of each person
+accessing administrative data to:
+a. know the classification of the administrative data being used. b.
+
+follow the appropriate security measures. c. consult related policies for further information.

@@ -1,0 +1,5 @@
+responsibility of contract approvers
+contract approvers are responsible for:
+1. reading and reviewing each contract received;
+2. ensuring that the contract meets the business needs of the university; and
+3.

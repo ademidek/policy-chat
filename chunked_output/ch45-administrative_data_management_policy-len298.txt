@@ -1,0 +1,6 @@
+data steward(s): asst. vp systems and networks (troy boroughs*), asst
+vp telecom, media and user services (mark nichols)
+c. data stewardship domains: identity data (netid, urid, network passwords, ur
+email addresses, dns names), ur phone numbers, computing assets
+14) faculty administrative data
+a.

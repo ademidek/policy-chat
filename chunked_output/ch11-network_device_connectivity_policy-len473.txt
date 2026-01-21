@@ -1,0 +1,6 @@
+in order to protect the integrity of the
+campus network and the connected users, systems, data and devices, network services reserves the right
+to remove any device from the campus network that does not meet the requirements or to move it to the
+restricted network. network connected devices are divided into classes, based on the definitions in this policy. these devices
+must meet the network security requirements enumerated in the network device connectivity standard
+.

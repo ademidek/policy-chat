@@ -1,0 +1,11 @@
+. policy for payment card acceptance and security
+d. privacy of student records (ferpa) policy
+e. identity theft prevention program (red flags rule)
+f. legal notice - privacy policy
+policy background:
+revision history: new policy 5/14/2018
+revised related policies 02/24/2021
+revised nist 800-53 standard version on 08/07/2025
+policy contacts:
+vice president and chief information officer, information services
+director of information security, information services

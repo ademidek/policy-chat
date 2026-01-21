@@ -1,0 +1,80 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+the university of richmond is committed to protecting student privacy for students enrolled in distance
+education courses.
+scope:
+this policy applies to the education records of all current and former students of the university of richmond.
+faculty, staff and students of the university are expected to comply with this policy.
+index:
+acd-2005.1 ......definitions
+acd-2005.2 ......policy statement
+acd-2005.3…..applicable regulations & accreditation standards
+policy statement:
+acd-2005.1 – definitions
+student
+any person who attends or has attended the university of richmond whether physically present on a campus
+or online and regarding whom the university maintains education records.
+policy #: acd-2005
+policy title: policy on protecting student privacy in distance
+education
+effective: 1/15/2023 responsible office: registrar's office
+date
+approved:
+1/10/2023 approval: evp and provost
+replaces
+policy dated:
+responsible
+university official:
+university registrar
+
+acd-2005 - policy on protecting student privacy in distance education
+university of richmond | 2
+acd-2005.2 – policy
+the university is committed to protecting student privacy, regardless of the modality of the course in which a
+student is enrolled. university policies regarding student privacy and information security that apply generally
+to students and courses apply without regard to teaching modality; those privacy and information security
+policies apply to all students and courses, including distance education courses.
+student privacy in online settings and distance education courses are protected through the use of secure user
+names and passwords and the university's use of secure technologies and multi-factor identification to access
+those technologies.
+university personnel are required to follow university and ferpa guidelines for sharing student educational
+record information with other faculty, staff, parents, or others outside of the university. in addition to adhering
+to privacy protections that apply to all students (including the university's ferpa policy), faculty teaching
+distance education courses must:
+• use the university's lms (blackboard) to teach all distance education courses in order to ensure the
+security of student course material, communication, student work submission, and grades. instructors are
+required to use blackboard to post course material, send announcements, facilitate collaboration among
+students, collect student work, deliver tests and quizzes, and post grades.
+• use the university's secure bannerweb site to report student grades.
+• use blackboard or the university's email system for all official, confidential communication such as
+providing feedback on student work, releasing grade information to students, etc.
+• keep student work, scores, or grades confidential. students in the course must not have access to other
+students' work or grades.
+• keep blackboard or ur email account information secure, not share login information with anyone,
+give anyone unauthorized access to the blackboard course or assign a student the role of instructor or
+graduate assistant in blackboard.
+• ensure that any other form of communication or collaboration software used in the class conforms to
+university standards for protecting student privacy
+at the discretion of the faculty, any student enrolled in a distance education course may be required to
+undertake a video interview or exam, when a photo id will be required.
+acd-2005.3 – applicable regulations & accreditation standards
+family educational rights and privacy act (ferpa) (20 u.s.c. § 1232g; 34 cfr part 99)
+code of virginia: § 23.1-405. student records and personal information; social media
+sacscoc standard 10.6
+related policies:
+acd-2004: privacy of education records (ferpa) policy
+irm 2001: acceptable use policy
+irm 3002: official university communications policy
+
+acd-2005 - policy on protecting student privacy in distance education
+university of richmond | 3
+irm 4001: password policy
+irm 4004: data security policy
+irm 4006: general data privacy regulation (gdpr) privacy notice
+policy background:
+longstanding practice codified in policy library january 2023.
+policy contacts:
+university registrar, registrar's office
+director of information security, network services

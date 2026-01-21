@@ -1,0 +1,11 @@
+while the university utilizes a
+centralized mechanism for the provisioning and de-provisioning of access, each department within the
+university still maintains access authority over their designated areas. requests for access to certain areas on
+campus will need to be approved. index:
+sec-2005.1 .......definitions
+sec-2005.2 .......policy statement
+sec-2005.3 .......roles & responsibilities
+policy statement:
+sec-2005.1 – definitions
+electronic card access
+one card services administers the university of richmond's centralized electronic door access program.

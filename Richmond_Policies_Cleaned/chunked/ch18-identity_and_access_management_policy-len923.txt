@@ -1,0 +1,14 @@
+. application owners shall have the following responsibilities:
+• manage and maintain all local accounts required on software applications or computer systems
+that they administer (i.e., provisioning, deprovisioning, auditing, etc.)
+
+irm-4009 – identity and access management policy
+university of richmond | 6
+• review and approve requests for access to software applications or computer systems that they
+administer.
+data stewards – data stewards are typically senior operational managers in a functional area responsible
+for a data stewardship domain as defined by the university's administrative data management policy.
+data stewards shall have the following responsibilities:
+• review and approve requests for access to data in their assigned data stewardship domain.
+data management committee – the data management committee (dmc) is a university-wide
+committee primarily composed of data stewards and data supervisors

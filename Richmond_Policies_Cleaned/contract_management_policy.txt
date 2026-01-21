@@ -1,0 +1,253 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+the purpose of this policy is to ensure that the university of richmond manages the risk associated with legal
+agreements and safeguards its assets by providing clear direction to the university community.
+scope:
+this policy applies to the university of richmond, and its affiliates, unless an exemption has been granted by
+the executive vice president and chief operating officer, and entities utilizing funds administered by the
+university.
+the policy applies to all binding contractual commitments made by or on behalf of the university of
+richmond and/or its affiliates.
+index:
+fin-4408.1 ................definitions
+fin-4408.2 ................overview
+fin-4408.3 ................contracts
+fin-4408.4………….legal and risk management review
+fin-4408.5 ................signature authority
+fin-4408.6................ contract management system
+fin-4408.7 ................compliance and monitoring
+fin-4408.8 ............... roles and responsibilities
+policy statement:
+this policy and the related policies referenced below must be followed when creating, approving, signing, and
+managing contracts.
+policy #: fin-4408
+policy title: contract management policy
+effective: 07/01/2018 responsible office: business affairs
+date approved: 06/22/2018 approval: executive vice president & chief operating officer
+replaces policy
+dated:
+n/a responsible
+university official:
+director, procurement
+
+fin-4408 – contract management policy
+university of richmond | 2
+fin-4408.1 – definitions
+contract
+a contract is a binding commitment by or on behalf of the university that is in oral or written form, regardless
+of the title of the operative document or documents. for purposes of this policy, the term "contract" includes
+but is not limited to contracts, agreements, leases, memoranda of understanding ("mou"), gift agreements,
+mutual aid agreements, settlement agreements, resolution agreements, letter agreements, and binding letters of
+intent.
+contract management
+contract management is the process of creating, negotiating, approving, executing, and implementing a
+contract. this includes ensuring that deliverables, deadlines and contract terms and conditions are met;
+addressing related problems; incorporating changes or modifications to the contract; and ensuring both parties
+meet their obligations under the terms of the agreement.
+contract management system
+the university's contract management system (cms) is the system of record for all university contracts.
+as of the effective date of this policy, the cms uses the esm solutions contract management platform
+(esm).
+contract approver
+the contract approver is the university employee responsible for approving or rejecting requests for
+contracts and contract terms and conditions that fall within the realm of their responsibility. contract
+approvers are able to view, edit, create, and update contract information in the cms and attach related
+documentation for their department or division. contract approvers are also able to approve, reject, or put on
+hold contracts in the cms. contract approvers are responsible for reading and approving the terms of all
+contracts within their scope of responsibility.
+contract manager
+the university employee responsible for managing the ongoing relationship with the vendor including
+implementation, renewal, and support. this person is responsible for ensuring that the university's rights and
+obligations under the contract are met. contract managers can view, create and submit contracts for approval,
+as well as update contract information and attach related documentation for their department or division.
+contract requestor
+the university employee who can create a contract record within the cms and submit a contract for review.
+contract signer
+the university employee responsible for approving and signing contracts on behalf of the university, as
+defined in the university's delegation of contract approval and signature authority policy. these
+individuals are the only persons with the authority to contractually bind the university. they are able to view,
+edit, approve, reject and put on hold contracts within the cms.
+vendor/third-party contract form
+a vendor/third-party contract form is a contract written using a form provided to the university by a vendor
+or other third party that is written by a vendor, or another party, which may deviate from the university's
+standard terms and conditions.
+
+fin-4408 – contract management policy
+university of richmond | 3
+ur contract form/template
+a ur contract form/template is a contract written using a university' approved contract template or form.
+the university's approved contract templates are available in the cms system.
+vendor
+a vendor is the party with whom the university contracts to provide the goods and/or services identified in a
+contract.
+fin-4408.2 – overview
+the policy provides guidance on managing contractual obligations of the university of richmond. all
+contractual obligations must be authorized at the appropriate level within the university, as identified by the
+university's board of trustees, the executive vice president and chief operating officer and the vice
+president and general counsel. this policy must be read in conjunction with the policies listed in the
+related policies and procedures section of this document.
+fin-4408.3 – contracts
+not all university purchases require a written contract. however, when a written contract is required by
+either party, the contract must be reviewed and approved in compliance with this policy and the funding
+source must be clearly identified prior to contracting. an exchange of correspondence, including emails, can
+also create a binding contract.
+individuals may contractually obligate the university only if they have been given
+specific authority as outlined in the delegation of contract approval and signature authority policy.
+1. all contracts must be in writing and signed by both the contract signer and the vendor in order to be fully
+enforceable.
+2. the contract must list the legal name and address of the vendor and the terms must be clearly specified,
+e.g., length of contract, cost, deliverables.
+3. ur contract forms/templates contain the university's standard terms and conditions and must be used to
+the fullest extent possible.
+4. see section 4408.4 of this policy to determine when legal and/or risk management review of a contract is
+required under this policy
+5. contract approval and signature authority has been defined by the university and is outlined in the
+delegation of contract approval and signature authority policy
+6. ur contract forms/templates are regularly reviewed and approved by the vice president and general
+counsel. approved ur contract forms/templates are available in the cms.
+7. throughout the lifecycle of a contract, actions related to the terms and conditions of the contract must be
+noted and/or documented within the cms by the contract manager.
+
+fin-4408 – contract management policy
+university of richmond | 4
+this policy must be read in conjunction with the university's procurement policy and must be adhered to at
+all times
+under certain circumstances, a written contract may not be required in order to purchase goods or services. in
+the following instances, a contract is not required:
+• consortium contracts – purchases of goods or services made under a contract between a vendor and a
+consortium of which the university is a member do not require a separate contract between the
+university and the vendor.
+• state contracts – purchases of goods or services made under a contract between a vendor and an agency
+of the commonwealth of virginia, which the university is entitle to use, do not require a separate
+contract between the university and the vendor.
+• outside catering – catering arrangements with an outside for on-campus events with a total value of
+$5,000 or less do not require a written contract all outside caterers, however, must be an approved
+vendor through campus services. see the approved dining and events vendors list at the following:
+http://events.richmond.edu/events/index.html.
+• restaurants – group dinners under $5,000 do not require a contract
+• outside venue reservations. single room hotel reservations do not require a contract. however, when
+reserving a block of rooms, or event space and/or catering, a contract is required.
+fin-4408. 4 – legal and risk management review
+1. legal review. except as specifically exempted below, all university contracts must be reviewed by the
+vice president and general counsel or by outside counsel approved by the vice president and general
+counsel. the following contracts do not require legal review:
+• contracts written using a ur contract form/template, provided that there are no changes made to the terms
+and conditions of the ur contract form/template;
+• contracts written using a vendor/third party contract form when:
+o the total value of the contract is less than $10,000,
+o the subject of the contract does not involve unique risks, including the risk of harm to individuals or
+damage to property,
+o the contract does not provide the vendor with access to the university data, or
+o the contract does not involve the t ransfer or licensing of university intellectual property, including
+copyrights, patents, trademarks, word marks, or logos;
+• contracts with hotels or other event venues written using the vendor's standard form and which contain
+no unusual provisions shifting risk to the university.
+university faculty and staff may contact the vice president and general counsel or her designee if they have
+questions about whether a contract requires legal review.
+
+fin-4408 – contract management policy
+university of richmond | 5
+2. risk management review. contracts must be reviewed and approved by the university's director of risk
+management under the following circumstances:
+• the vendor seeks to reduce or modify the insurance policy types and coverage limits specified in a ur
+contract form/template;
+• the contract involves the purchase of any type of insurance or surety bond;
+• the subject of the contract involves potential risk of harm to individuals or damage to property;
+• the vendor seeks to include obligations on the part of the university to maintain specific insurance
+policies or coverage limits or requires the university to name the vendor as an additional insured on the
+university's insurance policies.
+fin-4408.5. – signature authority
+only individuals identified in the contract approval and the signature authority policies have the authority to
+approve and sign contracts on behalf of the university. this individual is legally obligating the university to
+perform under the terms of the contract.
+this contracting authority differs from payment approval. designated personnel who are in a position to know
+that the goods were received or the services were performed may authorize payments made under an
+appropriately approved contract.
+fin-4408.6 – contract management system
+the university's contract management system is the official system for tracking the life cycle of all university
+contracts and provides a workflow for the approval of contracts based on contract type.
+1. this system serves as the central repository for all university contracts and related documentation.
+2. authorized users are assigned roles within the system based on several factors, including job responsibility,
+as identified in the delegation of contract approval and signature authority policy.
+3. system access is provided only after a user has undergone cms training.
+4. this system shall be utilized for all university contracts.
+5. a contract record for each contract must be created in the system at the beginning of the contract
+preparation process, according to the contract management procedures. all subsequent activity, including
+amendments and addenda, must be linked to this record in order to provide a complete history.
+6. departments are expected to upload current, active contracts that predate the system implementation, along
+with any related documentation, to the cms.
+7. the contract manager is responsible for ensuring the contract information is entered and the document and
+related supporting documentation is uploaded.
+fin-4408.7 compliance and monitoring
+the contract manager, or individual(s) that works regularly with a vendor with whom the university has a
+contract, is responsible for administering the contract for the purposes of compliance with the terms,
+notification of actions, and for making business decisions based on the performance of the contract.
+contract managers shall record changes, renewals, addenda and amendments to contracts within the cms.
+
+fin-4408 – contract management policy
+university of richmond | 6
+fin-4408.8 – roles and responsibilities
+all individuals responsible for the purchase of goods and services on the university's behalf must be familiar
+with contracting requirements and this policy.
+responsibility of contract requestor
+contract requestors are responsible for inputting the contract record into the cms.
+responsibility of the contract manager
+contract managers are identified by their department head and shall be adequately skilled in contract
+management according to the level and complexity of the contract. the contract manager is responsible for:
+1. administering the contract and contract record in cms;
+2. understanding the terms of the contracts, including the business terms, scope of work and/or services, and
+high level legal terms and actionable tasks, such as the notice period for contract renewal or cancellation;
+3. monitoring the performance by both the university and the vendor of the obligations under the contract;
+4. managing the relationship between the vendor and the university;
+5. ensuring charges are appropriate and payment is made in accordance with the terms of the contract; and
+6. identifying the funding source for the purchase.
+7. uploading the fully executed contract and related documentation into the cms and recording the contract
+status.
+responsibility of contract approvers
+contract approvers are responsible for:
+1. reading and reviewing each contract received;
+2. ensuring that the contract meets the business needs of the university; and
+3. understanding the business terms and conditions of the contract.
+responsibility of contract signer
+the contract signer is responsible for:
+1. reading and understanding the contract's business terms and conditions;
+2. ensuring the vendor has signed the agreement; and
+3. physically or electronically signing the contract and approving it in the cms.
+responsibility of vice president and general counsel
+the vice president and general counsel is responsible for:
+1. developing standard university terms and conditions;
+2. reviewing and approving ur contract forms/templates;
+
+fin-4408 – contract management policy
+university of richmond | 7
+3. legal review of vendor contract forms and proposed changes to ur contract forms/templates;
+4. selecting and approving outside counsel to review and negotiate contracts on behalf of the university; and
+5. ensuring conformity with applicable laws and regulations.
+responsibility of procurement & strategic sourcing
+the procurement and strategic sourcing office is responsible for:
+1. negotiating contracts;
+2. administration of the cms;
+3. training of system users;
+4. ensuring that the university's procurement policies are being followed by contract managers; and
+5. serving as contract managers on various contracts.
+responsibility of accounts payable
+the accounts payable office is responsible for reviewing payment requests prior to processing to ensure:
+1. all required signatures are on the request;
+2. index and account coding is on the request; and
+3. payment is reviewed and processed within the payment terms.
+responsibility of internal audit
+internal audit is responsible for providing periodic review for compliance with this policy.
+related policies and procedures:
+fin-4403 – procurement policy
+fin-4409 – delegation of contract approval and signature authority policy
+contract management procedures
+procurement procedures
+policy background:
+non-substantive changes made on february 14, 2022 to update division name (business and finance to
+business affairs)
+non-substantive changes made in november 2023 to update departments and titles.
+policy contacts:
+director, procurement, office of procurement
+purchasing manager, office of procurement

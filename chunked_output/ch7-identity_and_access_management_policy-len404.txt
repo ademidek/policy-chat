@@ -1,0 +1,4 @@
+directory services are used to provision user accounts, manage
+access privileges and monitor and control access to software applications. active directory and openldap
+are two examples of directory services. entitlements: entitlements, also known as authorizations, privileges, or permissions, are access policies used
+to manage electronic access to data, information services, and software applications.

@@ -1,0 +1,11 @@
+irm-4007 – administrative data management policy
+university of richmond | 3
+individually identifiable data shall be available to the extent necessary to perform administrative tasks;
+unit record data will be provided only when aggregate data or other alternatives cannot effectively meet
+the business need. the data management committee is responsible for ensuring that procedures are
+developed by functional offices to address those cases in which a member of the university community
+seeks permission to access administrative data beyond that which is needed for the normal
+performance of their duties. because no computer system is completely immune from unauthorized access or attempted access
+(e.g., "hacking"), applying layered security controls (e.g., multiple levels of access permissions) will
+better safeguard university computers and our ever-expanding body of administrative data, which is
+often sensitive.

@@ -1,0 +1,4 @@
+added definition for "vendor" that aligns
+with the contract management policy. updated suggestive language to be directive by
+replacing "should" with "shall" throughout the policy. added explicit reference to gramm-
+leach-bliley act (glba) for restricted data.

@@ -1,0 +1,14 @@
+index:
+acd-5101.1 ......background
+policy #: acd-5101 policy title: intellectual property
+effective: 12/13/2002 responsible office: foundation, corporate, and government
+relations
+date
+approved:
+12/13/2002 approval: board of trustees
+replaces
+policy dated:
+05/10/2002 responsible
+university official:
+assistant vice president of foundation,
+corporate, and government relations

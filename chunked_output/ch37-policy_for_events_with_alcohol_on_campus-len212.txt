@@ -1,0 +1,3 @@
+this area must have some type of physical barrier at which all
+access and egress is controlled. this may include a partition, a roped area, a separate room,
+etc. only individuals of legal age may enter this area.

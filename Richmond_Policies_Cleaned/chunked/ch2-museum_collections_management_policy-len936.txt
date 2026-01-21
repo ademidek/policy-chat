@@ -1,0 +1,30 @@
+acd-8101.7...........access
+acd-8101.8...........documentation
+acd-8101.9...........copyright
+acd-8101.10.........insurance and risk management
+acd-8101.11.........acquisition
+acd-8101.12.........temporary custody
+policy #: acd-8101
+policy title: museum collections management policy
+effective: 07/17/2024 responsible office: university museums
+date
+approved:
+07/17/2024 approval: executive vice president & provost
+replaces
+policy dated:
+09/01/2013 responsible
+university official:
+executive director, university museums
+
+acd-8101 – museum collections management policy
+university of richmond | 2
+acd-8101.13.........accession
+acd-8101.14.........deaccession
+acd-8101.15.........disposal
+acd-8101.16.........incoming loans
+acd-8101.17.........outgoing loans
+acd-8101.18.........personal collections
+acd-8101.19.........appraisals and identification
+acd-8101.20.........revision and compliance
+policy statement:
+acd-8101.1 – definitions

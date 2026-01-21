@@ -1,0 +1,9 @@
+least privilege: the principle of least privilege dictates that users should be granted the minimum necessary
+access rights to perform their tasks and nothing more. this security concept aims to minimize potential
+damage from compromised accounts, accidental errors, or malicious attacks by limiting the scope of
+permissions. multi-factor authentication (mfa): multi-factor authentication (mfa) is a security measure that requires
+users to provide more than one form of identification to access an account or system.
+
+mfa is a layered
+approach to security that makes it harder for unauthorized users to gain access to a system, even if one
+credential is compromised.

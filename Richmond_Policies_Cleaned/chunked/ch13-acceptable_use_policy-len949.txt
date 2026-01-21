@@ -1,0 +1,12 @@
+. users
+must report any occurrences to the data owner or to the director of information security.
+the foregoing is not an all-inclusive list; the university reserves the right to determine what uses of its
+equipment and facilities fall within the bounds of the business and mission of the university. report
+abuses of information or computing resources to the appropriate information services administrator or to
+epolicy@richmond.edu.
+3. e-mail and other electronic communications
+e-mail, text messaging, instant messaging, and other applications are used by most members of the
+university community. however, all users should understand the limitations of privacy and confidentiality
+related to them. they should not be used for confidential communication or the transmission of sensitive
+data. see the university's data security policy for additional information.
+e-mail messages are written records that could be subject to review with just cause

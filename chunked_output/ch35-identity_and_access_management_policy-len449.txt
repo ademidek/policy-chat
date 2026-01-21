@@ -1,0 +1,5 @@
+application owners – for purposes of this policy, application owners are typically operational managers
+in a functional area responsible for the administration of a departmental software application or
+computer system. application owners shall have the following responsibilities:
+• manage and maintain all local accounts required on software applications or computer systems
+that they administer (i.e., provisioning, deprovisioning, auditing, etc.)

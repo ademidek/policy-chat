@@ -1,0 +1,13 @@
+. the external party must acknowledge receipt of the data. one best practice approach is to create a cd
+with the encrypted data on it and then to use an overnight shipping company to send it, requesting a
+return receipt. e-mail acknowledgements are also acceptable although not preferred.
+4. the data must be verified as secure by an authoritative member of information services before the
+transfer occurs. the director of information security or designees can provide this service. the data
+must be securely archived so that in event of an issue, the university can verify the exact contents of
+the data shared.
+irm-4005.3 – applicable regulations and accreditation standards
+a. red flags rule of the fair and accurate credit transaction act of 2003 (fact act), public law 108-
+159, section 114
+b. family educational rights and privacy act (ferpa) (20 u.s.c. § 1232g; 34 cfr part 99)
+c. health insurance portability and accountability act of 1996 (hipaa), public law 104-191
+d

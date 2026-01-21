@@ -1,0 +1,4 @@
+campus network
+the campus network is designed with logical and physical segmentation. technical controls are applied
+to groups of users and systems to ensure data confidentiality, integrity, and availability. security controls
+are placed on many shared access segments to mitigate the spread of malicious traffic.

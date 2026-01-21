@@ -1,0 +1,10 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+the university of richmond knows the importance of protecting the sensitive data that is entrusted to it. in
+order to fulfill the mission and business operations of the university, this data may be shared with external
+parties. this policy governs the ad-hoc or one-time transmission to external vendors, consortiums,
+companies, or individuals of university of richmond sensitive data as defined in the data classification
+standard or any other university-maintained data whose disclosure would be seen as causing harm to the
+university.

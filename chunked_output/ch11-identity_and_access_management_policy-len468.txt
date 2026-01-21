@@ -1,0 +1,6 @@
+irm-4009 – identity and access management policy
+university of richmond | 3
+permissions: specific operations or actions that an authenticated user or entity is allowed to perform on a
+resource or system. permissions are a fundamental part of authorization, which determines what an
+authenticated user can do, after authentication verifies who they are. permissions are typically assigned to
+roles, which are then assigned to users, creating a system of access control.

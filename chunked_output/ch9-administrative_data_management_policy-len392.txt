@@ -1,0 +1,4 @@
+administrative data must be safeguarded to maintain the confidentiality and privacy of
+personally identified and personally identifiable information in accordance with university
+policies. 2. data classification – administrative data is categorized as confidential, restricted, official use only
+or public following the university's data security policy and must be safeguarded appropriately.

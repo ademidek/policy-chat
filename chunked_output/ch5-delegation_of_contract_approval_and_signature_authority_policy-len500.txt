@@ -1,0 +1,8 @@
+contract approval
+contract approval is the process of approving or rejecting requests for contracts and contract terms and
+conditions. contract approval authority is not contract signature authority. individuals with the authority to
+approve contracts are responsible for:
+• determining the business need for the contract,
+• reading and understanding the contract,
+• ensuring the contract, as written, addresses the university's business need, and
+• approving or rejecting the key terms of contracts.

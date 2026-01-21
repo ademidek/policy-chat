@@ -1,0 +1,89 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+the university of richmond knows the importance of protecting the sensitive data that is entrusted to it. in
+order to fulfill the mission and business operations of the university, this data may be shared with external
+parties. this policy governs the ad-hoc or one-time transmission to external vendors, consortiums,
+companies, or individuals of university of richmond sensitive data as defined in the data classification
+standard or any other university-maintained data whose disclosure would be seen as causing harm to the
+university.
+scope:
+this policy applies to the data transfer of restricted or confidential data to an external party performed on a
+manual, ad-hoc, or one-off basis. data transfers that occur on an ongoing basis are subject to separate policies
+and procedures per the data security policy.
+index:
+irm-4005.1 .......definitions
+irm-4005.2…...policy statement
+irm-4005.3…...applicable regulations and accreditation standards
+policy statement:
+irm-4005.1 – definitions
+confidential information – sensitive information that must be safeguarded in order to protect the privacy of
+individuals and the security and integrity of systems and to guard against fraud.
+policy #: irm-4005 policy title: external data transfer policy
+effective: 10/6/2020 responsible office: information services
+date
+approved:
+10/06/2020
+approval: vice president for information services and
+chief information officer
+replaces
+policy dated:
+10/17/2013 responsible
+university official:
+vice president for information services and
+chief information officer
+
+irm-4005 – external data transfer policy
+university of richmond | 2
+restricted information – includes all data, records, documents or files that contain information that is: (a)
+required to be maintained confidentially under any applicable law, regulation or university policy; (b) subject
+to a contractual obligation to maintain confidentially; (c) subject to any applicable legal privilege or
+protection, such as the attorney-client privilege; and/or (d) deemed by the university to be a trade secret,
+confidential or proprietary.
+user – any individual, including but not limited to faculty, student, staff, contractors, and visitors who has
+access and uses university information resources, systems, or data.
+irm-4005.2 – policy statement
+the university will only transfer confidential or restricted data to external parties if the owner of the data
+explicitly approves its transfer. the data owner is the data trustee (or their designee, as defined by the
+administrative data steward list) who has direct authority over and full responsibility for the data—not the
+internal users of that data.
+1. this data must be encrypted during transfer and at rest using an encryption strength of aes128, at a
+minimum. the preferred encryption strength is aes 256 bit or better. this can be achieved using
+encrypted zip files. if the data is being transferred via web upload, the in-transit encryption should be
+tls 1.2 (weak ciphers disabled) or tls 1.3.
+2. the encryption key to the encrypted data must be transferred out of bounds. that is it cannot be
+transferred using the same mechanism as the data. for instance, if the data is sent via e-mail, the key
+must be exchanged via phone or letter.
+3. the external party must acknowledge receipt of the data. one best practice approach is to create a cd
+with the encrypted data on it and then to use an overnight shipping company to send it, requesting a
+return receipt. e-mail acknowledgements are also acceptable although not preferred.
+4. the data must be verified as secure by an authoritative member of information services before the
+transfer occurs. the director of information security or designees can provide this service. the data
+must be securely archived so that in event of an issue, the university can verify the exact contents of
+the data shared.
+irm-4005.3 – applicable regulations and accreditation standards
+a. red flags rule of the fair and accurate credit transaction act of 2003 (fact act), public law 108-
+159, section 114
+b. family educational rights and privacy act (ferpa) (20 u.s.c. § 1232g; 34 cfr part 99)
+c. health insurance portability and accountability act of 1996 (hipaa), public law 104-191
+d. payment card industry data security standard (pci dss)
+e. sacscoc principles of accreditation 10.6 (distance and correspondence education)
+related policies:
+information security policy
+acceptable use policy
+data security policy
+data security standard
+data classification standard
+administrative data management policy
+
+irm-4005 – external data transfer policy
+university of richmond | 3
+policy background:
+initial policy created july 12, 2007
+updated encryption strength october 17, 2013
+added web upload mechanism and encryption strength for data transfers october 2020.
+reviewed by it governance committee and president's cabinet prior to approval, on october 6, 2020
+policy contacts:
+vice president for information services and chief information officer
+director of information security

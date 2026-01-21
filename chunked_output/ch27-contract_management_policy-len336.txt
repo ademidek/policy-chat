@@ -1,0 +1,4 @@
+authorized users are assigned roles within the system based on several factors, including job responsibility,
+as identified in the delegation of contract approval and signature authority policy. 3. system access is provided only after a user has undergone cms training.
+
+4. this system shall be utilized for all university contracts. 5.

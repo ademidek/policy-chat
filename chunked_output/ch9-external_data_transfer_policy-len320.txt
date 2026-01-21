@@ -1,0 +1,4 @@
+the data must be verified as secure by an authoritative member of information services before the
+transfer occurs. the director of information security or designees can provide this service. the data
+must be securely archived so that in event of an issue, the university can verify the exact contents of
+the data shared.

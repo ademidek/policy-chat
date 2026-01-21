@@ -1,0 +1,7 @@
+this policy is supplemented by an internal incident response plan (ir plan)
+developed and maintained in alignment with the national institute of standards and technology (nist)
+special publication 800-61 "computer security incident handling guide." the ir plan contains detailed
+procedures and guidelines for incident response handling at the university. irm-4002.3 –record retention
+incident documentation and evidence will be maintained for five (5) years after the issuance of the final
+incident report. if the incident pertains to data or systems that fall under a regulatory retention period that
+exceeds five (5) years, the regulatory retention period will take precedence.

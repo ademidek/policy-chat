@@ -1,0 +1,4 @@
+information services staff will provide guidance regarding the use of record
+identifiers. 6. vendors who host or process confidential or restricted information shall periodically complete an
+independent audit using an established security framework (e.g., nist 800-53, iso 270001,
+hitech, etc.) to validate the effectiveness of their information security controls.

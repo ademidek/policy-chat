@@ -1,0 +1,4 @@
+the process can be
+automated or manual, or a mixture of both. directory services: systems for storing and maintaining information about identities and resources. directory
+services are often referred to as directories, user stores, or identity stores, and they store information such as
+usernames, passwords, and user preferences.

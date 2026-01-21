@@ -1,0 +1,3 @@
+all e-mail sent through the university's systems and networks must accurately show from whom the e-
+mail originated. the university may employ automated systems to reduce the amount of unwanted "junk" mail. it is
+known that this may on occasion reject a valid e-mail.

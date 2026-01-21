@@ -1,0 +1,13 @@
+. the restricted network is comprised of devices that would normally pose a
+vulnerability to other users, data, and applications. the restricted network allows aging technology to
+continue to run on a short-term basis, until it is upgraded or replaced, by restricting the ability of devices
+to connect to services on the campus network.
+visitor network
+the university provides an anonymous and unencrypted wi-fi network for visitors. there may be some
+restrictions regarding access to university and internet resources on the visitor network.
+classification of networked devices
+workstations
+workstations are general use devices that run microsoft windows, macos, or linux operating systems.
+servers
+servers are devices that provide shared resources such as file shares, printers, or an application to one or
+more users over the network

@@ -1,0 +1,6 @@
+irm-3001– network device connectivity policy
+university of richmond | 4
+visitor network
+faculty, staff, and students should not connect devices to the visitor network. visitor devices include any
+workstation or smart device brought to campus by a visitor of the university. visitors are not permitted to
+connect servers or embedded devices to the visitor network.

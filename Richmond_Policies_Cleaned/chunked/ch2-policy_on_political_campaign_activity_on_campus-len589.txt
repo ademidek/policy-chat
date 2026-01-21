@@ -1,0 +1,12 @@
+. all students,
+faculty, and staff are free to express political opinions and engage in political activities in their individual
+capacities, but should avoid the appearance that they are speaking or acting on behalf of the university in
+political matters.
+this policy does not apply to campaigns for student government offices.
+index:
+gov-4001.1......definitions
+gov-4001.2…..policy
+policy statement:
+gov-4001.1 – definitions
+1. candidate: an individual who offers themselves or is proposed by others as a candidate for an elective
+public office, whether a national, state, or local office

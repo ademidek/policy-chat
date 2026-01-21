@@ -1,0 +1,12 @@
+. this includes e-mailing political messages to any list service
+maintained by the university which is not explicitly purposed for the posting of political messages.
+• interfere with the proper functioning of the university of richmond wired or wireless network. in
+particular users may not perform service denial attacks and users may not install their own network
+equipment on campus. see the wireless access policy.
+• use university of richmond it systems to distribute, produce, publish, and/or sell obscene or
+illegal content.
+2. information security and privacy
+the university takes information security and privacy very seriously for all of its members as well as all
+of its systems.
+the university is the owner of all administrative data; individual units or departments have stewardship
+responsibilities for portions of that data

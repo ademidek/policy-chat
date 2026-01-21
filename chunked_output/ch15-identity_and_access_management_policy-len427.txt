@@ -1,0 +1,5 @@
+user accounts: when supported by the system or application, all user accounts should be
+created centrally in the directory services repositories hosted by information services. if the
+system or application does not support central authentication, then accounts may be created
+locally, in which case the creation, deletion, and maintenance of local accounts is the sole
+responsibility of the appropriate application owner(s). b.

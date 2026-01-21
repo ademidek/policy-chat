@@ -1,0 +1,5 @@
+employee: (a) whose communications are privileged and confidential under federal or state law and
+who received information in the scope of their duties to which the privilege applies; (b) designated by
+the university to provide services to persons relating to sex discrimination who receives information
+while providing such services; or (c) who is conducting an institutional review board- approved
+human subject research study about sex discrimination

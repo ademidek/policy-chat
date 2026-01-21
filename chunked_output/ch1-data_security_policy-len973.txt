@@ -1,0 +1,22 @@
+university of richmond | 1
+university of richmond
+policy manual
+policy #: irm-4004 policy title: data security
+effective: 08/05/2024 responsible office: information services
+date
+approved:
+08/05/2024 approval: vice president for information services and
+chief information officer
+replaces
+policy dated:
+09/11/2015 responsible
+university official:
+vice president for information services and
+chief information officer
+purpose:
+this document describes the data security policy for all data created or utilized at or by the university of
+richmond. it defines this data, classifies it and details the requirements for its collection, storage, access, use,
+confidentiality, disclosure and transmission in addition to specifying the requirements of university personnel
+in its security, the levels of privacy of stored e/voice-mail and files and the steps to be taken in case of a data
+exposure. scope:
+this policy applies to the university of richmond and all of its affiliates.

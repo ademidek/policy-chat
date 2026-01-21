@@ -1,0 +1,6 @@
+smart devices
+a smart device is typically a general-purpose computing device that has multiple functions, but unlike a
+traditional desktop or laptop, it is usually much smaller and more mobile. embedded devices
+an embedded device generally contains a special-purpose operating system. the device is typically
+dedicated to a small set of tasks and is usually "headless" meaning there is no person directly operating the
+device.

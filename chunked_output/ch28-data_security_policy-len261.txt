@@ -1,0 +1,4 @@
+irm-4004 – data security
+university of richmond | 6
+that device must be password/passcode protected and encrypted (e.g., microsoft bitlocker or apple
+filevault) at all times. c. transmission of electronic confidential or restricted information to third parties.

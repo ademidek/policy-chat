@@ -1,0 +1,10 @@
+index:
+fin-15001.1 ................................................................................................................................ policy statement
+fin-15001.2 .......................................................................... applicable regulations & accreditation standards
+policy statement:
+fin-15001.1 – policy
+the university's annual endowment spending distribution shall be determined each year based on the sum
+of a two-part, weighted calculation:
+market-value based component — this amount is calculated by determining the average endowment
+market value at june 30 for the preceding five years, lagged by one year, and multiplying that average value
+by five percent (5%).

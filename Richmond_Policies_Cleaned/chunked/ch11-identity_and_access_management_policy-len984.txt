@@ -1,0 +1,14 @@
+. however, central authentication is always preferred. the operational department creating
+local accounts must define the procedures by which local accounts will be approved and created. the
+procedures must be consistent with this policy as well as with the university's acceptable use policy
+.
+3. authorization
+the management and maintenance of authorizations is a shared responsibility of information services
+and local application administrators and data stewards. all authorizations must be granted in accordance
+with the concept of least privilege. only authorizations that are necessary to perform job tasks should be
+granted. all others should be denied/disabled.
+4. provisioning
+a. birthright entitlements: when an account is created in the university's central identity system,
+certain authorizations are immediately created with it, such as the ability to authenticate against
+ur's enterprise authentication systems, access to ur's data network, and several online
+resources

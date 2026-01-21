@@ -1,0 +1,8 @@
+(c) "controller" as the
+entity that determines the purposes and means of the processing of personal data, (d) "processor" as the entity
+that processes personal data on behalf of the controller, and (e) "data subject" as a natural person who is
+identified, or can be identified, by reference to his or her personal data. irm-4006.2 – data protection officer
+richmond is not a public authority or body. at present, richmond's core activities do not include the regular
+and systematic monitoring of data subjects on a large scale, nor does it process on a large scale either special
+categories of data (as described in gdpr article 9) or personal data relating to criminal convictions and
+offenses (as described in gdpr article 10).

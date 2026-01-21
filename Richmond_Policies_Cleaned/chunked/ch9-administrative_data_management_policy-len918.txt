@@ -1,0 +1,11 @@
+. follow the appropriate security measures.
+c. consult related policies for further information.
+specific policies implementing data access and security, including those developed by functional areas
+shall be reviewed by the data management committee to ensure consistency with this policy.
+4. training – before an individual is permitted access to administrative data in any form, training in the
+use and attributes of the data, functional area data policies, and university policies regarding data is
+strongly encouraged. the data stewards shall establish the appropriate levels of training for all such
+individuals within their units.
+5. integrity, validation, and correction – administrative data must be safeguarded and managed in all
+formats and media (e.g., print and digital), at all points of access, and in all locations (both on-campus
+and off-campus) through coordinated efforts and shared responsibilities

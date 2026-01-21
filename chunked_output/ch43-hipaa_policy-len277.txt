@@ -1,0 +1,4 @@
+the library is located in
+box for internal access. outdated and superseded materials from the security documentation library
+will be kept in an archive (the security documentation archive) for at least six (6) years after the date
+when they are first outdated or superseded. b.

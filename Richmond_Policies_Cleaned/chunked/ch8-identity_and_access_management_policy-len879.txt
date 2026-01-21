@@ -1,0 +1,12 @@
+. the process can be automated or manual, or a mixture of both.
+service accounts: a service account is used when it is necessary for electronic systems or software
+applications to authenticate to other electronic systems or software applications without any association with a
+person.
+user accounts: a user account is a unique identity assigned to a specific person that allows that person to
+access a computer, network, or software application. the account may either exist in a central repository to
+which software applications may connect to consume identity and authentication information, or it may be
+managed locally on an information system or device.
+irm-4009.2 – policy statement
+1. accounts
+a. user accounts: when supported by the system or application, all user accounts should be
+created centrally in the directory services repositories hosted by information services

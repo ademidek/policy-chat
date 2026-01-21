@@ -1,0 +1,14 @@
+. mfa is a layered
+approach to security that makes it harder for unauthorized users to gain access to a system, even if one
+credential is compromised.
+
+irm-4009 – identity and access management policy
+university of richmond | 3
+permissions: specific operations or actions that an authenticated user or entity is allowed to perform on a
+resource or system. permissions are a fundamental part of authorization, which determines what an
+authenticated user can do, after authentication verifies who they are. permissions are typically assigned to
+roles, which are then assigned to users, creating a system of access control.
+privileges: the right of an account to perform certain actions on pieces of data in an information service.
+elevated privileges are rights that exceed the privileges of a typical user of the system.
+provisioning: the creation, ongoing maintenance, and removal of computing accounts associated with an
+identity

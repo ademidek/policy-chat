@@ -1,0 +1,11 @@
+. accounts are granted these authorizations automatically during the account creation
+process managed by information services and are often related to an individual's affiliation
+with the university. changes in affiliation will automatically result in changes to birthright
+entitlements.
+b. requestable entitlements: these are entitlements that are requested by an individual but that
+require approval by an application owner or data steward before being granted. all requests
+should be made, tracked, and fulfilled through the online ticketing application (e.g.,
+spidertechnet) maintained by information services.
+c. deprovisioning: information systems shall be designed and deployed in a way that facilitates
+timely removal of a person's authorizations and accounts at appropriate times.
+d

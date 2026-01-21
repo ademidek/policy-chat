@@ -1,0 +1,10 @@
+. refer to the external data transfer policy for detailed
+requirements.
+i. university faculty, staff, and students with access to administrative data or education records shall
+prevent unauthorized access to such information by always locking or logging-off of their
+workstation when they leave their work area.
+j. administrative data and education records may not be used for personal gain or profit.
+k. if a university faculty member, staff member, student or vendor loses a computing device that held or
+contains administrative data or education records, or becomes aware of the theft of such a device,
+they must report that loss immediately to their supervisor and the director of information security.
+l

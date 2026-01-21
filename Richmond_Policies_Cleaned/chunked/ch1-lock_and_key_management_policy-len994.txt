@@ -1,0 +1,23 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+this policy is designed to ensure effective control, security, and management of the university's lock and key
+system for the safety and protection of university personnel and equipment.
+scope:
+the lock and key management policy applies to all lock and key management controls, one cards electronic
+key controls, including approval and issuance of access, management of current inventory, and recovery of
+access post-separation and position transfers.
+index:
+sec-2004.1 .......definitions
+sec-2004.2 .......policy
+sec-2004.3 .......roles and responsibilities
+sec-2004.4 .......electronic card access
+sec-2004.5 .......hard-key access
+sec-2004.6 .......authorizations & approvals
+policy statement:
+sec-2004.1 – definitions
+access – the ability to enter a university space by mean of a traditional metal key or a university of
+richmond one card.
+policy #: sec-2004 policy title: lock and key management policy and
+procedure

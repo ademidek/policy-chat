@@ -1,0 +1,168 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+the incident response policy provides the structure and processes required to effectively respond to an
+information security incident with the goal of minimizing the negative impact to the confidentiality, integrity,
+and availability of university of richmond (ur) data and information technology assets. the university of
+richmond takes great care to safeguard data and privacy; therefore, if the university experiences such an
+event, we must be prepared to act quickly.
+scope:
+this policy applies to the university of richmond and all of its affiliates. as used in this policy, the term
+"affiliates" means organizations or entities in which the university owns a controlling interest or has the right
+to elect the majority of the entity's governing board. this policy applies to all users of university data
+classified as restricted or confidential, whether faculty, staff, student, contractor, consultant, or agent thereof.
+this policy further applies to any computing or data storing devices or services (e.g., software-as-a-service
+(saas), platform-as-a-service (paas), etc.) owned or leased by the university that experience a cybersecurity
+incident, as well as any computing or data storing device or service, regardless of ownership, which is used to
+store, process, or transmit university data; which, if lost, stolen, or compromised could lead to unauthorized
+disclosure of university data.
+index:
+irm-4002.1 .......definitions
+irm-4002.2…...policy statement
+irm-4002.3 .......record retention
+policy #: irm-4002
+policy title: cybersecurity incident response policy
+effective: 08/14/2024 responsible office: information services
+date
+approved:
+08/05/2024
+approval: vice president for information services and
+chief information officer
+replaces
+policy dated:
+06/29/2020 responsible
+university official:
+vice president for information services and
+chief information officer
+
+irm-4002 – cybersecurity incident response policy
+university of richmond | 2
+irm-4002.4.…..reporting a cybersecurity incident
+irm-4002.5 .......roles and responsibilities
+irm-4002.6…...applicable regulations and accreditation standards
+policy statement:
+irm-4002.1 – definitions
+confidential information: see definition in the university of richmond data security policy.
+event: is an observable occurrence in the operation of an information resource, service, or network. not all
+events become incidents. an event may be electronic, physical, or social in nature.
+incident: an event that disrupts the normal operations of information and technology services; or threatens the
+confidentiality, integrity, or availability of university information systems or data.
+incident response plan (ir plan): the documentation of a predetermined set of instructions and procedures to
+detect and respond to cybersecurity incident.
+restricted information: see definition in the university of richmond data security policy
+.
+ur-cirt: university of richmond cyber incident response team. the ur-cirt is a function of the
+information security office and is responsible for coordinating the response to cybersecurity incidents
+irm-4002.2 – policy statement
+this policy outlines the roles and responsibilities that govern the response to and reporting of cybersecurity
+incidents that impact the confidentiality, integrity, or availability of the university of richmond's information
+and technology services. this policy is supplemented by an internal incident response plan (ir plan)
+developed and maintained in alignment with the national institute of standards and technology (nist)
+special publication 800-61 "computer security incident handling guide." the ir plan contains detailed
+procedures and guidelines for incident response handling at the university.
+irm-4002.3 –record retention
+incident documentation and evidence will be maintained for five (5) years after the issuance of the final
+incident report. if the incident pertains to data or systems that fall under a regulatory retention period that
+exceeds five (5) years, the regulatory retention period will take precedence.
+irm-4002.4. – reporting a cybersecurity incident
+all members of the university shall immediately report any suspected cybersecurity incident to the university
+of richmond information security department using either the "report cybersecurity incident" form located
+on spidertechnet, email, phone, in-person, or by initiating a help desk support ticket.
+
+irm-4002 – cybersecurity incident response policy
+university of richmond | 3
+information security department – email: infosec@richmond.edu phone: 804-289-8655
+information services help desk – email: helpdesk@richmond.edu phone: 804-287-6400
+spidertechnet: https://spidertechnet.richmond.edu
+members of the university must cooperate with incident response investigations and may not interfere,
+obstruct, prevent, retaliate against, or dissuade others from reporting an incident or cooperating with an
+investigation.
+irm-4002.5 – roles and responsibilities
+vice president of information services – ensures an incident management program is in place to respond to
+cybersecurity events and incidents; escalates and informs executive leaders of incidents impacting the
+university; appoints members to the ur-cirt.
+director of information security – evaluates events to determine if and when they should be categorized as an
+incident, the scope, and risk level; activates the ur-cirt; informs the vp of information services, and
+escalates incidents to the cybersecurity support team, as needed; maintains the university ir plan and
+overall security awareness program that trains users on how and when to report incidents; ensures that
+technical resources are in place or requested to identify if an incident has occurred; ensure corrective actions
+identified in incident reports are appropriately prioritized and executed.
+incident response team lead – leads incident handling efforts under direction of the director of information
+security or vice president of information services; coordinates duties among team members; records
+activities performed during an incident; responsible for ensuring incident preparation activities are completed
+in accordance with the ir plan; drafts post incident report; updates the university ir plan at the direction of
+the director of information security.
+server administrator – coordinates and administers centrally managed servers during an incident. alerts
+director of information security when a real or suspected incident has occurred within their department
+managed information resource. responsible for developing procedures to train their department information
+resource users to recognize and report incidents.
+network administrator – coordinates and administers campus network and identity resources during an
+incident. alerts director of information security when a real or suspected incident has occurred within their
+department managed information resource. responsible for developing procedures to train their department
+information resource users to recognize and report incidents.
+administrative application owner/data steward – coordinates and administers in-scope application
+resources during an incident as well as alerts director of information security and data trustee when a real or
+suspected incident has occurred within their department managed information resource. responsible for
+developing procedures to train their department information resource users to recognize and report incidents.
+help desk – records event information and alerts director of information security when an incident has been
+reported or occurred; may field calls from end-users regarding an incident.
+
+irm-4002 – cybersecurity incident response policy
+university of richmond | 4
+cybersecurity support team – a subgroup of the crisis and emergency management team who will develop
+the high-level response, coordination, and decision-making structure during an incident.
+ur-cirt – composition of the ur-cirt is defined in the ir plan and members are appointed by the vice
+president of information services. the team will conduct risk assessment and response in accordance with the
+ir plan. once the incident is contained, this team will also conduct a "lessons learned" post-incident review
+to evaluate changes in processes, systems and/or policies to prevent a repeat incident. members of the ur-
+cirt are required to respond to declared incidents both during and after standard work hours.
+ur-cirt general responsibilities
+1. the ur-cirt directs the analysis, containment, eradication, and recovery phases for incidents in
+accordance with the ir plan and may authorize or expedite emergency changes to systems when
+required to as part of the response. emergency changes will be documented in the ur change
+management system.
+2. the ur-cirt will coordinate external response with 3rd party suppliers who host university data in
+accordance with existing agreements and the ir plan.
+3. during the conduct of incident response activities, the ur-cirt is authorized to monitor university
+information resources in scope to the response and retrieve any communications or other relevant
+records (e.g., email, instant messages, login session data, metadata, files, documents, etc.) for specific
+users without notice or further approval. all monitoring and access will be documented in accordance
+with the ir plan.
+4. any external disclosure regarding an incident must be reviewed and approved by the vice president of
+information services in consultation with university general counsel and university communications.
+5. the ur-cirt will coordinate with external law enforcement, service providers or government agencies
+as required and defined in the ir plan. the ur-cirt is authorized to share threat and incident
+information with these organizations under a court order or approval of university counsel.
+6. upon conclusion of an incident, the ur-cirt will finalize and distribute the incident report in
+accordance with the ir plan.
+irm-4002.6 – applicable regulations and accreditation standards
+a. sacscoc principles of accreditation 12.5 (student records)
+b. health insurance portability and accountability act of 1996 (hipaa), public law 104-191
+c. payment card industry data security standard (pci dss)
+d. family educational rights and privacy act (ferpa) (20 u.s.c. § 1232g; 34 cfr part 99)
+e. red flags rule of the fair and accurate credit transaction act of 2003 (fact act), public law 108-
+159, section 114
+f. code of virginia, § 18.2-186.6. breach of personal information notification.
+g. general data protection regulation (gdpr) (eu) 2016/679
+h. gramm- leach-bliley act (glba), also known as the financial services modernization act of 1999,
+public law 106–102, 113 stat. 1338
+i. national institute of standards and technology (nist) sp 800-61
+
+irm-4002 – cybersecurity incident response policy
+university of richmond | 5
+related policies:
+irm-4003 – information security policy
+irm-4004 – data security policy
+irm-4006 – general data privacy regulation privacy notice
+acd-2004 – privacy of education records (ferpa) policy
+policy background:
+initial policy created: july 12, 2007
+minor revisions in april 2020 reviewed by it governance committee and president's cabinet prior to approval
+on 06/29/2020. policy was previously titled, "data exposure policy".
+06/26/24: major revision to shift focus away from operational processes since those are covered in the incident
+response plan. aligned definitions with other policies for uniform terms. added incident documentation
+retention. updated general responsibilities to be more policy-focused. included nist 800-61 reference.
+policy contacts:
+vice president for information services and chief information officer
+director of information security

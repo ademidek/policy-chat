@@ -1,0 +1,12 @@
+policy #: hrm-5003 policy title: inclement weather and emergencies policy
+effective: 01/11/2024 responsible office: human resources
+date
+approved:
+01/11/2024
+approval: executive vice president and chief operating
+officer
+replaces
+policy dated:
+07/15/2018 responsible
+university official:
+chief human resources officer

@@ -1,0 +1,8 @@
+irm-4004 – data security
+university of richmond | 10
+c. each genai application must have an acceptable use policy (aup) defining its terms of use, data
+collection policies, and user responsibilities. faculty may include the aup in course syllabi if genai is
+permitted for use in the course.
+
+d. any administrative data or education records used in a generative ai application must be approved by
+the data steward and reassessed annually. e.

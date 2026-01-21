@@ -1,0 +1,5 @@
+individually identifiable information, including genetic information,
+that (i) relates to either the past, present or future physical or mental health or condition of an individual,
+the provision of health care to an individual, or the past, present or future payment for health care
+provided to an individual; and (ii) is transmitted by or maintained in electronic media or any other form or
+medium.

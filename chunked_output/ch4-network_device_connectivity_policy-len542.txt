@@ -1,0 +1,10 @@
+irm-3001– network device connectivity policy
+university of richmond | 2
+irm-3001.2 – definitions
+university networks
+campus network
+the campus network is the primary point of access for faculty, staff, and students to the university's
+computing resources, systems, and data. restricted network
+university assets that do not meet the minimum network security requirements may be connected to the
+restricted network. the restricted network is comprised of devices that would normally pose a
+vulnerability to other users, data, and applications.

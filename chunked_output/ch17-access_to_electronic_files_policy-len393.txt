@@ -1,0 +1,4 @@
+however, in today's environment professional practices and protections are not infallible and the security and
+confidentiality of our systems and data cannot be guaranteed. in addition, the recipient of an email message
+may forward it to persons who were not intended to see it. users, therefore, should exercise extreme caution
+in using email to communicate confidential or sensitive matters.

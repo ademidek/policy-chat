@@ -1,0 +1,13 @@
+. these devices
+must meet the network security requirements enumerated in the network device connectivity standard
+.
+restricted network
+the following categories of workstations and servers must use the restricted network:
+• systems with obsolete operating systems or hardware for which patches for security vulnerabilities
+are no longer available from the manufacturer or vendor
+• systems that are not actively managed to install manufacturer-provided security patches in a timely
+manner
+• systems attached to obsolete equipment that preclude the patching of the system.
+users recognize that the devices on the restricted network are there because the devices represent a risk
+to the campus network. note that these devices also represent a risk to other devices in the restricted
+network

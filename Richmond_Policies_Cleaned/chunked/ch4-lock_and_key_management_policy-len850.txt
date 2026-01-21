@@ -1,0 +1,11 @@
+. the door system
+(cbord) replaces traditional keys with an electronic door stripe that is configured to allow for remote
+communication.
+gas key – any key assigned to a department provides access to fuel pump used to refill campus vehicles.
+grand master key – any key that provides access to more than one building.
+interior access - the electronic access readers are magnetically swiped, and then a personal pin must be
+entered on the keypad of the door. also, when students accidentally get locked out of their dorms,
+cbord offers the capability to electronically unlock their door as long as they enter their pin.
+exterior access - the electronic access readers are strategically placed around the perimeter of the
+building. they are magnetically swiped, which then allows access.
+one card – the official university of richmond identification card

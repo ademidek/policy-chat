@@ -1,0 +1,2 @@
+7. throughout the lifecycle of a contract, actions related to the terms and conditions of the contract must be
+noted and/or documented within the cms by the contract manager.

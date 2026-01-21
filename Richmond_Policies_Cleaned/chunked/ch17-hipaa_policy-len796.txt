@@ -1,0 +1,12 @@
+. periodically conduct an accurate and thorough assessment of the potential risks and
+vulnerabilities to the confidentiality, integrity, and availability of electronic phi;
+e. regularly review records of information system activity relating to servers or electronic
+transmission and storage platforms for phi, such as audit logs, access reports, and
+security incident tracing reports;
+f. maintain reasonable and appropriate procedures for managing and ensuring access to
+electronic phi by covered employees and preventing access to electronic phi by
+university employees who are part of the health care component of the university or
+covered employees whose employment has terminated.
+2. techincal safeguards. the university's health plan and the health care components of the
+university shall:
+a

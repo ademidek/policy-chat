@@ -1,0 +1,6 @@
+flextime
+flextime allows for flexible scheduling arrangements that permit variations in starting and departure times,
+but does not alter the total number of hours worked in a workweek. examples of flextime arrangements include the following:
+• pre-approved fixed starting and departure times that are different from normal business hours of the
+department. starting and departure times continue for a specified period with the same number of hours
+worked each day.

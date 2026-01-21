@@ -1,0 +1,11 @@
+. alerts
+director of information security when a real or suspected incident has occurred within their department
+managed information resource. responsible for developing procedures to train their department information
+resource users to recognize and report incidents.
+network administrator – coordinates and administers campus network and identity resources during an
+incident. alerts director of information security when a real or suspected incident has occurred within their
+department managed information resource. responsible for developing procedures to train their department
+information resource users to recognize and report incidents.
+administrative application owner/data steward – coordinates and administers in-scope application
+resources during an incident as well as alerts director of information security and data trustee when a real or
+suspected incident has occurred within their department managed information resource

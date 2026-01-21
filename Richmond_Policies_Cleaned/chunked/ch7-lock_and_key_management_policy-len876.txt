@@ -1,0 +1,14 @@
+. a formal
+audit must be performed by june 30th annually and must list all access cards in the department's
+possession. also, the audit must document whom each card is assigned to or when access was
+removed before the audit. a copy of the completed audit must be maintained in the department,
+
+sec-2004 – lock and key management policy and procedure
+university of richmond | 3
+and a copy must also be sent to the one card office for their annual audit of all access to the cs
+gold system.
+hard-key access
+• key inventory procedures – the key inventory software utilized by the lock shop keeps a
+perpetual inventory. if someone requests a key that has previously been issued either to them or
+someone else, the application will notify the lock shop that the key is already in use. the lock
+shop is notified daily of employment separations of employees who have been issued keys

@@ -1,0 +1,2 @@
+single room hotel reservations do not require a contract. however, when
+reserving a block of rooms, or event space and/or catering, a contract is required. fin-4408.

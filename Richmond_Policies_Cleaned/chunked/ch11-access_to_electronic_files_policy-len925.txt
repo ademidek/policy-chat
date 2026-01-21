@@ -1,0 +1,14 @@
+. the back-up process results in the copying
+of data onto storage media that may be retained for periods of time and in locations unknown to the originator
+or recipient of the email.
+no guarantee of confidentiality – information services staff follow sound professional practices in
+providing for the security of the email, data, application programs, and system programs under their control.
+however, in today's environment professional practices and protections are not infallible and the security and
+confidentiality of our systems and data cannot be guaranteed. in addition, the recipient of an email message
+may forward it to persons who were not intended to see it. users, therefore, should exercise extreme caution
+in using email to communicate confidential or sensitive matters.
+
+irm-4008 – access to electronic files policy
+university of richmond | 4
+irm-4008.3 – applicable regulations and accreditation standards
+a

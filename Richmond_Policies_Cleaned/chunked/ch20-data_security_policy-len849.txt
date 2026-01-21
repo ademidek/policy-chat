@@ -1,0 +1,12 @@
+. the key to encrypted data must be transferred out of band. that is, it cannot be transferred using the
+same mechanism or channel as the data. for instance, if data are sent via e-mail, the key must be
+exchanged via phone or letter.
+5. the third-party must acknowledge receipt of the data. acknowledgement must be either in writing
+(e.g., email or letter), via delivery receipt (e.g., if a shipping service or u.s. mail is used), or
+auditable log entry for file sharing / transfer services.
+6. data exchange method must be verified as secure by the director of information security, the
+director of systems & networks or their designate before the transfer is attempted.
+7. data must be securely archived so that in the event of an issue the exact contents of data
+transmission can be verified.
+d. hardcopy confidential and restricted information
+1

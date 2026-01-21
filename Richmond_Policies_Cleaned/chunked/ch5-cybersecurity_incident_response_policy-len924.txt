@@ -1,0 +1,12 @@
+. the ur-cirt is a function of the
+information security office and is responsible for coordinating the response to cybersecurity incidents
+irm-4002.2 – policy statement
+this policy outlines the roles and responsibilities that govern the response to and reporting of cybersecurity
+incidents that impact the confidentiality, integrity, or availability of the university of richmond's information
+and technology services. this policy is supplemented by an internal incident response plan (ir plan)
+developed and maintained in alignment with the national institute of standards and technology (nist)
+special publication 800-61 "computer security incident handling guide." the ir plan contains detailed
+procedures and guidelines for incident response handling at the university.
+irm-4002.3 –record retention
+incident documentation and evidence will be maintained for five (5) years after the issuance of the final
+incident report

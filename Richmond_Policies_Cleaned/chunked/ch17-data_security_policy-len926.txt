@@ -1,0 +1,12 @@
+. confidential or restricted
+information shall not be stored with a software or service vendor such as google, dropbox or
+microsoft unless the university has a contract with the service provider that contains appropriate
+confidentiality and security provisions that meet or exceed university policy requirements. see
+section 4004.5 of this policy for more information on vendors.
+2. confidential information must not be stored on any mobile computing or storage device such as a
+laptop, pda, usb drive, flash drive or any mobile device or media, regardless of whether such
+device is owned by the university or is personally owned. confidential information may only be
+stored on a university centrally managed storage system (e.g., box).
+3. except as permitted by this policy, restricted information may not be stored on a personal
+computing device such as a laptop, pda, usb drive, flash drive or any mobile device or media.
+a

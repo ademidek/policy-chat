@@ -1,0 +1,13 @@
+. centrally managed accounts and authorizations: enterprise level accounts or authorizations
+that are listed in the enterprise directory service and have authentication credentials in ur's
+enterprise authentication services shall be deprovisioned in accordance with the
+user life
+cycle standard associated with this policy.
+e. local accounts and authorizations: when accounts or authorizations are created outside of the
+central enterprise authentication system, the operational department creating the accounts must
+define a mechanism to deprovision the accounts in a timely fashion (generally within a few
+business days unless a specific time frame is requested) and consistent with the conditions
+expressed in the associated
+user life cycle standard.
+note: deprovisioning local accounts must occur promptly upon role change, separation, or
+termination

@@ -1,0 +1,20 @@
+index:
+irm-4009.1 .......definitions
+irm-4009.2 .......policy statement
+irm-4009.3 .......roles and responsibilities
+policy statement:
+irm-4009.1 – definitions
+policy #: irm-4009
+policy title: identity and access management policy
+effective: 10/10/2025 responsible office: information services
+date
+approved:
+10/10/2025 approval: vice president for information services and
+chief information officer
+replaces
+policy dated:
+n/a
+responsible
+university official:
+vice president for information services and
+chief information officer

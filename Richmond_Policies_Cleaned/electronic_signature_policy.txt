@@ -1,0 +1,119 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+this policy provides guidelines for the use of electronic signatures (as defined herein) at the university of
+richmond (the "university"), including defining the circumstances under which electronic signatures may be
+used and accepted in conducting university business.
+scope:
+this policy applies to university faculty, staff, business partners, affiliates, and associates acting in their
+authorized capacities in connection with official university activities. it applies to all uses or potential uses of
+electronic signatures for the creation, approval, and execution of contracts (as defined herein).
+this policy does not require the use of electronic signatures or prohibit the ability to engage in contracts or
+other transactions on paper.
+this policy does not apply: (a) to university systems with existing built-in electronic approval workflows,
+such as workday, ellucian banner, chrome river, esm and onbase; (b) when a handwritten signature on
+paper is required by law; (c) to facsimile signatures used on checks issued by the university; or (d) to internal
+agreements (as defined herein) or other documents or records that are solely internal to the university.
+index:
+fin-4412.1 ........definitions
+fin-4412.2 ........use of electronic signatures
+fin-4412.3 ........approved electronic signature methods and products
+policy #: fin-4412
+policy title: electronic signature policy
+effective: 05/21/2024 responsible office: office of general counsel
+date
+approved:
+05/20/2024 approval: executive vice president and chief operating
+officer vice president and general counsel
+replaces
+policy dated:
+n/a responsible
+university officials:
+vice president and general counsel
+director of procurement
+
+fin-4412 – electronic signature policy
+university of richmond | 2
+fin-4412.4..…… acceptance of third-party electronic signatures
+fin-4412.5 ...........violations
+policy statement:
+fin-4412.1 – definitions
+assurance — the degree of confidence in the identity of the individual providing an e-signature.
+authentication — the process of securely verifying the identity of an individual providing an electronic
+signature.
+authorization — verifying that an authenticated user has permission to access specific electronic university
+services and/or perform certain operations on behalf of the university.
+contract — a contract is a binding commitment by or on behalf of the university that is in oral or written
+form, regardless of the title of the operative document or documents. for purposes of this policy, the term
+"contract" includes but is not limited to contracts, agreements, leases, memoranda of understanding ("mou"),
+gift agreements, mutual aid agreements, settlement agreements, resolution agreements, letter agreements, and
+binding letters of intent. this policy applies to contracts in hardcopy or electronic form.
+internal agreement — for purposes of this policy, internal agreements are written or electronic documents
+that describe a formal understanding between two or more university units, departments, schools, or divisions
+regarding operational matters, such as use of space, allocation of funds, service level commitments, or similar
+internal matters. internal agreements may take several forms but they are typically documented in the form of
+mou's.
+electronic record or e-record — a record, including a contract, that is created, generated, sent,
+communicated, received, or stored by electronic means.
+electronic signature or e-signature — an electronic sound, symbol or process, attached to or logically
+associated with an electronic record and executed or adopted by a person with the intent to sign such record.
+electronic transaction or e-transaction — an action or set of actions that is conducted or performed, in
+whole or in part, by electronic means or via electronic records.
+electronic signature method — the method by which the identity of the applicable signatory and his/her
+intent to use an electronic signature has been verified.
+fin-4412.2 – use of electronic signatures
+subject to this policy and other applicable university policies, and applicable law, a contract or other
+electronic record may be executed via an electronic signature obtained using an approved electronic
+signature method, as described in section fin-4412.3 of this policy. an electronic signature must be
+attributable or traceable to a person who has the intent and authority to sign the contract or electronic record,
+with the use of adequate security and authentication measures contained in the method of capturing the
+electronic signature.
+only those university employees who are authorized to sign contracts on behalf of the university under the
+university's delegation of contract approval and signature authority policy may execute a contract on
+
+fin-4412 – electronic signature policy
+university of richmond | 3
+behalf of the university using an electronic signature. this requirement applies to click-through contracts for
+software or software as a service.
+fin-4412.3 ........approved electronic signature methods and products
+electronic signatures must be obtained by using an electronic signature method that meets the following
+requirements: for an e-signature method to meet the requirements of this policy, the proposed e-signature
+method must:
+a. use commercially reasonable and current electronic security protocols;
+b. appropriately verify the identifies of the signatories;
+c. maintain the information in a retrievable format for the time period prescribed in the
+university's record retention policy; and
+d. be auditable.
+except as provided in this policy, university employees or others signing a contract or electronic record on
+behalf of the university shall only use an electronic signature product (e.g., box sign) that has been
+approved by the university and for which the university has a current enterprise contract. if required to use
+the electronic signature product of a third-party vendor that has not been approved by the university, the
+university employee authorized to sign the vendor contract must consult with the university's director of
+information security or their designee prior to using such electronic signature product.
+fin-4412.4..…… acceptance of third-party electronic signatures
+in general, when the university enters into a contract or is a signatory to an electronic record involving a
+third party, the university and third party should consent to the use and acceptance of electronic signatures.
+preferably, the contract or electronic record will contain language that the respective signatories certify that
+they are authorized to sign documents on behalf of their organization and consent to the use of electronic
+signatures. in situations where obtaining such consent is impossible or impracticable, consent may be
+implied by the context or the parties' conduct or course of dealing.
+fin-4412.5 ...........violations
+individuals who falsify electronic signatures may be subject to disciplinary action under applicable
+university policies and handbooks and criminal prosecution under applicable federal and state laws.
+individuals are required to report any suspected or fraudulent activities related to e-signatures immediately in
+accordance with the university's reporting and investigating suspected financial fraud, waste, and abuse
+policy.
+related policies:
+fin-4408 contract management policy
+fin-4409 delegation of contract approval and signature authority policy
+fin-16001 reporting and investigating suspected financial fraud, waste, and abuse
+record retention policy
+
+fin-4412 – electronic signature policy
+university of richmond | 4
+policy background:
+reviewed by president's cabinet and approved on may 20, 2024
+policy contacts:
+director, procurement, procurement office
+vice president and general counsel

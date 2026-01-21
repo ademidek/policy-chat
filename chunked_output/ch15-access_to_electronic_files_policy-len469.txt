@@ -1,0 +1,5 @@
+observing only email system logs or email headers will not require
+an entry in this record. entries shall include the email account id, the date, the is staff member's name, and a
+brief explanation. preservation of email – users of the university's electronic mail system should be aware that, even though
+the sender and recipient have discarded their copies of a particular email, back-up copies of discarded email
+exist for a while, and can be retrieved if necessary.

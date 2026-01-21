@@ -1,0 +1,23 @@
+. if
+students choose to forward their university e-mails to external e-mail providers, they are responsible for
+ensuring that the external e-mail account remains active.
+related policies:
+policy background:
+policy #: irm-3002 policy title: official university communications policy
+effective: 01/28/2008 responsible office: information services
+date
+approved:
+01/28/2008
+approval: vice president for information services & chief
+information officer
+replaces
+policy dated:
+n/a responsible
+university official:
+vice president for information services & chief
+information officer
+
+imr-3002 – official university communications policy
+university of richmond | 2
+policy contacts:
+vice president for information services & chief information officer

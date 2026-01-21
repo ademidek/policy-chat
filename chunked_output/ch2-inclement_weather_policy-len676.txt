@@ -1,0 +1,12 @@
+index:
+hrm-5003.1 .....definitions
+hrm-5003.2 .....policy statement
+policy statement:
+hrm-5003.1 – definitions
+essential personnel
+staff and faculty who, due to the nature of the services they provide, are expected to physically report to
+perform work on campus during inclement weather and other situations in which the normal on-campus
+schedule is suspended. such departments or essential employees are designated in advance by the relevant
+executive vice president, vice president or academic dean. non-essential personnel
+staff and faculty who are not expected to physically report to work on campus during a time when the
+regular on-campus operating schedule is modified.

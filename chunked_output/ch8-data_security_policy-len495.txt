@@ -1,0 +1,9 @@
+university of richmond | 3
+irm-4004 – data security
+vendor
+a vendor is the party with whom the university contracts to provide the goods and/or services identified in
+a contract. irm-4004.2 – classification
+the university classifies administrative data into the following categories:
+a. confidential information: confidential information is sensitive information that must be
+safeguarded to protect the privacy of individuals and the security and integrity of systems
+and to guard against fraud.

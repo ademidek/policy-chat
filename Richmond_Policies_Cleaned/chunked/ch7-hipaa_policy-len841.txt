@@ -1,0 +1,15 @@
+. a disclosure of phi where the univeristy or a business associate has a good faith
+belief that an unauthorized individual to whom the disclosure was made would not
+reasonably have been able to retain such information.
+b. business associate. any entity that:
+1. performs or assists in performing a university function or activity involving the use and
+disclosure of phi (including claims processing or administration, data analysis, underwriting,
+etc.); or
+2. provides legal, accounting, actuarial, consulting, data aggregation, management, accredidation,
+or financial services, where the performance of such services involves giving the service
+provider access to phi.
+
+hrm-1005 – hipaa privacy policy and procedures
+university of richmond | 3
+c. covered employees. all employees that have access to or are exposed to phi.
+d. covered entity

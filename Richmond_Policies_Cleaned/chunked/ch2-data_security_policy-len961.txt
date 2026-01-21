@@ -1,0 +1,21 @@
+. as used in this policy, the term
+"affiliates" means organizations or entities in which the university owns a controlling interest or has the right
+to elect the majority of the entity's governing board.
+index:
+irm-4004.1 .......definitions
+irm-4004.2 .......classification
+irm-4004.3 .......access to and use of administrative data and education records by university faculty, staff,
+and students
+irm-4004.4 .......storage, transmission and disposal of administrative data and education records
+irm-4004.5 .......access to and use of administrative data or education records by vendors and other third-
+parties
+irm-4004.6……use of generative artificial intelligence (genai) with university data
+irm-4004.7 .......data exposure plan
+
+university of richmond | 2
+irm-4004 – data security
+policy statement:
+irm-4004.1 – definitions
+administrative data
+data that is gathered, produced, stored, and/or disseminated concerning any aspect of the university's
+operations

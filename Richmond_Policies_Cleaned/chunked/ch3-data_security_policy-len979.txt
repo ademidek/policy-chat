@@ -1,0 +1,13 @@
+. such data includes, but is not limited to, general ledger/accounting, human capital management,
+student, alumni/development, space management, student housing data, and also includes any data derived
+from the use of such data. administrative data specifically does not include faculty generated classroom
+data nor faculty- or student-generated research data
+data steward domain
+a university administrative or operational area, function or process and the authoritative data elements
+created, collected, and managed by that area throughout the lifecycle of that data, regardless of the
+transactional system(s) in which they reside (e.g., finance data).
+data steward
+typically, a senior operational manager in a functional area responsible for a data stewardship domain.
+education records
+any record (in handwriting, print, electronic form, tapes, film, or other medium) maintained by the
+university of richmond or an agent of the university that is directly related to a student

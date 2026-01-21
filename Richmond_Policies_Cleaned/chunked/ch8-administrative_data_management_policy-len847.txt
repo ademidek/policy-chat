@@ -1,0 +1,12 @@
+. the data management committee is responsible for ensuring that procedures are
+developed by functional offices to address those cases in which a member of the university community
+seeks permission to access administrative data beyond that which is needed for the normal
+performance of their duties.
+because no computer system is completely immune from unauthorized access or attempted access
+(e.g., "hacking"), applying layered security controls (e.g., multiple levels of access permissions) will
+better safeguard university computers and our ever-expanding body of administrative data, which is
+often sensitive. in order that the proper controls are applied, it is the responsibility of each person
+accessing administrative data to:
+a. know the classification of the administrative data being used.
+b. follow the appropriate security measures.
+c

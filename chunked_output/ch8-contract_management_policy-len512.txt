@@ -1,0 +1,5 @@
+contract managers can view, create and submit contracts for approval,
+as well as update contract information and attach related documentation for their department or division. contract requestor
+the university employee who can create a contract record within the cms and submit a contract for review. contract signer
+the university employee responsible for approving and signing contracts on behalf of the university, as
+defined in the university's delegation of contract approval and signature authority policy.

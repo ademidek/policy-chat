@@ -1,0 +1,13 @@
+. (sacscoc).
+scope:
+this policy applies to all faculty and staff who serve as instructors of record in any credit-bearing course
+offered by the university of richmond.
+index:
+acd-7201.1…………definitions
+acd-7201.2…………policy statement
+acd-7201.3…………roles and responsibilities
+acd-7201.4…………applicable legal and accreditation requirements
+policy statement:
+acd-7201.1 – definitions
+instructor of record: an instructor of record is defined as someone actively engaged in designing and
+delivering content for a credit-bearing course and assessing students for a grade

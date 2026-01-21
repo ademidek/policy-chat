@@ -1,0 +1,8 @@
+• manage and maintain a service for requestable entitlements. • manage and maintain an auditing service
+• maintain a list of enterprise and departmental applications and their respective application
+owners (available upon request)
+human resources – serves as the authoritative source for faculty, staff, student worker, retiree,
+contractor, and volunteer employment data. humans resources has the following responsibilities:
+• ensures timely and accurate entry and update of personnel records in the employee system-of-
+record to trigger corresponding identity life cycle events for employees (e.g., account
+provisioning, role changes, and deprovisioning).

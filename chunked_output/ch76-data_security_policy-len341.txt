@@ -1,0 +1,4 @@
+updated references to the associate vice president of human resources to chief human
+resources officer. removed irm-4004.6 privacy of e-mail, voice mail, and electronic files
+since that section is covered by policy irm-4008 "access to electronic files policy". added
+irm-4004.6 use of generative artificial intelligence with university data.

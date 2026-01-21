@@ -1,0 +1,415 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+the purpose of this policy is to ensure that the university of richmond complies with the health insurance
+portability and accountability act (hipaa) and its implementing regulations. the university will change this
+policy as necessary and appropriate to comply with changes to hipaa or its implementing regulations.
+this policy is intended to provide guidance to all covered employees (as defined below) regarding the
+management and protection of protected health information (phi) subject to hipaa.
+scope:
+this document and the policies herein apply to the sponsorship and administration of the university's health
+plan (as defined below) and to all covered employees (as defined below) with access or potential access to phi
+generated or maintained in connection with the university's health plan.
+this policy applies to the health care components of the university which are: (a) the university's health plan;
+and (b) the benefits & compensation section of the university's human resources department; and (c) all
+covered employees that supervise, assist, or advise the benefits & compensation section of the university's
+human resources department, but solely to the extent they perform functions covered by hipaa and its
+implementing regulations.
+this policy is not intended to apply to phi or other medical or health records maintained by any office, section,
+or division of the university that is engaged in functions not covered by hipaa, including, but not limited to
+the university's student health center, counseling and psychological services (caps), or its athletic
+deparment. the records of these offices shall be maintained confidentially to the extent required by virginia
+law and applicable virginia regulations.
+policy #: hrm-1005
+policy title: hipaa privacy policy and procedures
+effective: 05/16/2022 responsible office: human resources
+date
+approved:
+05/16/2022 approval: vice president and general counsel
+replaces
+policy dated:
+n/a responsible
+university official:
+director, compensation and benefits
+
+hrm-1005 – hipaa privacy policy and procedures
+university of richmond | 2
+index:
+hrm-1005.1 .....definitions
+hrm-1005.2 .....policy statement
+hrm-1005.3 .....confidentiality and security of phi
+hrm-1005.4…..administrative requirements for hipaa implementation
+hrm-1005.5…..maintaining appropriate documentation regarding compliance with hipaa
+hrm-1005.6 .....minimum necessary provision
+hrm-1005.7 .....notice of privacy practices
+hrm-1005.8 .....business associates
+hrm-1005.9 .....enforcement and sanctioning of employees
+hrm-1005.10 ...breach incident by the university or business associate
+hrm-1005.11 ...employee rights
+hrm-1005.1 – definitions
+a. breach. the acquisition, access, use, or disclosure of phi which compromises the security or privacy of
+the phi unless the university or a business associate demonstrates that there is a low probability that the
+phi has been compromised.
+a breach does not include:
+1. any unintentional acquisition, access, or use of protected health information by an
+employee or person acting under the authority of the univeristy or a business associate, if
+it was made in good faith and within the scope of authority and does not result in further
+non permitted use or disclosure.
+2. any inadvertent disclosure by an individual authorized to access phi to another
+individual authorized to acces phi at the university if that information is not further used
+or disclosed in an impermissible manner.
+3. a disclosure of phi where the univeristy or a business associate has a good faith
+belief that an unauthorized individual to whom the disclosure was made would not
+reasonably have been able to retain such information.
+b. business associate. any entity that:
+1. performs or assists in performing a university function or activity involving the use and
+disclosure of phi (including claims processing or administration, data analysis, underwriting,
+etc.); or
+2. provides legal, accounting, actuarial, consulting, data aggregation, management, accredidation,
+or financial services, where the performance of such services involves giving the service
+provider access to phi.
+
+hrm-1005 – hipaa privacy policy and procedures
+university of richmond | 3
+c. covered employees. all employees that have access to or are exposed to phi.
+d. covered entity. a health plan, a health care clearinghouse, or a health care provider that transmits any
+health information in electronic form relating to any covered transaction.
+e. disclosure. the release, transfer, provision of, access to, or divulging in any other manner of information
+outside the entity holding the information.
+f. employees. all full-time, part-time, or temporary employees, interns, independent contractors, trainees,
+and other persons engaged in the performance of work for the university, its offices, programs or
+facilities.
+g. health plan. the group medical plans, dental plan, health flexible spending account plan, and employee
+assistance plan sponsored by the university.
+h. inappropriate disclosure. the intentional or unintentional release, transfer, provision of,access to, or
+divulging of phi in a manner inconsistent with hipaa, its implementing regulations, or this policy.
+i. notice of privacy practices. a written statement that describes the university's use and disclosure of phi
+and that is distributed to all individuals whose information will be collected by or on behalf of the
+university's health plan.
+j. personal representative. a person who has authority under applicable law to make decisions related to
+health care on behalf of an adult or an emancipated minor, or the parent, guardian, or other person who is
+authorized under law to make health care decisions on behalf of an un-emancipated minor.
+k. privacy rules. the regulations adopted by the commonwealth of virginia and federal agencies to
+implement the requirements of hipaa and those obligations that arise under the privacy and security
+standards adopted by the health insurance marketplaces, pursuant to 45 c.f.r. §155.260.
+l. protected health information (phi). individually identifiable information, including genetic information,
+that (i) relates to either the past, present or future physical or mental health or condition of an individual,
+the provision of health care to an individual, or the past, present or future payment for health care
+provided to an individual; and (ii) is transmitted by or maintained in electronic media or any other form or
+medium. phi does not include individually identified health information: (i) in education records covered
+by the family educational rights and privacy act (ferpa); (ii) relating to a university student which are
+made or maintained by a physician, psychiatrist, psychologist, or other recognized professional or
+paraprofessional acting in their professional or paraprofessional capacity, or assisting in that capacity, and
+which are made, maintained, or used only in connection with the provision of treatment to the student, and
+are not available to anyone other than persons providing such treatment, except that such records can be
+personally reviewed by a physician or other appropriate professional of the student's choice; (iii)
+contained in employment records maintained by the university in its role as an employer; or (iv) regarding
+a person who has been deceased for more than 50 years.
+m. treatment, payment and health care operations (tpo).
+1. treatment means the provision, coordination, or management of health care and related services,
+consultation between providers relating to an individual, or referral of an individual to another
+provider for health care.
+2. payment means activities undertaken to obtain premiums, obtain or provide reimbursement for
+health care, including determinations of eligibility or coverage, billing, collections activities,
+medical necessity determinations and utilization review.
+
+hrm-1005 – hipaa privacy policy and procedures
+university of richmond | 4
+3. health care operations includes functions such as quality assessment and improvement
+activities, reviewing competence or qualifications of health care professionals, evaluating
+practitioner and provider performance or health plan performance, conducting or arranging for
+medical review, legal services and auditing functions, business planning and development, and
+general business and administrative activities including customer service, and the creation of de-
+identified health information as defined by the health insurance portability and accountability
+act (hipaa).
+n. use. for purposes of this policy, the term "use" means the sharing, employment, application, utilization,
+examination, or analysis of individually identifiable health information by the university's health plan or
+the university in its capacity as plan sponsor and/or administrator.
+policy statement:
+hrm-1005.2 – policy statement
+the university's health plan will treat as confidential the phi received or maintained by the university's
+health plan in a manner compliant with hipaa, its implementing regulations, and the applicable laws and
+regulations of the commonwealth of virginia.
+hrm-1005.3 – confidentiality and security of phi
+a. confidentiality of phi
+1. phi shall not be obtained, used, or disclosed except as permitted or required by law.
+2. phi may be used or disclosed as follows:
+a. to the individual.
+b. to carry out tpo activities as allowed under hipaa and/or pursuant to and in
+compliance with a current and valid authorization, receipt, use and disclosure of phi.
+c. in keeping with a business associate agreement.
+d. as otherwise allowed or required under the hipaa rules or other federal and/or state
+laws concerning privacy of information that is used by the university in the course of its
+business operations.
+3. minimum necessary: when obtaining, using, or disclosing phi or when requesting phi from
+another entity, reasonable efforts will be made to limit the phi used or disclosed to the minimum
+necessary to accomplish the intended purpose.
+4. disclosures to other components of the university. covered employees shall not disclose phi
+to and shall protect phi from other departments, divisions, or sections of the university, or from
+the employees of such other departments, divisions, or sections, unless such disclosure of or
+access to phi by a third party would be permissible under hipaa, its implementing regulations,
+or this policy.
+5. accounting for disclosures: an individual has a right to an accounting of disclosures of their
+phi for up to a six-year period.
+
+hrm-1005 – hipaa privacy policy and procedures
+university of richmond | 5
+b. security of phi
+1. electronic security. the university's health plan and the health care components of the
+university shall:
+a. maintain reasonable and appropriate security measures to ensure the confidentiality and
+integrity of electronic phi, protect against reasonable anticipated threats or hazards to the
+security or integrity of phi, and protect against reasonably anticipated inappropriate
+disclosure or use of phi;
+b. periodically review and modify security measures as needed to maintain the reasonable
+and appropriate protection of electronic phi;
+c. document the security measures maintained pursuant to this section 1111.3 (b)(1) and
+all modifications and updates to such security measures;
+d. periodically conduct an accurate and thorough assessment of the potential risks and
+vulnerabilities to the confidentiality, integrity, and availability of electronic phi;
+e. regularly review records of information system activity relating to servers or electronic
+transmission and storage platforms for phi, such as audit logs, access reports, and
+security incident tracing reports;
+f. maintain reasonable and appropriate procedures for managing and ensuring access to
+electronic phi by covered employees and preventing access to electronic phi by
+university employees who are part of the health care component of the university or
+covered employees whose employment has terminated.
+2. techincal safeguards. the university's health plan and the health care components of the
+university shall:
+a. maintain access control procedures for information systems containing electronic phi
+that limit access to those covered employees who have been granted access by the health
+care components of the university, including, but not limited to assigning unique login
+name or number to track user identify and establishing procedures for accessing
+electronic phi in an emergency;
+3. physical security. the university's health plan and the health care components of the
+university shall:
+a. maintain reasonable and appropriate physical security measures to limit physical access
+to electronic information systems containing phi and the facilities in which they are
+housed to covered employees and business associates authorized to access such
+systems and/or facilities;
+b. maintain procedures for the appropriate use, surroundings, and security of workstations
+that have access to electronic phi;
+c. prohibit employees from copying or storing electronic phi to any personal or university-
+owned electronic device (e.g., laptop, smartphone, tablet) or to any personal or
+university-owned portable data storage device (e.g., thumbdrive, cd rom, external hard
+drive);
+
+hrm-1005 – hipaa privacy policy and procedures
+university of richmond | 6
+d. maintain reasonable and appropriate procedures for removing electronic phi from
+servers, hardware, electronic devices or other electronic media for such items are made
+available to use for functions not covered by hipaa.
+e. ensure thall all physical copies of phi are stored in secure locations to which access is
+limited.
+4. disposal or destruction of phi. the university's health plan and the health care components
+of the university shall:
+a. maintain procedures that ensure the secure and confidential destruction or final
+disposition of electronic phi (once the retention period for such phi has expired) and/or
+any server, other hardware, or electronic media on which electronic phi is stored.
+b. ensure that, once the retention period has expired, physical copies of phi are shredded
+using secure process by an external vendor with which the university has an appropriate
+business associate agreement.
+hrm-1005.4 – administrative requirements for hipaa implementation
+a. personnel designations.
+1. privacy officer: the person responsible for the development and implementation of university-
+wide policies and procedures relating to the safeguarding of phi subject to hipaa. the privacy
+officer will be trained on all policies and procedures necessary to fulfill these responsibilities in
+ensuring the security and privacy of phi.
+2. persons with acess to phi: those individuals who will be listed by the title and documented in
+the university risk assessment
+a. the privacy officer will update the list on a periodic basis
+b. the previous listing will be maintained for a period of not less than six (6) years
+b. training requirements.
+1. all covered employees shall receive training on policies and procedures relating to phi as
+necessary and appropriate for such persons to carry out their functions within the university.
+2. each new covered employee shall receive the training as described above within thirty (30) days
+after joining the university.
+3. each covered employee whose functions are impacted by a material change in the policies and
+procedures relating to phi, or by a change in position or job description, shall receive the
+training as described above within a reasonable time after the change becomes effective.
+4. the privacy officer shall receive training within thirty (30) days of employment with the
+university or appointment to the position.
+5. privacy training shall be appropriate to the tasks that each employee performs.
+
+hrm-1005 – hipaa privacy policy and procedures
+university of richmond | 7
+hrm-1005.5- maintaining appropriate documentation regarding compliance with hipaa
+a. the university will maintain documentation, in written or electronic form, of policies, procedures,
+communications, and other administrative documents as required by 45 cfr § 164.530(i) and (j) for a
+period of at least six (6) years from the date of creation or the date when last in effect, whichever is later.
+this policy will be kept in the university security documentation library. the library is located in
+box for internal access. outdated and superseded materials from the security documentation library
+will be kept in an archive (the security documentation archive) for at least six (6) years after the date
+when they are first outdated or superseded.
+b. the university will incorporate, document, and implement into its policies, procedures and other
+administrative documents any changes in law.
+c. the following documentation will be maintained in an organized manner;
+1. policies and procedures related to the use or diclsoure of phi;
+2. requests for the use or disclosure of phi;
+3. agreements with business associates referring to the use or disclosure of phi; and
+4. notice of privacy practices and any changes made thereto.
+d. documentation will be maintained in a manner that allows necessary availability, while also ensuring
+the security of information.
+hrm-1005.6 - minimum necessary provision
+a. the university will make reasonable efforts to ensure that the minimum necessary amounts of phi are
+disclosed, used, or requested to accomplish the intended purpose. exceptions to the minimum necessary
+requirement include disclosures:
+1. to the individual who is the subject of the information;
+2. made pursuant to an authorization provided by the individual;
+3. to the healthcare providers for treatment purposes;
+4. required for compliance with the standardized hipaa transactions;
+5. made to the secretary of hhs or their agent pursuant to a privacy investigation;
+6. otherwise required by the privacy rules or other law.
+hrm-1005.7 – notice of privacy practices
+a. the university will provide a formal notice to individuals regarding the use or disclosure of phi
+pursuant to 45 cfr §164.520. this will be provided in a separate document entitled notice of privacy
+practices (npp).
+b. the npp will be provided electronically to all benefit-eligible employees of the university:
+1. in their new hire packets;
+2. in their open enrollment guides;
+3. on or after the effective date of a revision;
+
+hrm-1005 – hipaa privacy policy and procedures
+university of richmond | 8
+4. upon request;
+5. at least once every three (3) years, the university will inform all covered employees of the
+availability of the notice and how to obtain it;
+6. on the univeristy human resources webpage.
+c. the university reserves the right to change the terms of its npp and to make new npp provisions
+effective for all phi that it maintains.
+1. in implementing a change in the npp, the university will:
+a. ensure that the policy or procedure, as revised to reflect a change in the university's
+privacy practice, complies with the standards, requirements, and implementation
+specifications of the privacy regulations;
+b. document the policy or procedure as revised;
+c. revise the npp to state the changes in practice and make the revised npp available; and
+d. not implement a change in policy or procedure prior to the effective date of the revised
+npp.
+2. the university will provide each covered employee with any revisions of its npp.
+d. when providing the npp to an individual by email, the university will:
+1. provide a paper copy of the npp to the individual upon request.
+e. the university may change policies or procedures that do not affect the content of the npp, provided
+that the policy or procedure complies with the privacy regulations and is documented as required in this
+policy.
+hrm-1005.8 – business associates
+a. the university may allow business associates to create or receive phi on university's behalf. the
+university will document these assurances through a written agreement, and review of the business
+associates' hipaa compliance plan.
+b. the agreement between university and university business associates must meet the following
+requirements, as applicable:
+1. establish permitted and required uses or disclosures of phi that are consistent with those
+authorized for university, and provide reasonable assurance to university that the confidentiality
+of the phi will be maintained.
+2. provide that the business associate will:
+a. not use or disclose the phi except as authorized under the agreement or required by law.
+b. use safeguards to prevent unauthorized use or disclosure.
+c. report unauthorized uses or disclosures to university.
+d. pass on the same obligations relating to protection of phi to any business associate
+subcontractors they contract with.
+
+hrm-1005 – hipaa privacy policy and procedures
+university of richmond | 9
+e. make information available for the provision of an accounting of uses and dislcosures in
+accordance with relevant law and policy.
+f. make its internal practices, books and records relating to its receipt or creation of phi
+available to the seretary of hhs for purposes of determining business associate's
+compliance with privacy rules.
+g. authorize termination of the agreement by university upon a material breach by
+business associate, or for other reasons.
+3. compliance responsibilities: business associates must agree to report any use or disclosure of phi not
+permitted by the business associate agreement and any successful security incident to university within
+a commercially reasonable period, but in no event later than within fifteen (15) business days, after it is
+discovered or should have reasonably been discovered.
+4. enforcement and sanctioning of business associates: any business associate found to have violated
+the business associate agreement shall be subject to penalties, up to and including termination of the
+agreement. in the case where inappropriate access or use of protected health information was or may
+have been involved, the business associate may additionally be reported ot the appropriate law
+enforcement agencies.
+hrm-1005.9 – enforcement and sanctioning of employees
+a. knowledge of a violation or potential violation of any of this policy must be reported directly to the
+privacy officer. an employee found to have violated this reporting obligation shall be subject to
+disciplinary action.
+b. sanctions
+the university will apply appropriate sanctions against its employees who fail to comply with
+university policies and procedures.
+1. the type of sanction applied shall vary depending on the severity of the violation, whether the
+violation was intentional or unintentional, whether the violation indicates a pattern or practice of
+improper access, use or disclosure of health information, and similar factors.
+2. violations of a severe nature may result in notification to law enforcement officials as well as
+regulatory, accredidation, and/or licensure organizations.
+3. all sanctions will be documented and retained for a period of at least six (6) years from the date
+of its creation or the date when it was last in effect, whichever is later.
+4. the university, to the extent practicable, shall mitigate any harmful effects of unauthorized uses
+or disclsoures of phi by the university or any of its business associates.
+hrm-1005.10 – breach incident by the univeristy or business associate
+a. breach incident by the univeristy:
+1. a breach shall be treated as discovered by university on the first day when such breach is known
+to the university or, by exercising reasonable diligence, would have been known to university.
+the university shall be deemed to have knowledge of a breach if the breach is knowns, or if by
+
+hrm-1005 – hipaa privacy policy and procedures
+university of richmond | 10
+exercising reasonable diligence would have been known, to any person, other than the person
+committing the breach, who is an employee, officer, or other agent of university.
+2. if it is determined that a breach has occurred, the university will provide notification to
+applicable individuals and entities in accordance with university policy.
+3. employees shall immediately notify the university's privacy officer of any unauthorized access,
+use, or disclosure of phi. the privacy officer will protect the identity and source of the
+information provided to the extent possible.
+b. breach incident by a business associate:
+1. a breach shall be treated as discovered by the business associate on the first day when such
+breach is known to business associate or, through the exercise of reasonable diligence, would
+have been known to the business associate. a business associate shall be deemed to have
+knowledge of the breach if the breach is known, or by exercising reasonable diligence would
+have been known, to any person, other than the person committing the breach, who is an
+employee, officer, or other agent of the business associate. the business associate will mitigate,
+to the extent practicable, any harmful effect that is knowns to the business associate of a use or
+disclosure of phi by the business associate in violation of the requirements of the agreement
+between the business associate and the covered entity.
+2. if it is determined that a breach of unsecured phi has occurred, the business associate will
+provide notification to the univeristy and other applicable individuals and entities in accordance
+with the university's data exposure policy.
+hrm-1005.11 – employee rights
+a. requesting a copy of health record
+1. to the extent the university maintains individual phi in a designated record set, an employee
+has a right to request a a copy of that phi in electronic form within thirty (30) days of the request
+and to transmit the copy directly to another person designated by the individual, provided that
+such choice is clear, conspicuous, and specific.
+b. alternate means of receiving confidential communications for phi
+1. the university will accommodate reasonable requests by individuals to receive communications
+of phi, to the extent the university maintains phi, by alternative means or in alternative
+locations.
+c. individual revocation of an authorization to disclose phi
+1. an employee may revoke a prior authorization provided to the university to disclose phi.
+d complaints and prohibition against retaliation
+1. university employees have a right to submit a complaint regarding any aspect of the university
+practices regarding phi to the univeristy privacy officer and/or with hhs. additionally,
+employees have a right to:
+a. testify, assist, or participate in an investigation, compliance review, proceeding, or
+hearing under part c of title xi;
+
+hrm-1005 – hipaa privacy policy and procedures
+university of richmond | 11
+b. oppose any act made unlawful by the hipaa privacy rule, provided the individual or
+person has a good faith belief the act opposed is unlawful, and the manner of the
+opposition is reasonable and does not involve a disclosure of phi in violation of the
+hipaa privacy rule;
+c. disclose phi as a whistleblower when the disclosure is to a health oversight agency,
+public health authority, or an attorney retained by the individual for purposes of
+determining the individual's legal options with regard to the whistleblower activity.
+2. pursuant to the univeristy's policy prohibiting retaliation, neither the university nor any
+employee shall intimidate, threaten, coerce, discriminate against, or take other retaliatory action
+against any individual for the exercise of their rights or participation in any process relating to
+hipaa compliance, or against any person for filing a complaint with the secretary of the u.s.
+department of health and human services, participating in an investigation, compliance review,
+proceeding or hearing, or engaging in reasonable opposition to any act that the person in good
+faith believes to be unlawful under the privacy rules as long as the action does not involve
+disclosure of phi in violation of the regulations.
+policy background:
+reviewed by president's cabinet and approved by vice president & general on may 16, 2022
+non-substantive changes made to revise gender-binary language on january 11, 2023
+policy contacts:
+vice president and general counsel
+director of compliance
+director of compensation and benefits

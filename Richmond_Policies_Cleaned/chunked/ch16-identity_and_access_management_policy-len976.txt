@@ -1,0 +1,13 @@
+. humans resources has the following responsibilities:
+• ensures timely and accurate entry and update of personnel records in the employee system-of-
+record to trigger corresponding identity life cycle events for employees (e.g., account
+provisioning, role changes, and deprovisioning).
+• collaborates with information services to verify employment data changes are correctly
+reflected in identity and access management systems in accordance with institutional policy and
+regulatory requirements.
+• notifies information security immediately of any urgent employee account termination needs
+(e.g., involuntary separations).
+registrar's office – serves as the authoritative source for student academic status and enrollment data.
+the registrar's office has the following responsibilities:
+• ensures timely and accurate entry and update of student records in the student information
+system-of-record to trigger corresponding identity life cycle events for students (e.g., account

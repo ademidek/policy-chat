@@ -1,0 +1,138 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+this policy and related standards define the framework upon which the university of richmond's [the
+"university"] information security program is established and maintained. the policy provides direction for
+information security related policies, standards, procedures, and guidelines to ensure the confidentiality,
+integrity, and availability of university information resources.
+scope:
+this policy applies to anyone who accesses university data, systems, or networks as well as those who
+design, implement, or manage those information resources.
+index:
+irm-4003.1…………definitions
+irm-4003.2…………policy statement
+irm-4003.3…………roles and responsibilities
+irm-4003.4…………applicable regulations and accreditation standards
+policy statement:
+irm-4003.1 – definitions
+application owner – a business or functional position responsible for managing a business application.
+data steward - a university official with executive responsibility over a university division or
+department. data stewards are those individuals listed as the responsible party in the university's records
+and retention schedule.
+policy #: irm-4003 policy title: information security policy
+effective: 05/14/2018 responsible office: information services
+date
+approved:
+05/14/2018
+approval: vice president and chief information officer
+replaces
+policy dated:
+n/a responsible
+university official:
+vice president and chief information officer
+
+irm-4003 – information security policy
+university of richmond | 2
+educause - a nonprofit association dedicated to the advancement of higher education through the
+effective use of information technology. members include representatives from institutions of higher
+education, higher education technology companies, and other related organizations.
+family educational rights and privacy act (ferpa) - a federal law enacted to protect access to student
+records and provide control over the disclosure of information from these records.
+general data protection regulation (gdpr) – a european union privacy law enacted to protect the data
+and privacy rights of natural persons in the union.
+gramm-leach-bliley act (glba) - a federal law enacted to control how financial institutions deal with
+the private information of individuals.
+health insurance portability and accountability act (hipaa) - a federal law enacted to set national
+standards for the security of electronic-protected health information.
+higher education information security council (heisc) – supports higher education institutions as they
+improve information security governance, compliance, data protection, and privacy programs.
+information security program – the administrative, technical, or managerial controls used to protect the
+confidentiality, integrity, and availability of sensitive or protected information that is stored, processed, or
+transmitted by the university and its affiliates.
+information security standard – specifies requirements for compliance with university information
+security and technology policies, other university policies, as well as applicable laws and regulations.
+standards may include business principles, best practices, technical standards, migration and
+implementation strategies, that direct the design, deployment, and management of information resources.
+national institute of standards and technology special publication 800-53 revision 5 (nist sp800-
+53r5) – provides a catalog of security and privacy controls for information systems and organizations that
+process sensitive data. it is a risk management framework that is widely used to establish and manage
+security programs and information technology risks.
+payment card industry data security standard (pci dss) - a comprehensive set of payment application
+security requirements designed to ensure the confidentiality and integrity of credit card data.
+red flags rule - requires many businesses and organizations to implement a written identity theft
+prevention program designed to detect the warning signs – or red flags – of identity theft in their day-to-
+day operations.
+research and education networking information sharing and analysis center (ren-isac) – computer
+security incident response team supporting the research and education community notifying higher
+education institutions of infected hosts and suspicious network traffic.
+user – any individual, including but not limited to faculty, student, staff, contractors, visitors; who access
+and use university information resources or data.
+virginia alliance for secure computing and networking (vascan) - an organization formed to help
+strengthen information technology security programs within virginia. the alliance was organized and is
+operated by security practitioners and researchers from several virginia higher education institutions.
+
+irm-4003 – information security policy
+university of richmond | 3
+irm-4003.2 – policy statement
+the university is required to develop, implement and maintain a comprehensive information security
+program containing administrative, technical, and operational controls. the university's information
+security program is based upon best practices recommended in nist sp800-53r5 and is appropriately
+tailored to the university's size, complexity, and the nature of its activities.
+the program also incorporates security requirements of applicable regulations including, but not limited
+to, ferpa, pci-dss, glba, hipaa, gdpr, and red flags rule. professional organizations, such as
+educause, vascan, heisc, and ren-isac serve as resources for additional security best practices.
+nist sp800-53r4 and other sources noted above are used to guide development and ongoing
+enhancement of additional information security policies, as needed.
+irm-4003.3 –roles and responsibilities
+the vice president and chief information officer is the institutional point of contact for information
+security and is responsible for designating the director of information security to coordinate and oversee
+the information security program.
+the director of information security has delegated authority for the selection and implementation of
+security controls and manages the overall information security program.
+vice presidents, deans, associate/assistant vice presidents and academic/administrative unit leaders shall
+be responsible for identifying critical and sensitive functions. in addition, they and their staff are
+responsible for the security, confidentiality, availability, and integrity of data and software stored on
+individual workstations and centrally managed computer systems to the extent that they have access and
+or access control.
+vice presidents, deans, associate/assistant vice presidents, and academic/administrative unit leaders are
+required to designate a data steward for any information resource under their control. they must also
+designate an application owner for any information resource not centrally managed by information
+services.
+this policy also places responsibility on deans, associate/assistant vice presidents and
+academic/administrative unit leaders to: 1) require appropriate computer use as specified in the policy
+acceptable use policy, 2) ensure compliance with information technology policies and standards by
+people and services under their control, and 3) implement and monitor additional procedures as necessary
+to provide appropriate security of information and technology resources within their area of responsibility.
+all users of university information technology resources are required to adhere to the requirements
+detailed in university of richmond's information security standards and policies related to information
+security and technology.
+irm-4003.4 – applicable regulations
+a. red flags rule of the fair and accurate credit transaction act of 2003 (fact act), public law 108-
+159, section 114
+b. family educational rights and privacy act (ferpa) (20 u.s.c. § 1232g; 34 cfr part 99)
+c. general data protection regulation (gdpr) (eu) 2016/679
+
+irm-4003 – information security policy
+university of richmond | 4
+d. family educational rights and privacy act (ferpa) (20 u.s.c. § 1232g; 34 cfr part 99)
+e. general data protection regulation (gdpr) (eu) 2016/679
+f. gramm–leach–bliley act (glba), also known as the financial services modernization act of 1999,
+public law 106–102, 113 stat. 1338
+g. health insurance portability and accountability act of 1996 (hipaa), public law 104-191
+h. payment card industry data security standard (pci dss)
+i. sacscoc principles of accreditation 12.5 (student records)
+related policies:
+a. acceptable use policy
+b. data security policy
+c. policy for payment card acceptance and security
+d. privacy of student records (ferpa) policy
+e. identity theft prevention program (red flags rule)
+f. legal notice - privacy policy
+policy background:
+revision history: new policy 5/14/2018
+revised related policies 02/24/2021
+revised nist 800-53 standard version on 08/07/2025
+policy contacts:
+vice president and chief information officer, information services
+director of information security, information services

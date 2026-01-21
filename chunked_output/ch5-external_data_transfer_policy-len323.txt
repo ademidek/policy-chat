@@ -1,0 +1,4 @@
+the data owner is the data trustee (or their designee, as defined by the
+administrative data steward list) who has direct authority over and full responsibility for the data—not the
+internal users of that data. 1. this data must be encrypted during transfer and at rest using an encryption strength of aes128, at a
+minimum.

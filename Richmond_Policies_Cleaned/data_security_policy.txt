@@ -1,0 +1,471 @@
+university of richmond | 1
+university of richmond
+policy manual
+policy #: irm-4004 policy title: data security
+effective: 08/05/2024 responsible office: information services
+date
+approved:
+08/05/2024 approval: vice president for information services and
+chief information officer
+replaces
+policy dated:
+09/11/2015 responsible
+university official:
+vice president for information services and
+chief information officer
+purpose:
+this document describes the data security policy for all data created or utilized at or by the university of
+richmond. it defines this data, classifies it and details the requirements for its collection, storage, access, use,
+confidentiality, disclosure and transmission in addition to specifying the requirements of university personnel
+in its security, the levels of privacy of stored e/voice-mail and files and the steps to be taken in case of a data
+exposure.
+scope:
+this policy applies to the university of richmond and all of its affiliates. as used in this policy, the term
+"affiliates" means organizations or entities in which the university owns a controlling interest or has the right
+to elect the majority of the entity's governing board.
+index:
+irm-4004.1 .......definitions
+irm-4004.2 .......classification
+irm-4004.3 .......access to and use of administrative data and education records by university faculty, staff,
+and students
+irm-4004.4 .......storage, transmission and disposal of administrative data and education records
+irm-4004.5 .......access to and use of administrative data or education records by vendors and other third-
+parties
+irm-4004.6……use of generative artificial intelligence (genai) with university data
+irm-4004.7 .......data exposure plan
+
+university of richmond | 2
+irm-4004 – data security
+policy statement:
+irm-4004.1 – definitions
+administrative data
+data that is gathered, produced, stored, and/or disseminated concerning any aspect of the university's
+operations. such data includes, but is not limited to, general ledger/accounting, human capital management,
+student, alumni/development, space management, student housing data, and also includes any data derived
+from the use of such data. administrative data specifically does not include faculty generated classroom
+data nor faculty- or student-generated research data
+data steward domain
+a university administrative or operational area, function or process and the authoritative data elements
+created, collected, and managed by that area throughout the lifecycle of that data, regardless of the
+transactional system(s) in which they reside (e.g., finance data).
+data steward
+typically, a senior operational manager in a functional area responsible for a data stewardship domain.
+education records
+any record (in handwriting, print, electronic form, tapes, film, or other medium) maintained by the
+university of richmond or an agent of the university that is directly related to a student. the following
+records are not considered education records subject to this policy.
+• records kept in the sole possession of the maker that are not accessible or revealed to any other
+person except a temporary substitute for the maker of the record.
+• an employment record of an individual, maintained in the ordinary course of business and used
+solely in connection with such employment, provided the individual's employment is not
+contingent on the fact that he or she is a student. if the individual's employment is contingent upon
+his or her status as a student, then the records are education records.
+• records created and maintained by the university of richmond police department ("urpd") for
+law enforcement purposes. records created by urpd that are maintained by another component
+of the university and records created and maintained by the urpd exclusively for a non-law
+enforcement purpose, such as a disciplinary action or proceeding conducted by the educational
+institution, are considered education records subject to this policy.
+• clinical records relating to a student who is 18 years of age or older that are made by a physician,
+psychiatrist, psychologist or other recognized health care professional or paraprofessional,
+provided those records are made, maintained or used only in connection with treatment of the
+student and are disclosed only to individuals providing treatment.
+• post-attendance records created or received by the university after an individual is no longer a
+student in attendance and that ware not directly related to his or her attendance as a student.
+• grades on peer-graded papers before they are collected and recorded by a professor or instructor.
+principle of least privilege:
+the principle that a security architecture is designed so that each entity is granted the minimum system
+resources and authorizations that the entity needs to perform its function.
+
+university of richmond | 3
+irm-4004 – data security
+vendor
+a vendor is the party with whom the university contracts to provide the goods and/or services identified in
+a contract.
+irm-4004.2 – classification
+the university classifies administrative data into the following categories:
+a. confidential information: confidential information is sensitive information that must be
+safeguarded to protect the privacy of individuals and the security and integrity of systems
+and to guard against fraud. confidential information must be afforded the highest level of
+privacy and security controls. confidential information includes, but is not limited to:
+• social security numbers (ssn)
+• credit and debit card numbers
+• bank account and other financial
+account numbers
+• medical or counseling records or
+information
+• passwords, passphrases, pins, security
+codes, and access codes
+• tax returns
+• credit histories or reports
+• background check report
+b. restricted information: restricted information includes all data, records, documents or files that
+contain information that is: (a) required to be maintained confidentially under any applicable law,
+regulation or university policy; (b) subject to a contractual obligation to maintain confidentially; (c)
+subject to any applicable legal privilege or protection, such as the attorney- client privilege; and/or (d)
+deemed by the university to be a trade secret, confidential or proprietary. examples of restricted
+information include, but are not limited to:
+• education records
+• employment records
+• financial aid records
+• university id number
+• date and place of birth
+• public relations strategies
+• information security protocols or
+systems
+• financial records (other than audited
+financial statements published on
+the university website)
+• contracts and other business arrangements
+and/or strategies with a third-party non-
+disclosure agreement
+• gramm-leach-bliley act (glba) data
+• library circulation records
+c. official use only information: information about individuals that can be shared within the
+university community for official purposes but will not be made available to the public except by
+the office of communications or other authorized offices of the university and such disclosure shall
+be made in a manner consistent with applicable law and the university's
+privacy of education
+records (ferpa) policy. examples of official use information includes a name in conjunction with the
+following:
+
+university of richmond | 4
+irm-4004 – data security
+• addresses: permanent, campus, local
+(off-campus), e-mail and campus
+computer network (ip) address, net id
+• associated telephone numbers
+• school or college
+• major and/or minor fields of study
+• degree sought
+• expected date of completion of degree
+requirements and graduation
+• degrees conferred
+• awards and honors (e.g., dean's list)
+• full or part time enrollment status
+• dates of attendance
+• previous institutions attended
+• participation in officially recognized
+activities and sports
+• weight and height of members of athletic
+team members
+• photograph
+• gender
+• race
+d. public information: information that the university has made available or published for the explicit use
+of the public.
+irm-4004.3 – access to and use of administrative data and education records by university
+faculty, staff, and students
+this section sets forth the requirements governing access to and use of administrative data and education
+records by university faculty, staff, and students. see section 4004.4 for requirements governing the storage
+and transmission of administrative data and education records and section 4004.5 for requirements
+governing access and use of administrative data and education records by vendors and other third parties.
+a. university faculty, staff, students, vendors, and authorized third-parties who have access to
+administrative data or education records are required to maintain and manage such information in
+accordance with this policy.
+b. data stewards are responsible for implementing and enforcing this policy within their respective
+areas of responsibility and for the management of administrative data and education records in
+their purviews, including: a general inventory of the kind of information specific to their roles,
+classification of information into one of the four categories defined in section 4004.2 of this policy
+and, providing authorization for access to administrative data and education records under their
+purview.
+c. administrative data are to be used only when conducting university business. education records may
+be used only as permitted by the university's privacy of education records (ferpa) policy
+d. confidential or restricted information must be securely maintained, controlled, and protected to
+prevent unauthorized access.
+e. authorization to access confidential or restricted information is limited to those faculty, staff,
+students or vendors who require such access to perform their job on behalf of the university and
+will be provisioned in accordance with the principle of least privilege as noted in section irm-
+4004.1. access to education records is limited as set forth in the university's privacy of
+education records (ferpa) policy.
+f. university committees, task forces, and working groups may have access to institutional data only as
+defined in their charge and consistent with other university policies, including the administrative
+data policy. requests for any information beyond their specific charge must be made to the director
+of institutional effectiveness or appropriate data steward. such data shall not be disseminated
+beyond the authorized committee, task force or working group except with the approval of the
+relevant data steward.
+
+irm-4004 – data security
+university of richmond | 5
+g. administrative data shared with students, faculty, and staff for specific business purposes (such as
+serving on committees or in specific roles like department chair or for a particular purpose like
+advising) may not be used beyond the specific purpose for which it was authorized, or disseminated
+to others, without permission from the data steward.
+h. when accessing or transmitting confidential or restricted information an encrypted connection (e.g.,
+virtual private network (vpn), secure shell (ssh), secure socket layer / transport layer security
+(ssl/tls)) must be used. alternative controls for this requirement must be reviewed and approved
+by the director of information security. refer to the external data transfer policy for detailed
+requirements.
+i. university faculty, staff, and students with access to administrative data or education records shall
+prevent unauthorized access to such information by always locking or logging-off of their
+workstation when they leave their work area.
+j. administrative data and education records may not be used for personal gain or profit.
+k. if a university faculty member, staff member, student or vendor loses a computing device that held or
+contains administrative data or education records, or becomes aware of the theft of such a device,
+they must report that loss immediately to their supervisor and the director of information security.
+l. university faculty, staff, students and vendors must follow the university record retention policy
+regarding appropriate retention of administrative data and education records.
+irm-4004.4 – storage, transmission and disposal of administrative data and education records
+university faculty, staff, and students who have access to administrative data or education records are
+required to comply with this policy regarding the storage, transmission and disposal of administrative data and
+education records in electronic and hard copy formats.
+a. storing electronic confidential and restricted information
+1. except as permitted by this policy, electronic confidential and restricted information shall be stored
+only in systems maintained by or under the control of the university. confidential or restricted
+information shall not be stored with a software or service vendor such as google, dropbox or
+microsoft unless the university has a contract with the service provider that contains appropriate
+confidentiality and security provisions that meet or exceed university policy requirements. see
+section 4004.5 of this policy for more information on vendors.
+2. confidential information must not be stored on any mobile computing or storage device such as a
+laptop, pda, usb drive, flash drive or any mobile device or media, regardless of whether such
+device is owned by the university or is personally owned. confidential information may only be
+stored on a university centrally managed storage system (e.g., box).
+3. except as permitted by this policy, restricted information may not be stored on a personal
+computing device such as a laptop, pda, usb drive, flash drive or any mobile device or media.
+a. restricted information stored on a university-owned mobile computing device must be
+encrypted.
+b. use of email to store or transmit confidential or restricted information
+1. when university employees must exchange confidential or restricted information via email to
+conduct university business, the confidential or restricted information must be sent using the
+university's email service.
+2. if university e-mail is accessed or stored on a university or personally owned computing device,
+
+irm-4004 – data security
+university of richmond | 6
+that device must be password/passcode protected and encrypted (e.g., microsoft bitlocker or apple
+filevault) at all times.
+c. transmission of electronic confidential or restricted information to third parties. this section covers
+the transmission of administrative data or education records (other than public information) to
+external vendors, consortiums, companies or individuals on a one-time basis. data transfers that occur on
+an ongoing basis must be developed or reviewed by information services. for those cases, contact the
+director of systems & networks or the director of information security for direction and approval.
+1. the appropriate data steward must approve, in advance, any transfer of confidential or restricted
+data to a third party.
+2. any staff or faculty member seeking to transfer confidential or restricted data must comply with
+this policy. information services will assist with identifying and securing required approvals.
+3. confidential or restricted information must be encrypted at a file-level during transfer. a minimum
+of aes 128-bit encryption must be used, although stronger encryption levels may be appropriate.
+this can be achieved using encrypted archive (e.g., .zip) files. refer to the external data transfer
+policy for detailed requirements.
+4. the key to encrypted data must be transferred out of band. that is, it cannot be transferred using the
+same mechanism or channel as the data. for instance, if data are sent via e-mail, the key must be
+exchanged via phone or letter.
+5. the third-party must acknowledge receipt of the data. acknowledgement must be either in writing
+(e.g., email or letter), via delivery receipt (e.g., if a shipping service or u.s. mail is used), or
+auditable log entry for file sharing / transfer services.
+6. data exchange method must be verified as secure by the director of information security, the
+director of systems & networks or their designate before the transfer is attempted.
+7. data must be securely archived so that in the event of an issue the exact contents of data
+transmission can be verified.
+d. hardcopy confidential and restricted information
+1. paper or hardcopy documents, records, and media containing confidential or restricted information
+must be maintained in secure, locked locations when not in use.
+e. disposal or destruction of confidential and restricted information
+1. confidential and restricted information shall be maintained in accordance with the university's
+record retention policy. confidential and restricted information must be destroyed or deleted at
+the end of the applicable retention period in accordance with this policy.
+2. at the end of the applicable retention period, electronic confidential or restricted information shall
+be deleted from the university's centrally managed storage system and from university owned and
+personally owned computing devises or storage media, including from hard drive files such as the
+recycle bin.
+3. at the end of the applicable retention period, hardcopy confidential and restricted information shall
+be securely disposed of in a document destruction receptacle/bin provided by a university approved
+vendor.
+4. university owned computing devices or storage media (e.g. computer, laptop, mobile device, cd,
+dvd, flash drive, etc.) that have stored administrative data or education records must be turned in
+to information services for secure disposal.
+
+irm-4004 – data security
+university of richmond | 7
+irm-4004.5 access to and use of administrative data or education records by vendors and other third-
+parties
+the university may share administrative data or education records with vendors and other third-parties,
+including government agencies to the extent required by law. university faculty, staff, and students are required
+to comply with this policy when providing vendors and other third-parties with access to administrative data
+or education records (other than public information). if an information request is not covered below the
+recipient of such request must seek the approval of the data steward before providing the requested
+information.
+a. vendors
+1. university faculty and staff shall not provide vendors access to administrative data or education
+records unless a business relationship exists, access to such information is necessary for the
+vendor to provide services to the university, and that there is a contract with the vendor that
+contains appropriate confidentiality and security provisions.
+2. prior to initiating a contract with a vendor or providing a vendor or other outside entity with access
+to administrative data or education records, the university faculty or staff member responsible
+for the vendor relationship must obtain the approval of the appropriate data steward.
+3. all faculty, staff, and students must comply with the university's contract management policy
+and delegation of contract approval and signature authority policy when initiating, negotiating
+and finalizing a contract with a vendor that will have access to administrative data or education
+records.
+4. access to confidential or restricted information will be furnished to vendors and other outside
+entities only if essential and the information provided will be limited to the minimum necessary
+for the vendor or outside entity to provide services to the university.
+5. faculty and staff must comply with this policy and the university's external data transfer policy
+when transferring confidential and restricted data to a vendor. the university faculty or staff
+member responsible for the vendor relationship must work with university information services
+staff to develop any data extracts or reports to ensure that they comply with this policy and other
+university policies. information services staff will provide guidance regarding the use of record
+identifiers.
+6. vendors who host or process confidential or restricted information shall periodically complete an
+independent audit using an established security framework (e.g., nist 800-53, iso 270001,
+hitech, etc.) to validate the effectiveness of their information security controls.
+7. faculty and staff shall require vendors to which they provide administrative data or education
+records to comply with this policy or substantially similar standards contained in the vendor
+contract.
+b. education records
+1. education records are protected under the family educational rights and privacy act of 1974
+("ferpa"), as amended, and its implementing regulations.
+2. all faculty and staff must comply with the university's ferpa policy statement.
+3. all requests from third-parties for education records or student information must be referred to
+the office of the university registrar (804) 289-8639.
+
+irm-4004 – data security
+university of richmond | 8
+c. requests from law enforcement officers, search warrants, subpoenas, court orders, and civil
+investigative demands
+1. if a law enforcement officer or agent or a process sever requests access to or copies of
+administrative data or education records, presents a search warrant or serves a subpoena or civil
+investigative demand the individual to whom such request is made should:
+a. request and review the individual's badge or other official identification; and
+b. refer the officer or agent to the office of the university general counsel (804) 287-6683 or
+(804) 289-8671.
+2. search warrants
+a. if the law enforcement official presents a search warrant the agent or officer may begin a
+search as soon as the warrant is served, after confirmation of the official's badge or other
+official identification.
+b. the university staff or faculty member to whom the search warrant is presented shall
+immediately contact one of the following individuals depending on availability to inform them
+that a court-ordered search has been requested or initiated:
+i. university vice president and general counsel (804) 287-6683; or
+ii. university assistant general counsel (804) 289-8671.
+c. if computers, email, phone records, or electronic information sources are involved in the
+search, the vice president and general counsel or the assistant general counsel shall contact
+the vice president for information services (804) 289-8771 or the director of information
+security (804) 289-8655.
+3. subpoenas, court or agency orders, civil investigative demands, or agency requests for
+records
+a. upon receipt of a subpoena, a court or agency order, a civil investigative demand or any
+request for administrative data or education records from a local, state, or federal agency or
+court, regardless of whether such subpoena, order, demand, or request was personally served,
+mailed, or emailed, faculty and staff shall promptly notify the university vice president and
+general counsel (804) 287-6683 or the university assistant general counsel (804) 289-8671
+and shall provide copies of the subpoena, order, demand or request.
+b. the office of the general counsel shall be responsible for coordinating the university's
+response to such subpoena, order, demand or request.
+4. if a law enforcement officer needs to locate a student, or a faculty or staff member immediately,
+refer them to campus police (804) 289-8715.
+d. employment verifications and background checks
+1. current or former students: all requests for employment information regarding current or former
+students shall be referred to the university registrar (804) 289-8639. the university registrar will
+verify the request, determine whether the student has consented to sharing information, and refer the
+requestor as necessary. faculty and staff shall not respond to these requests for information about
+students unless the registrar has referred the requestor to you.
+2. faculty or staff: university community members may occasionally have a need to have
+employment and/or salary information confirmed as part of a job interview, loan application, real
+estate transaction, etc. all requests for employment or income verification shall be referred to the
+
+irm-4004 – data security
+university of richmond | 9
+employment verification page on the hr website. refer to the employment verification web page
+for instructions on how to access and use the work number.
+all other hr-related questions and requests, including background checks, shall be referred to the
+urhr inbox at urhr@richmond.edu or the hr solution center at (804) 289-8747 (urhr). the
+hr solution center will review the request and refer the requestor to members of the university as
+necessary. do not respond to these requests unless they come through human resources.
+e. requests for references or recommendations
+1. current or former students:
+a. requests for verification of enrollment or degrees shall be referred to the office of the
+university registrar (804) 289-8639.
+b. prior to providing a recommendation for a current or former student that contains information from
+the student's education records, including but not limited to courses taken, grades or grade point
+averages, faculty and staff must obtain a written and signed authorization from the student. the
+authorization must:
+• be in writing,
+• be signed and dated by the student or originate from the student's university of richmond
+email account,
+• specify the records that may be disclosed,
+• state the purpose of the disclosure; and
+• identify the party or class of parties to whom the disclosure may be made
+2. faculty and staff: faculty and staff should refer requests for references to human resources unless
+the faculty or staff member has been asked and agreed to serve as a reference for a colleague.
+f. request for information about university trustees
+the president's office website publishes basic information about trustees, including name, city, state, and
+committee assignments. individuals who seek additional information shall be referred to the secretary of
+the board of trustees at (804) 289-8732.
+irm-4004.6 use of generative artificial intelligence with university data
+generative artificial intelligence (genai) is a technology capable of generating text, images, video, and
+other data through the statistical modeling of data sets. diligence must be exercised to ensure the
+confidentiality, integrity, and availability of administrative data and education records that may be
+accessed by, processed with, or generated through genai applications. this section defines data security
+requirements for the use of genai by university faculty, staff, and students. these requirements are in
+addition to all other requirements defined in this policy.
+a. confidential, restricted, or official use only information shall not be entered into any publicly available
+or commercial genai application without an approved agreement that includes appropriate data security
+requirements in compliance with university policies.
+b. confidential, restricted, or official use only information shall not be entered into any private genai
+application without prior approval through university it governance. additionally, if the application is not
+owned and administered by the university of richmond, an approved use agreement must be executed with
+the application provider and must include appropriate data security requirements in compliance with
+university policies.
+
+irm-4004 – data security
+university of richmond | 10
+c. each genai application must have an acceptable use policy (aup) defining its terms of use, data
+collection policies, and user responsibilities. faculty may include the aup in course syllabi if genai is
+permitted for use in the course.
+d. any administrative data or education records used in a generative ai application must be approved by
+the data steward and reassessed annually.
+e. output from a genai application must be reviewed by the data steward for confidentiality, integrity,
+accuracy, fairness, regulatory compliance, and academic attribution before publication or ingestion into
+another university system.
+f. when a genai application provides data or a decision, a disclaimer must clearly state that artificial
+intelligence was used to generate the output. this ensures transparency and informs users about the nature
+of the information they are receiving.
+irm-4004.7 – data exposure plan
+reports of data compromises and the exposure of sensitive information seem to occur with increasing
+frequency. the university of richmond takes great care to safeguard data and privacy, however, if the
+university experiences such an event, we must be prepared to act quickly. the
+cybersecurity incident
+response policy outlines an action plan for our incident response.
+related policies and regulations:
+ferpa policy
+university record retention policy
+cybersecurity incident response policy
+computer systems backup policy
+external data transfer policy
+hipaa privacy policy and procedures
+gramm-leach-bliley act (glba)
+policy background:
+date policy action
+08/01/2011 original version
+12/30/2012 minor revisions and web links added
+02/26/2014 formatting and updated links
+
+irm-4004 – data security
+university of richmond | 11
+02/26/2014 bullet #6 added to section 3. responsibilities related to the storage, access, and use of
+university administrative information
+09/11/2015
+the responsibilities related to the storage, access, and use of university administrative
+information section was updated to include specific guidelines about internal sharing of
+university administrative information.
+4/2/2024 major revision. restructured document for clarity and more defined groupings of
+requirements. replaced "university administrative information" with "administrative data"
+and aligned that definition with the definition in the administrative data management policy.
+updated the definition of data steward to reference the administrative data management
+policy instead of the records retention schedule. added definition for "vendor" that aligns
+with the contract management policy. updated suggestive language to be directive by
+replacing "should" with "shall" throughout the policy. added explicit reference to gramm-
+leach-bliley act (glba) for restricted data. added requirement #5 for annual vendor audit
+requirement. updated requirement #8 to clarify the requirement and remove a hyperlink to
+outdated encryption procedure. removed reference to "netfiles" as a central storage system.
+updated references to the associate vice president of human resources to chief human
+resources officer. removed irm-4004.6 privacy of e-mail, voice mail, and electronic files
+since that section is covered by policy irm-4008 "access to electronic files policy". added
+irm-4004.6 use of generative artificial intelligence with university data. updated link for
+the employment verification website. replaced data exposure policy link in data exposure
+plan section to refer to the cybersecurity incident response policy. made general updates
+throughout the policy to ensure that requirements for education records are explicitly defined.
+8/5/2024 revised policy reviewed by president's cabinet and approved by vp for information services
+and chief information officer
+policy contacts:
+vice president for information services and chief information officer

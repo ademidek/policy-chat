@@ -1,0 +1,574 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+the university of richmond ("richmond") is committed to safeguarding the privacy of personal data. this
+policy is in response to regulation (eu) 2016/679 (commonly known as the general data protection
+regulation or the gdpr), and provides individuals located in the european union ("eu"), and in the european
+economic area (eea) with the required notice of how richmond collects, uses, and disclosures personal
+information provided to richmond.
+s
+cope:
+this policy applies to all individuals located in the european union (eu) and in the european economic area
+(eea), who submit personal information and/or use richmond's websites and other services. this policy
+supplements additional richmond privacy notices which can be found here and which are incorporated herein
+by reference. when information is submitted to richmond, or an individual uses richmond's websites and
+other services, they consent to the collection, use, and disclosure of that information as described in this privacy
+notice. on those occasions when richmond transfers data to a third-party processor, individuals will then be
+subject to the privacy policy of that processor.
+this policy does not apply to processing of personal data prior to may 25, 2018.
+index:
+irm-4006.1 .......definitions
+irm-4006.2 .......data protection officer
+irm-4006.3 .......the identity and contact details of the controller
+irm-4006.4 .......richmond's purpose and legal basis for processing personal data
+irm-4006.5 .......data disclosed to third parties
+irm-4006.6 .......retention and destruction of an individual's data
+policy #: irm-4006 policy title: general data privacy regulation (gdpr)
+privacy notice
+effective: 09/10/2018 responsible office: compliance & title ix
+date
+approved:
+09/10/2018 approval: vice president and general counsel
+replaces
+policy dated:
+n/a
+responsible
+university official:
+director of compliance & title ix coordinator
+
+irm-4006 – general data privacy regulation (gdpr) privacy notice
+university of richmond | 2
+irm-4006.7 .......transfer of personal data to the united states
+irm-4006.8 .......an individual's rights to control their personal data
+irm-4006.9 .......the right to file a complaint with the supervisory authority
+policy statement:
+irm-4006.1 – definitions
+the gdpr defines (a) "personal data" as information that identifies an individual, or may be used to identify
+an individual, such as name, an identification number, location data, an online identifier, or factors specific to
+the individual's physical, physiological, genetic, mental, economic, cultural or social identity, (b) "sensitive
+personal data" as information that relates to racial or ethnic origin, political opinions, religious beliefs, trade
+union activities, physical or mental health, sexual life, or details of criminal offences. (c) "controller" as the
+entity that determines the purposes and means of the processing of personal data, (d) "processor" as the entity
+that processes personal data on behalf of the controller, and (e) "data subject" as a natural person who is
+identified, or can be identified, by reference to his or her personal data.
+irm-4006.2 – data protection officer
+richmond is not a public authority or body. at present, richmond's core activities do not include the regular
+and systematic monitoring of data subjects on a large scale, nor does it process on a large scale either special
+categories of data (as described in gdpr article 9) or personal data relating to criminal convictions and
+offenses (as described in gdpr article 10). for these reasons, richmond is not subject to the gdpr
+requirement to designate a data protection officer ("dpo"). if, in the future, richmond voluntarily designates
+a dpo, this notice shall be updated to identify and include contact information for the dpo.
+irm-4006.3 – the identity and contact details of the controller
+under the gdpr, richmond, in most cases, will be deemed the "controller" of an individual's personal data.
+to contact richmond in its capacity as controller, please direct all questions and concerns to
+gdpr@richmond.edu
+.
+irm-4006.4 – richmond's purpose and legal basis for processing personal data
+richmond will only process personal data for lawful purposes under the gdpr related to richmond's
+charitable, educational, and scientific purposes and arising from: (a) the individual's relationship with
+richmond as a prospective, current, or former student (or such a student's parent or guardian), faculty or staff
+member, contractor, donor, research subject, or visitor to richmond or attending a richmond event; or (b) an
+individual's use of or access to richmond's website(s).
+richmond will ordinarily collect and process personal data because it has legitimate interest in doing so or is
+fulfilling its rights and obligations under a contract to which the individual is a party. when richmond
+cannot rely on either of such legal grounds, it will seek an individual's prior consent.
+the purposes for which richmond collects personal data, and the legal bases for processing such personal
+data, are summarized in the chart that appears below.
+
+irm-4006 – general data privacy regulation (gdpr) privacy notice
+university of richmond | 3
+in the chart, each reference to (a) richmond's "legitimate interest" shall require a determination by
+richmond that its legitimate interest in processing personal data is not overridden by an individual's interest
+or fundamental right and freedom in protecting such personal data; and (b) "necessary for the performance
+of a contract" shall be deemed to mean, "necessary for the performance of a contract or agreement to which
+an individual is a party, or preliminary steps leading up to such a contract or agreement;" (c) "prior consent"
+shall mean an individual's voluntarily consent, given prior to the processing of any personal data.
+purpose for processing legal basis for processing
+student admissions applications
+and other student
+data: obtaining admissions
+applications, transcripts, test scores
+and related documents from
+applicants to determine their
+qualification for admission, and
+preparing related correspondence,
+including acceptance and rejection
+letters; obtaining job applications,
+resumes, background checks, motor
+vehicle records, and other
+background materials from students
+applying for jobs
+• richmond has a legitimate interest in collecting information
+needed to evaluate an applicant's personal, educational, and
+work background in order to make admissions and employment
+decisions and otherwise process such applications, and in
+compiling statistical information to, among other purposes,
+evaluate richmond's diversity, affirmative action, and equal
+opportunity performance
+or
+• an individual's prior consent
+staff and faculty job
+applications: preparing
+acceptance and rejection letters;
+obtaining job applications, resumes,
+background checks, motor vehicle
+records, and other background
+materials from job applicants
+• richmond has a legitimate interest in collecting information
+needed to evaluate an applicant's personal, educational, and
+work background in order to make an employment decision and
+otherwise process such applications, and in compiling statistical
+information to, among other purposes, evaluate richmond's
+diversity, affirmative action, and equal opportunity
+performance.
+or
+• such processing is necessary for the performance of a contract
+or
+• an individual's prior consent
+
+irm-4006 – general data privacy regulation (gdpr) privacy notice
+university of richmond | 4
+managing student
+accounts: establishing and
+administering student accounts,
+issuing invoices, processing
+payments and refunds, preparing
+related correspondence, and, if
+necessary, pursuing collection
+efforts
+• richmond has a legitimate interest in charging tuition, fees, and
+other charges and collecting amounts due related to a student's
+education in order to maintain richmond's fiscal stability
+or
+• such processing is necessary for the performance of a contract
+managing payroll
+accounts: collecting forms needed
+to satisfy regulatory requirements
+(such as irs w-4 and w-9 forms),
+and other documents necessary to
+prepare payroll checks, bank
+account information, make
+withholdings, issue irs w-2 forms,
+process pension and retirement
+contributions and payments, and
+related employee payroll matters
+• richmond has a legitimate interest in collecting necessary
+information so that richmond can, in a timely and accurate
+manner, and in compliance with applicable laws, pay its
+employees their salaries, make appropriate withholdings, and
+make required reports to and file required documents with the
+irs
+or
+• such processing is necessary for the performance of a contract
+or
+• an individual's prior consent
+managing benefits
+accounts: collecting and
+processing benefit election and
+claim forms in order to manage
+employee benefits including
+medical, vision, dental, and other
+insurance coverages, pension and
+retirement accounts, transit
+benefits, fsa and hsa accounts,
+beneficiary designations, and
+related employee benefit matters.
+• richmond has a legitimate interest in collecting necessary
+information so that richmond can, in a timely and accurate
+manner, and in compliance with applicable laws, provide
+employees, their dependents, and retirees with employee
+benefits, and make required reports to and file required
+documents with the irs and other government bodies and third-
+party benefit administrators
+or
+• such processing is necessary for the performance of a contract
+or
+• an individual's prior consent
+
+irm-4006 – general data privacy regulation (gdpr) privacy notice
+university of richmond | 5
+managing expenses, purchasing,
+and reimbursements: collecting,
+issuing, and processing expense
+requests, purchasing invoices,
+receipts, approvals, payment
+records, bank accounts, checks, and
+electronic payments
+• richmond has a legitimate interest in collecting necessary
+information so that richmond can account for expenses, pay
+bills on time, recover amounts owed to richmond, and
+otherwise administer richmond's day-to-day financial affairs
+or
+• such processing is necessary for the performance of a contract
+administering grant,
+scholarship, and financial aid
+programs: accepting, reviewing,
+and making decisions related to
+financial assistance programs,
+including preparing, executing,
+monitoring, and enforcing grant,
+scholarship, and loan agreements
+and notes documenting such
+financial assistance
+richmond has a legitimate interest in helping students find financial
+resources to pay for their education, in complying with third-party
+lender and federal and state requirements, and documenting and
+administering such financial assistance programs
+or
+• such processing is necessary for the performance of a contract
+or
+• an individual's prior consent
+class registration, enrollment,
+and education
+records: registering students for
+courses, confirming completion of
+required course work, accepting,
+reviewing, and evaluating student
+course work, operating education
+software to support teaching,
+conducting institutional statistical
+research to measure effectiveness,
+and for accreditation and
+collaborative purposes
+• richmond has a legitimate interest in establishing that students
+are enrolled and completing classes necessary to satisfy
+enrollment requirements (which may also be a condition to
+eligibility for certain benefits) and degree requirements, and
+scheduling and staffing courses, in assigning and evaluating
+homework, administering tests, and facilitating group
+instruction and learning
+or
+• such processing is necessary for the performance of a contract
+
+irm-4006 – general data privacy regulation (gdpr) privacy notice
+university of richmond | 6
+evaluating academic
+performance and granting
+degrees: assigning grades and
+other performance measures;
+confirming satisfaction of required
+classwork and out-of-class
+requirements applicable to the
+awarding of degrees; preparing
+transcripts and diplomas;
+maintaining long-term graduation
+and performance records and
+providing these to employers
+• richmond has a legitimate interest in evaluating student
+performance, awarding degrees, recognizing outstanding
+achievements, holding graduation ceremonies, and providing its
+graduates and prospective employers with information
+confirming such performance, degrees, and achievements
+or
+• such processing is necessary for the performance of a contract
+or
+• an individual's prior consent
+evaluating faculty and staff
+performance: preparing and
+processing evaluations (including
+self-evaluations), maintaining
+personnel and disciplinary files,
+compiling other performance
+measure data
+• richmond has a legitimate interest in evaluating the
+performance of faculty and staff members for purposes of
+promotions, tenure decisions, disciplinary action, setting
+salaries, and improving productivity
+or
+• such processing is necessary for the performance of a contract
+issuing and use of university
+identification: issuing
+identification cards bearing faculty,
+staff or student photos and
+embedded with personal
+information for use in accessing
+university facilities, events, and
+resources; and making payments
+• richmond has a legitimate interest in identifying whether an
+individual is a student, faculty, or staff member, or who is
+otherwise authorized to be on richmond property and to access
+richmond programs and services, in classifying persons as
+either richmond community members or trespassers, in
+establishing the authority of individuals to take certain actions,
+and in facilitating the flow of persons, information, and
+payments throughout richmond
+or
+• such process is necessary for the performance of a contract
+
+irm-4006 – general data privacy regulation (gdpr) privacy notice
+university of richmond | 7
+operating dining halls and
+other food service
+facilities: running cafeterias,
+restaurants, snack bars, and on-
+campus convenience stores, and
+administering credit, debit, and
+payment programs related to such
+services
+• richmond has a legitimate interest in confirming that only
+authorized persons use food service facilities, in verifying that
+such use conforms to meal plan and payment requirements, and
+in identifying personal dietary constraints and preferences in
+order to offer appropriate food options
+or
+• such processing is necessary to the performance of a contract
+providing student
+housing: providing and operating
+dormitories and other student
+housing and residence life
+programs
+• richmond has a legitimate interest in controlling access to
+student housing so that housing facilities are occupied only by
+eligible persons and accessed only by permitted persons at
+permitted times in order to safely and securely operate such
+facilities, and in collecting and maintaining personal
+information for use in cases of emergencies
+or
+• such processing is necessary for the performance of a contract
+or
+• an individual's prior consent
+providing student support
+services: providing
+accommodations under disabilities
+laws, offering tutoring services and
+supplemental instruction, student
+conduct, providing physical and
+mental health and wellness care and
+counseling, and operating a fitness
+center
+• richmond has a legitimate interest in promoting, assisting, and
+monitoring student accessibility, educational progress, physical
+and mental health and well-being, and evaluating the use and
+outcomes of such services
+or
+• such processing is necessary for the performance of a contract
+or
+• your prior consent
+
+irm-4006 – general data privacy regulation (gdpr) privacy notice
+university of richmond | 8
+campus security
+measures: taking measures to
+protect persons and property (both
+physical, personal, and digital)
+through encryption, firewalls,
+password, reset questions,
+surveillance cameras, login
+systems, card-swiping and similar
+entrance/exit tracking devices, and
+other security efforts.
+• richmond has a legitimate interest in insuring the physical and
+digital security of its campus and the members of the richmond
+community, and in preventing, detecting, and taking
+enforcement action with respect to criminal and other unlawful
+and/or unauthorized activity; such legitimate interest includes
+sharing security information with federal, state, and local law
+enforcement authorities, as required or permitted by law
+or
+• such processing is necessary for the performance of a contract
+complaint and grievance
+procedures: enabling students,
+staff and faculty to file and process
+complaints and grievances by such
+means as helpline, public safety
+and sexual harassment complaints,
+title ix complaint process, human
+resources complaints, the financial
+aid and bursar financial dispute
+process, student conduct
+proceedings, and the academic
+grievance appeals process
+• richmond has a legitimate interest in providing procedures for
+richmond members to report dishonest behavior, wrongful
+actions, injurious conduct, and conflicts of interest, and to
+contest richmond decisions that are perceived to be unfair or
+otherwise inappropriate or
+or
+• such processing is necessary for the performance of a contract
+offering access to university
+information services: providing a
+user identity account including
+richmond email account, storing
+information on richmond servers
+(and servers of third party
+processors), allowing students,
+faculty, staff, and alumni, and other
+authorized persons the right to use
+university-licensed software,
+providing access to educational
+platforms, assessment tools, social
+media, library applications,
+archives, and digital collections
+richmond has a legitimate interest in providing access to richmond
+information services for learning and communication purposes, in
+assuring richmond's compliance with applicable licenses and
+contracts relating to the use of such services, in securing data on such
+systems, in monitoring the system, and in performing system
+maintenance, analytics, and upgrades or
+or
+• such processing is necessary for the performance of a contract
+
+irm-4006 – general data privacy regulation (gdpr) privacy notice
+university of richmond | 9
+ticketing: processing information
+related to selling or otherwise
+issuing tickets for athletic, musical,
+theatrical, and other university
+events and conferences
+• richmond has a legitimate interest in holding events open both
+to the richmond community and to the general public and in
+charging and collecting admission fees for such events
+or
+• such processing is necessary for the performance of a contract
+recruitment and university
+marketing: tracking inquiries and
+website activity (including through
+the use of "cookies" and similar
+tracking files) to identify and
+recruit prospective students,
+faculty, and staff
+• richmond has a legitimate interest in identifying both qualified
+students to attend richmond and qualified faculty and staff to
+work at richmond
+or
+• an individual's prior consent
+research: conducting educational,
+scientific, and other research and
+related statistical analysis
+• richmond has a legitimate interest in carrying out experiments,
+interviews, clinical evaluations, longitudinal studies and other
+research activities to advance knowledge and translate such
+research into activities and applications that benefit society
+or
+• an individual's prior consent
+alumni and advancement
+communications: maintaining
+contact and other personal
+information for alumni and donors
+in order to send correspondence,
+magazines, newsletters, online
+communications, invitations, and to
+seek and accept gifts and donations
+• richmond has a legitimate interest in maintaining an ongoing
+relationship with alumni for informational, networking, job
+placement, continuing education, and fund-raising purposes,
+and in communicating richmond's programs and successes to
+the general public
+
+irm-4006 – general data privacy regulation (gdpr) privacy notice
+university of richmond | 10
+insurance claim
+processing: obtaining and
+evaluating personal information
+pertaining to claims of bodily
+injury, property damage, and other
+liability claims, including collecting
+medical reports and health
+insurance information, personal
+financial data, police reports, or
+other relevant information,
+including information required by
+richmond's insurers
+• richmond has a legitimate interest in obtaining the factual
+information needed to evaluate the merits of a claim so in order
+to decide on the appropriate resolution of incidents involving
+loss or injury
+or
+• such processing is necessary for the performance of a contract
+or
+• an individual's prior consent
+complying with legal
+obligations: compiling and
+providing information required
+under applicable laws, including,
+without limitation, the internal
+revenue code, title iv and title
+ix, u.s. department of education
+laws and regulations, the
+immigration and naturalization
+service, and the department of
+homeland security
+• richmond has a legitimate interest in complying with legal
+obligations imposed under federal, state, and local laws
+irm-4006.5 – data disclosed to third parties
+in transferring personal data to a processor, richmond will employ suitable safeguards to protect the privacy
+and security of personal data so that it is only used in a manner consistent with the individual's relationship
+with richmond and this privacy notice.
+as otherwise permitted by applicable law or regulation, richmond may disclose data to third parties as
+follows:
+• consent: richmond may disclose an individual's data with prior consent.
+• emergency circumstances: richmond may share an individual's data, when necessary to protect an
+individual's interests and when the individual is physically or legally incapable of providing consent.
+• employment necessity: richmond may share an individual's data when necessary for administering
+benefits in accordance with applicable law and subject to the imposition of appropriate safeguards to
+prevent further unauthorized disclosure.
+• charitable organizations: richmond may share an individual's data with other not-for-profit organizations
+in connection with charitable giving subject to the imposition of appropriate safeguards to prevent
+further unauthorized disclosure.
+
+irm-4006 – general data privacy regulation (gdpr) privacy notice
+university of richmond | 11
+• public information: richmond may share an individual's data if that individual has manifestly made it
+public.
+• archiving: richmond may share an individual's data for archiving purposes in the public interest, and for
+historical research, and statistical purposes.
+• performance of a contract: richmond may share an individual's data when necessary to administer a
+contract the individual has with richmond.
+• legal obligation: richmond may share an individual's data when the disclosure is required or permitted
+by international, federal, or state laws and regulations.
+• service providers: richmond uses third parties who have entered into a contract with richmond to
+support the administration of richmond operations and policies. in such cases, richmond shares data
+with such third parties subject to the imposition of appropriate safeguards to prevent further
+unauthorized disclosure.
+• de-identified and aggregate information: richmond may use and disclose data in de-identified or
+aggregate form without limitation.
+irm-4006.6 – retention and destruction of an individual's data
+the gdpr requires that an individual's personal data be kept no longer than necessary. the applicable time
+period will depend on the nature of such personal data and will also be determined by legal requirements
+imposed under applicable laws and regulations. richmond's record retention policy and record retention
+schedule can be found at:
+record retention policy and schedule
+irm-4006.7 – transfer of personal data to the united states
+personal data that an individual provides while in the eu, will be transferred to the united states. the gdpr
+permits such transfer when richmond has a legitimate interest in doing so, when it is necessary for the
+performance of a contract between the individual and richmond, or if richmond obtains the individual's
+explicit consent to such transfer. by using richmond websites, online platforms, applying to richmond,
+applying for admission to richmond, attending richmond, applying for employment at richmond, or
+requesting services from richmond, individuals are consenting to having their data processed in the united
+states.
+irm-4006.8 – an individual's right to control their personal data
+articles 15-21 of the gdpr give individuals the right to control their personal data by directing richmond as
+controller, to do one or more of the following, subject to certain conditions and limitations:
+(a) allow the individual access to their personal data to see what information richmond has collected
+concerning the individual;
+(b) correct (rectify) any inaccuracy in the individual's personal data;
+
+irm-4006 – general data privacy regulation (gdpr) privacy notice
+university of richmond | 12
+(c) delete (erase) an individual's personal data, unless richmond can demonstrate that retention is necessary
+or that richmond has other overriding legitimate grounds for retention;
+(d) restrict the processing of an individual's personal data;
+(e) transfer an individual's personal data to a third party (portability); and
+(f) upon an individual's objection, stop processing personal data when richmond is relying on a legitimate
+interest basis for processing such data unless richmond can demonstrate compelling legitimate grounds for
+processing that override the individual's interests in prohibiting such processing.
+(g) if an individual has provided consent to the use of their data, they have the right to withdraw consent
+without affecting the lawfulness of richmond's use of the information prior to receipt of that request.
+individuals may exercise these rights by contacting gdpr@richmond.edu. richmond will ask you for
+information verifying the individual's identity, and will respond to the request within a reasonable timeframe
+irm-4006.9 – the right to file a complaint with the supervisory authority
+if an individual believes their privacy rights under the gdpr have been violated, the gdpr gives the
+individual the rights and remedies set forth in gdpr articles 77-82. these include the right to file a
+complaint with the appropriate supervisory authority in the eu or eea.
+related policies:
+information services: https://www.richmond.edu/legal/privacy-policy.html
+hippa policy: https://policy.richmond.edu/documents/policy-pdfs/public/hr/hipaa_policy.pdf
+caps privacy practice: https://caps.richmond.edu/information-and-services/privacy.html
+ferpa: https://registrar.richmond.edu/ferpa/statement/index.html
+policy background:
+this policy was reviewed by president's cabinet and approved by university general counsel in september
+2018.
+this policy was reviewed in august 2023 with minor revisions.
+policy contacts:
+director of compliance & title ix coordinator

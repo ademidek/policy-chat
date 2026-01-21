@@ -1,0 +1,11 @@
+investigation.
+irm-4002.5 – roles and responsibilities
+vice president of information services – ensures an incident management program is in place to respond to
+cybersecurity events and incidents; escalates and informs executive leaders of incidents impacting the
+university; appoints members to the ur-cirt.
+director of information security – evaluates events to determine if and when they should be categorized as an
+incident, the scope, and risk level; activates the ur-cirt; informs the vp of information services, and
+escalates incidents to the cybersecurity support team, as needed; maintains the university ir plan and
+overall security awareness program that trains users on how and when to report incidents; ensures that
+technical resources are in place or requested to identify if an incident has occurred; ensure corrective actions
+identified in incident reports are appropriately prioritized and executed.

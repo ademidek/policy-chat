@@ -1,0 +1,12 @@
+. as such, all members of the university community have the obligation to appropriately use
+and safeguard the data, in all formats and in all locations.
+a. to the extent possible, administrative data should be collected and stored with common
+definitions, and consistent formats and data entry standards to foster data accuracy and
+consistency in reporting and data integration, (e.g., consistency in country codes in student and
+alumni applications).
+b. administrative data must be safeguarded to maintain the confidentiality and privacy of
+personally identified and personally identifiable information in accordance with university
+policies.
+2. data classification – administrative data is categorized as confidential, restricted, official use only
+or public following the university's data security policy and must be safeguarded appropriately.
+3

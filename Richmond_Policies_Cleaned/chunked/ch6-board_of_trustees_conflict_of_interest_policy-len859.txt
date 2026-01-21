@@ -1,0 +1,11 @@
+. an indirect transaction is one in which a covered
+person engages in a transaction with an organization for which another covered person serves as
+trustee, director, officer, key employee or owns greater than a 35% interest; or
+• two covered persons each serve as a director, trustee, officer, key employee or has a greater
+than 10% ownership interest in the same business or investment entity; or
+• one covered person has an investment interest in a business, company, limited partnership, or
+investment vehicle for which another covered person serves as an officer, director, or trustee or
+owns greater than a 35% ownership interest.
+except as specifically noted above, a business relationship does not include a transaction between
+covered persons that is offered in the ordinary course of business on the same terms as are generally
+offered to the public

@@ -1,0 +1,5 @@
+classification of networked devices
+workstations
+workstations are general use devices that run microsoft windows, macos, or linux operating systems. servers
+servers are devices that provide shared resources such as file shares, printers, or an application to one or
+more users over the network. with very few exceptions, they can be found in the campus data center.

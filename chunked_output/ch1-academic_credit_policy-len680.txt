@@ -1,0 +1,17 @@
+policy #: acd-1001
+policy title: academic credit policy
+effective: 11/15/2024 responsible office: registrar's office
+date
+approved:
+11/15/2024 approval: university faculty senate
+replaces
+policy dated:
+11/19/2021 responsible
+university official:
+university registrar
+purpose:
+this policy outlines current practices used to determine academic credit within schools at the university of
+richmond. scope:
+this policy applies to the university of richmond and all of its affiliates. as used in this policy, the term
+"affiliates" means organizations or entities in which the university owns a controlling interest or has the right
+to elect the majority of the entity's governing board.

@@ -1,0 +1,133 @@
+university of richmond | 1
+university of richmond
+policy manual
+scope:
+this policy applies to the university of richmond and all of its affiliates. as used in this policy, the term
+"affiliates" means organizations or entities in which the university owns a controlling interest or has the right
+to elect the majority of the entity's governing board.
+index:
+irm-3001.1 .......purpose
+irm-3001.2 .......definitions
+irm-3001.3 .......policy statement
+irm-3001.4……applicable regulations and accreditation standards
+policy statement:
+irm-3001.1 – purpose
+the university of richmond provides network connectivity to faculty, staff, students, and visitors to facilitate
+the educational mission of the institution. network connectivity can take the form of a wired connection, wi-
+fi connection, or remote access connection via the campus vpn.
+devices that connect to the campus network must satisfy minimum network security requirements to protect
+the integrity of shared data, systems, and operations. devices that cannot be meet these requirements may be
+permitted to connect to the restricted network. a visitor network is provided for anonymous wi-fi access
+for those not affiliated with the university.
+policy #: irm-3001 policy title: network device connectivity policy
+effective: 07/01/2021 responsible office: information services
+date
+approved:
+06/29/2021
+approval: vice president for information services & chief
+information officer
+replaces
+policy dated:
+11/18/2016 responsible
+university official:
+vice president for information services & chief
+information officer
+
+irm-3001– network device connectivity policy
+university of richmond | 2
+irm-3001.2 – definitions
+university networks
+campus network
+the campus network is the primary point of access for faculty, staff, and students to the university's
+computing resources, systems, and data.
+restricted network
+university assets that do not meet the minimum network security requirements may be connected to the
+restricted network. the restricted network is comprised of devices that would normally pose a
+vulnerability to other users, data, and applications. the restricted network allows aging technology to
+continue to run on a short-term basis, until it is upgraded or replaced, by restricting the ability of devices
+to connect to services on the campus network.
+visitor network
+the university provides an anonymous and unencrypted wi-fi network for visitors. there may be some
+restrictions regarding access to university and internet resources on the visitor network.
+classification of networked devices
+workstations
+workstations are general use devices that run microsoft windows, macos, or linux operating systems.
+servers
+servers are devices that provide shared resources such as file shares, printers, or an application to one or
+more users over the network. with very few exceptions, they can be found in the campus data center.
+smart devices
+a smart device is typically a general-purpose computing device that has multiple functions, but unlike a
+traditional desktop or laptop, it is usually much smaller and more mobile.
+embedded devices
+an embedded device generally contains a special-purpose operating system. the device is typically
+dedicated to a small set of tasks and is usually "headless" meaning there is no person directly operating the
+device.
+
+irm-3001– network device connectivity policy
+university of richmond | 3
+irm-3001.3 – policy
+all networks (campus, restricted, and visitor) must be comprised of switches, wi-fi access points, and
+vpn devices that have been configured and deployed by network services. no third party or
+departmental network access equipment is permitted.
+in all cases, users of university networks (campus, restricted, and visitor) are always required to adhere
+to the requirements of the acceptable use policy (https://is.richmond.edu/policies/acceptable-use.html), as
+well as those policies outlined at http://is.richmond.edu/policies/index.html.
+campus network
+the campus network is designed with logical and physical segmentation. technical controls are applied
+to groups of users and systems to ensure data confidentiality, integrity, and availability. security controls
+are placed on many shared access segments to mitigate the spread of malicious traffic. the campus
+network requires some form of authentication. anonymous access is permitted only on the visitor
+network.
+it is important that the requirements in the accompanying network device connectivity standard
+are
+evaluated prior to the purchase of any network connected device. in order to protect the integrity of the
+campus network and the connected users, systems, data and devices, network services reserves the right
+to remove any device from the campus network that does not meet the requirements or to move it to the
+restricted network.
+network connected devices are divided into classes, based on the definitions in this policy. these devices
+must meet the network security requirements enumerated in the network device connectivity standard
+.
+restricted network
+the following categories of workstations and servers must use the restricted network:
+• systems with obsolete operating systems or hardware for which patches for security vulnerabilities
+are no longer available from the manufacturer or vendor
+• systems that are not actively managed to install manufacturer-provided security patches in a timely
+manner
+• systems attached to obsolete equipment that preclude the patching of the system.
+users recognize that the devices on the restricted network are there because the devices represent a risk
+to the campus network. note that these devices also represent a risk to other devices in the restricted
+network. any unusual activity or disruptions should be reported to the help desk.
+restrictions for devices on the restricted network are documented in the
+network device connectivity
+standard.
+
+irm-3001– network device connectivity policy
+university of richmond | 4
+visitor network
+faculty, staff, and students should not connect devices to the visitor network. visitor devices include any
+workstation or smart device brought to campus by a visitor of the university. visitors are not permitted to
+connect servers or embedded devices to the visitor network. connectivity to the visitor network does not
+require authentication.
+restrictions for devices on the visitor network are documented in the accompanying
+network device
+connectivity standard.
+irm-3001.4 – applicable regulations and accreditation standards
+sacscoc principles of accreditation 10.6 (distance and correspondence education)
+red flags rule of the fair and accurate credit transaction act of 2003 (fact act), public law 108-
+159, section 114
+family educational rights and privacy act (ferpa) (20 u.s.c. § 1232g; 34 cfr part 99)
+general data protection regulation (gdpr) (eu) 2016/679f. gramm–leach–bliley act (glba), also
+known as the financial services modernization act of 1999, public law 106–102, 113 stat. 1338
+health insurance portability and accountability act of 1996 (hipaa), public law 104-191
+payment card industry data security standard (pci dss)
+sacscoc principles of accreditation 12.5 (student records)
+related policies:
+irm-4003 information security policy
+irm-2001 acceptable use policy
+policy background:
+policy created on november 18, 2016
+revisions to policy reviewed by president's cabinet on 06/28/2021 and approved by vp & cio on
+06/29/2021
+policy contacts:
+vice president for information services & chief information officer
+assistant vice president for systems & networks

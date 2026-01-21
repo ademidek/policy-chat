@@ -1,0 +1,7 @@
+index:
+prm-1007.1 ......definitions
+prm-1007.2 ...... policy statement
+prm-1007.3 ...... roles & responsibilities
+policy statement:
+prm-1007.1 – definitions
+charcoal grill: a type of grill that uses charcoal as fuel to cook food.

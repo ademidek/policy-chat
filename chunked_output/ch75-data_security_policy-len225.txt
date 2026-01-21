@@ -1,0 +1,3 @@
+added requirement #5 for annual vendor audit
+requirement. updated requirement #8 to clarify the requirement and remove a hyperlink to
+outdated encryption procedure. removed reference to "netfiles" as a central storage system.

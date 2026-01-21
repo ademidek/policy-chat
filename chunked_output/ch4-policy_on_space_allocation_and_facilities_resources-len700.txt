@@ -1,0 +1,6 @@
+academic use spaces: university classrooms, auditoriums, studios and laboratories, whose primary purpose
+is holding classes, conducting research, or accommodating other academic activities and are designated as
+academic use spaces in the university space taxonomy. priority use space: spaces primarily allocated to function-specific purposes (e.g., athletics facilities for
+intercollegiate athletic purposes) and are designated as priority use spaces in the university space
+taxonomy. local use space: spaces, typically embedded within departments or units, that are utilized primarily by the
+employees or students in that unit and are designated as local use spaces in the university space taxonomy.

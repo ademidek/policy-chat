@@ -1,0 +1,6 @@
+these
+individuals are the only persons with the authority to contractually bind the university. they are able to view,
+edit, approve, reject and put on hold contracts within the cms. vendor/third-party contract form
+a vendor/third-party contract form is a contract written using a form provided to the university by a vendor
+or other third party that is written by a vendor, or another party, which may deviate from the university's
+standard terms and conditions.

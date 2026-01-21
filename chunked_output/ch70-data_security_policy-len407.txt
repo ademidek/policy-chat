@@ -1,0 +1,5 @@
+this ensures transparency and informs users about the nature
+of the information they are receiving. irm-4004.7 – data exposure plan
+reports of data compromises and the exposure of sensitive information seem to occur with increasing
+frequency. the university of richmond takes great care to safeguard data and privacy, however, if the
+university experiences such an event, we must be prepared to act quickly.

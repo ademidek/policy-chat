@@ -1,0 +1,6 @@
+irm-4002 – cybersecurity incident response policy
+university of richmond | 4
+cybersecurity support team – a subgroup of the crisis and emergency management team who will develop
+the high-level response, coordination, and decision-making structure during an incident. ur-cirt – composition of the ur-cirt is defined in the ir plan and members are appointed by the vice
+president of information services. the team will conduct risk assessment and response in accordance with the
+ir plan.

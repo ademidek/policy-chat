@@ -1,0 +1,10 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+this policy and related standards define the framework upon which the university of richmond's [the
+"university"] information security program is established and maintained. the policy provides direction for
+information security related policies, standards, procedures, and guidelines to ensure the confidentiality,
+integrity, and availability of university information resources. scope:
+this policy applies to anyone who accesses university data, systems, or networks as well as those who
+design, implement, or manage those information resources.

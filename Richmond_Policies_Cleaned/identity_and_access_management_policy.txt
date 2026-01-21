@@ -1,0 +1,232 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+to establish a framework that facilitates appropriate access by authorized individuals and entities to university
+electronic systems, data, and resources at the right time, and for legitimate academic, research, and
+administrative purposes.
+scope:
+this policy applies to anyone who accesses university of richmond (ur) data, electronic systems, software
+applications, or data networks as well as those who design, implement, or manage associated information
+services.
+index:
+irm-4009.1 .......definitions
+irm-4009.2 .......policy statement
+irm-4009.3 .......roles and responsibilities
+policy statement:
+irm-4009.1 – definitions
+policy #: irm-4009
+policy title: identity and access management policy
+effective: 10/10/2025 responsible office: information services
+date
+approved:
+10/10/2025 approval: vice president for information services and
+chief information officer
+replaces
+policy dated:
+n/a
+responsible
+university official:
+vice president for information services and
+chief information officer
+
+irm-4009 – identity and access management policy
+university of richmond | 2
+access: access is the ability to utilize various university electronic systems, services, and resources. this
+includes accessing cloud- and campus-hosted data and applications, data networks, computing devices, and
+others.
+application: software designed to address various needs, ranging from simple utilities and productivity tools
+to complex enterprise system solutions. typically, they have a user interface that allows people to digitally
+interact with them, and they may also rely on data processing, storage and communication functionality to
+accomplish their intended purpose.
+authentication: authentication is the process by which an electronic system or software application confirms
+that a person or device really is who or what it is claiming to be and through which access to the requested
+resource is authorized. strong authentication protocols help both to protect personal and university
+information and prevent misuse of university resources.
+authorization: authorizations are implicit or explicit permissions to use a resource associated with a digital
+account. once the user of an account is authenticated, a system or resource determines if the person requesting
+access is authorized to use it.
+deprovisioning: the removal of computing accounts associated with an identity. the process can be
+automated or manual, or a mixture of both.
+directory services: systems for storing and maintaining information about identities and resources. directory
+services are often referred to as directories, user stores, or identity stores, and they store information such as
+usernames, passwords, and user preferences. directory services are used to provision user accounts, manage
+access privileges and monitor and control access to software applications. active directory and openldap
+are two examples of directory services.
+entitlements: entitlements, also known as authorizations, privileges, or permissions, are access policies used
+to manage electronic access to data, information services, and software applications. they define what a given
+identity is authorized to access and what actions can be performed.
+• birthright entitlements are granted automatically either implicitly or explicitly in the account
+creation process and are often related to an individual's affiliation with the university (e.g.,
+employee, student, alumni).
+• application entitlements are requested by an individual but require approval by an application
+owner or data steward before being granted.
+identity: digital credentials and characteristics that uniquely represent a person, device, or application within
+an organization's network. a digital identity can consist of multiple accounts, credentials, and entitlements
+associated with a single entity or person.
+identity and access management (iam): a security and business discipline that combines policies, processes,
+and technologies to ensure the right people or devices gain appropriate access to the right assets at the right
+time for the right reasons, while preventing unauthorized access and fraud.
+least privilege: the principle of least privilege dictates that users should be granted the minimum necessary
+access rights to perform their tasks and nothing more. this security concept aims to minimize potential
+damage from compromised accounts, accidental errors, or malicious attacks by limiting the scope of
+permissions.
+multi-factor authentication (mfa): multi-factor authentication (mfa) is a security measure that requires
+users to provide more than one form of identification to access an account or system. mfa is a layered
+approach to security that makes it harder for unauthorized users to gain access to a system, even if one
+credential is compromised.
+
+irm-4009 – identity and access management policy
+university of richmond | 3
+permissions: specific operations or actions that an authenticated user or entity is allowed to perform on a
+resource or system. permissions are a fundamental part of authorization, which determines what an
+authenticated user can do, after authentication verifies who they are. permissions are typically assigned to
+roles, which are then assigned to users, creating a system of access control.
+privileges: the right of an account to perform certain actions on pieces of data in an information service.
+elevated privileges are rights that exceed the privileges of a typical user of the system.
+provisioning: the creation, ongoing maintenance, and removal of computing accounts associated with an
+identity. the process can be automated or manual, or a mixture of both.
+service accounts: a service account is used when it is necessary for electronic systems or software
+applications to authenticate to other electronic systems or software applications without any association with a
+person.
+user accounts: a user account is a unique identity assigned to a specific person that allows that person to
+access a computer, network, or software application. the account may either exist in a central repository to
+which software applications may connect to consume identity and authentication information, or it may be
+managed locally on an information system or device.
+irm-4009.2 – policy statement
+1. accounts
+a. user accounts: when supported by the system or application, all user accounts should be
+created centrally in the directory services repositories hosted by information services. if the
+system or application does not support central authentication, then accounts may be created
+locally, in which case the creation, deletion, and maintenance of local accounts is the sole
+responsibility of the appropriate application owner(s).
+b. service accounts: these accounts should be created sparingly and documented. their use must
+be reviewed annually. the password requirements for service accounts must be no less
+stringent than those for user accounts. service accounts may not be used by individuals to
+authenticate. after initial testing, service accounts must be configured to be non-interactive if
+possible.
+c. privileged accounts: certain accounts may have extra privileges related to the management of
+a device or application. administrative privilege can be added to either user or service account
+types. privileged accounts must utilize multifactor authentication (mfa) if that security
+capability can be configured for the relevant system or application. accounts with elevated
+privileges must be closely monitored by information services and/or application owners for
+potential abuse.
+2. authentication
+information services (is) maintains centralized authentication services for the use of both on-premise
+and cloud-based applications. these services are enumerated in the authentication standard associated
+with this policy. in addition to traditional password-based authentication, is also provides a centralized
+multifactor authentication (mfa) service.
+
+irm-4009 – identity and access management policy
+university of richmond | 4
+some software applications support their own local credential stores for the purpose of user
+authentication. this method is often referred to as native or application-level authentication.
+applications that are small in scope, with a very limited number of users, may be configured for local
+authentication. however, central authentication is always preferred. the operational department creating
+local accounts must define the procedures by which local accounts will be approved and created. the
+procedures must be consistent with this policy as well as with the university's acceptable use policy
+.
+3. authorization
+the management and maintenance of authorizations is a shared responsibility of information services
+and local application administrators and data stewards. all authorizations must be granted in accordance
+with the concept of least privilege. only authorizations that are necessary to perform job tasks should be
+granted. all others should be denied/disabled.
+4. provisioning
+a. birthright entitlements: when an account is created in the university's central identity system,
+certain authorizations are immediately created with it, such as the ability to authenticate against
+ur's enterprise authentication systems, access to ur's data network, and several online
+resources. accounts are granted these authorizations automatically during the account creation
+process managed by information services and are often related to an individual's affiliation
+with the university. changes in affiliation will automatically result in changes to birthright
+entitlements.
+b. requestable entitlements: these are entitlements that are requested by an individual but that
+require approval by an application owner or data steward before being granted. all requests
+should be made, tracked, and fulfilled through the online ticketing application (e.g.,
+spidertechnet) maintained by information services.
+c. deprovisioning: information systems shall be designed and deployed in a way that facilitates
+timely removal of a person's authorizations and accounts at appropriate times.
+d. centrally managed accounts and authorizations: enterprise level accounts or authorizations
+that are listed in the enterprise directory service and have authentication credentials in ur's
+enterprise authentication services shall be deprovisioned in accordance with the
+user life
+cycle standard associated with this policy.
+e. local accounts and authorizations: when accounts or authorizations are created outside of the
+central enterprise authentication system, the operational department creating the accounts must
+define a mechanism to deprovision the accounts in a timely fashion (generally within a few
+business days unless a specific time frame is requested) and consistent with the conditions
+expressed in the associated
+user life cycle standard.
+note: deprovisioning local accounts must occur promptly upon role change, separation, or
+termination. it is insufficient to rely on central deprovisioning of accounts as a method of
+terminating locally deployed authorizations, as the timeliness of account deprovisioning is
+dependent on factors that are beyond the control of local application administrators.
+irm-4009.3 –roles and responsibilities
+information services – information technology experts dedicated to maintaining identity management
+systems that centrally manage digital accounts shall have the following responsibilities:
+
+irm-4009 – identity and access management policy
+university of richmond | 5
+• create, remove, and maintain digital accounts in centralized enterprise directory services.
+• create, remove, and monitor central service accounts.
+• create, remove, and monitor central privileged accounts.
+• provide and maintain centralized authentication services, including multi-factor authentication.
+• manage and maintain authorizations for enterprise software applications.
+• manage and maintain a service that grants and revokes birthright entitlements, as appropriate.
+• manage and maintain a service for requestable entitlements.
+• manage and maintain an auditing service
+• maintain a list of enterprise and departmental applications and their respective application
+owners (available upon request)
+human resources – serves as the authoritative source for faculty, staff, student worker, retiree,
+contractor, and volunteer employment data. humans resources has the following responsibilities:
+• ensures timely and accurate entry and update of personnel records in the employee system-of-
+record to trigger corresponding identity life cycle events for employees (e.g., account
+provisioning, role changes, and deprovisioning).
+• collaborates with information services to verify employment data changes are correctly
+reflected in identity and access management systems in accordance with institutional policy and
+regulatory requirements.
+• notifies information security immediately of any urgent employee account termination needs
+(e.g., involuntary separations).
+registrar's office – serves as the authoritative source for student academic status and enrollment data.
+the registrar's office has the following responsibilities:
+• ensures timely and accurate entry and update of student records in the student information
+system-of-record to trigger corresponding identity life cycle events for students (e.g., account
+provisioning, status changes, and deprovisioning).
+• collaborates with information services to verify student data changes are correctly reflected in
+identity and access management systems in accordance with institutional policy and regulatory
+requirements.
+• notifies information security immediately of any urgent student account termination needs.
+application owners – for purposes of this policy, application owners are typically operational managers
+in a functional area responsible for the administration of a departmental software application or
+computer system. application owners shall have the following responsibilities:
+• manage and maintain all local accounts required on software applications or computer systems
+that they administer (i.e., provisioning, deprovisioning, auditing, etc.)
+
+irm-4009 – identity and access management policy
+university of richmond | 6
+• review and approve requests for access to software applications or computer systems that they
+administer.
+data stewards – data stewards are typically senior operational managers in a functional area responsible
+for a data stewardship domain as defined by the university's administrative data management policy.
+data stewards shall have the following responsibilities:
+• review and approve requests for access to data in their assigned data stewardship domain.
+data management committee – the data management committee (dmc) is a university-wide
+committee primarily composed of data stewards and data supervisors. the dmc is co-chaired by the
+director, institutional effectiveness and the assistant vice president for systems and networks. the
+dmc shall have the following responsibilities:
+• reviewing the operational effectiveness of identity and access management policies and
+procedures and making recommendations for improvement and change.
+• providing oversight of all university processes and systems which create, maintain, and report
+on identity and access management data.
+• ensuring regular and appropriate collaborative communication with the it governance
+steering committee on operational changes related to identity and access management that
+may impact business processes.
+related policies:
+irm-4004 - data security policy
+irm-4008 - access to electronic files policy
+irm-4007 - administrative data management policy
+irm-2001 - acceptable use policy
+irm-4003 - information security policy
+policy background:
+policy approved on 10/10/2025 following review by president's cabinet
+policy contacts:
+vice president for information services and chief information officer

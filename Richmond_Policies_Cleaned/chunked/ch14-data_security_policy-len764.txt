@@ -1,0 +1,10 @@
+. administrative data shared with students, faculty, and staff for specific business purposes (such as
+serving on committees or in specific roles like department chair or for a particular purpose like
+advising) may not be used beyond the specific purpose for which it was authorized, or disseminated
+to others, without permission from the data steward.
+h. when accessing or transmitting confidential or restricted information an encrypted connection (e.g.,
+virtual private network (vpn), secure shell (ssh), secure socket layer / transport layer security
+(ssl/tls)) must be used. alternative controls for this requirement must be reviewed and approved
+by the director of information security. refer to the external data transfer policy for detailed
+requirements.
+i

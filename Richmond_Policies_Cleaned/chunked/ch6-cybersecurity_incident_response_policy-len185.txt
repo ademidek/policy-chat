@@ -1,0 +1,3 @@
+. if the incident pertains to data or systems that fall under a regulatory retention period that
+exceeds five (5) years, the regulatory retention period will take precedence.
+irm-4002.4

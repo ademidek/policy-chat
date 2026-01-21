@@ -1,0 +1,17 @@
+acd-8101 – museum collections management policy
+university of richmond | 2
+acd-8101.13.........accession
+acd-8101.14.........deaccession
+acd-8101.15.........disposal
+acd-8101.16.........incoming loans
+acd-8101.17.........outgoing loans
+acd-8101.18.........personal collections
+acd-8101.19.........appraisals and identification
+acd-8101.20.........revision and compliance
+policy statement:
+acd-8101.1 – definitions
+accessioning – the formal process used to accept legally and to record a specimen or object as part of a
+collection; the act of accepting objects into the category of materials that a museum holds in the public trust;
+the creation of an immediate, brief, and permanent record utilizing a control number for an object or group of
+objects added to the collection from the same source at the same time, for which the museum has custody,
+right or title.

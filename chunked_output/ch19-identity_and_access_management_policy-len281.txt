@@ -1,0 +1,5 @@
+accounts with elevated
+privileges must be closely monitored by information services and/or application owners for
+potential abuse. 2. authentication
+information services (is) maintains centralized authentication services for the use of both on-premise
+and cloud-based applications.

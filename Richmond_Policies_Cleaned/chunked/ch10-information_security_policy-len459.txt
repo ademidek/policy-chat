@@ -1,0 +1,6 @@
+. in addition, they and their staff are
+responsible for the security, confidentiality, availability, and integrity of data and software stored on
+individual workstations and centrally managed computer systems to the extent that they have access and
+or access control.
+vice presidents, deans, associate/assistant vice presidents, and academic/administrative unit leaders are
+required to designate a data steward for any information resource under their control

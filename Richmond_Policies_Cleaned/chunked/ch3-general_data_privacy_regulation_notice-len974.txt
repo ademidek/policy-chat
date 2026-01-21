@@ -1,0 +1,24 @@
+. on those occasions when richmond transfers data to a third-party processor, individuals will then be
+subject to the privacy policy of that processor.
+this policy does not apply to processing of personal data prior to may 25, 2018.
+index:
+irm-4006.1 .......definitions
+irm-4006.2 .......data protection officer
+irm-4006.3 .......the identity and contact details of the controller
+irm-4006.4 .......richmond's purpose and legal basis for processing personal data
+irm-4006.5 .......data disclosed to third parties
+irm-4006.6 .......retention and destruction of an individual's data
+policy #: irm-4006 policy title: general data privacy regulation (gdpr)
+privacy notice
+effective: 09/10/2018 responsible office: compliance & title ix
+date
+approved:
+09/10/2018 approval: vice president and general counsel
+replaces
+policy dated:
+n/a
+responsible
+university official:
+director of compliance & title ix coordinator
+
+irm-4006 – general data privacy regulation (gdpr) privacy notice

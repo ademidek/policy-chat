@@ -1,0 +1,14 @@
+chief information officer
+
+irm-4005 – external data transfer policy
+university of richmond | 2
+restricted information – includes all data, records, documents or files that contain information that is: (a)
+required to be maintained confidentially under any applicable law, regulation or university policy; (b) subject
+to a contractual obligation to maintain confidentially; (c) subject to any applicable legal privilege or
+protection, such as the attorney-client privilege; and/or (d) deemed by the university to be a trade secret,
+confidential or proprietary.
+user – any individual, including but not limited to faculty, student, staff, contractors, and visitors who has
+access and uses university information resources, systems, or data.
+irm-4005.2 – policy statement
+the university will only transfer confidential or restricted data to external parties if the owner of the data
+explicitly approves its transfer

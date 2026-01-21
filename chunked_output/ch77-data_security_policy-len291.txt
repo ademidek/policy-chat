@@ -1,0 +1,4 @@
+updated link for
+the employment verification website. replaced data exposure policy link in data exposure
+plan section to refer to the cybersecurity incident response policy. made general updates
+throughout the policy to ensure that requirements for education records are explicitly defined.

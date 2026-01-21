@@ -1,0 +1,14 @@
+university of richmond | 2
+irm-4004 – data security
+policy statement:
+irm-4004.1 – definitions
+administrative data
+data that is gathered, produced, stored, and/or disseminated concerning any aspect of the university's
+operations. such data includes, but is not limited to, general ledger/accounting, human capital management,
+student, alumni/development, space management, student housing data, and also includes any data derived
+from the use of such data. administrative data specifically does not include faculty generated classroom
+data nor faculty- or student-generated research data
+data steward domain
+a university administrative or operational area, function or process and the authoritative data elements
+created, collected, and managed by that area throughout the lifecycle of that data, regardless of the
+transactional system(s) in which they reside (e.g., finance data).

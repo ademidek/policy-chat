@@ -1,0 +1,10 @@
+. individuals who seek additional information shall be referred to the secretary of
+the board of trustees at (804) 289-8732.
+irm-4004.6 use of generative artificial intelligence with university data
+generative artificial intelligence (genai) is a technology capable of generating text, images, video, and
+other data through the statistical modeling of data sets. diligence must be exercised to ensure the
+confidentiality, integrity, and availability of administrative data and education records that may be
+accessed by, processed with, or generated through genai applications. this section defines data security
+requirements for the use of genai by university faculty, staff, and students. these requirements are in
+addition to all other requirements defined in this policy.
+a

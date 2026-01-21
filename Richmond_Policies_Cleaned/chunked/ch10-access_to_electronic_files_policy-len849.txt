@@ -1,0 +1,10 @@
+. this access of stored files or email shall be
+reported to active employees once they are able to be contacted.
+notification and record maintenance – information services shall keep a record of all incidents which
+require the observation of email content. observing only email system logs or email headers will not require
+an entry in this record. entries shall include the email account id, the date, the is staff member's name, and a
+brief explanation.
+preservation of email – users of the university's electronic mail system should be aware that, even though
+the sender and recipient have discarded their copies of a particular email, back-up copies of discarded email
+exist for a while, and can be retrieved if necessary. systems are routinely "backed up" to protect system
+reliability and integrity as well as to prevent potential loss of data

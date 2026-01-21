@@ -1,0 +1,15 @@
+. it applies to all uses or potential uses of
+electronic signatures for the creation, approval, and execution of contracts (as defined herein).
+this policy does not require the use of electronic signatures or prohibit the ability to engage in contracts or
+other transactions on paper.
+this policy does not apply: (a) to university systems with existing built-in electronic approval workflows,
+such as workday, ellucian banner, chrome river, esm and onbase; (b) when a handwritten signature on
+paper is required by law; (c) to facsimile signatures used on checks issued by the university; or (d) to internal
+agreements (as defined herein) or other documents or records that are solely internal to the university.
+index:
+fin-4412.1 ........definitions
+fin-4412.2 ........use of electronic signatures
+fin-4412.3 ........approved electronic signature methods and products
+policy #: fin-4412
+policy title: electronic signature policy
+effective: 05/21/2024 responsible office: office of general counsel

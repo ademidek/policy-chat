@@ -1,0 +1,5 @@
+the campus
+network requires some form of authentication. anonymous access is permitted only on the visitor
+network. it is important that the requirements in the accompanying network device connectivity standard
+are
+evaluated prior to the purchase of any network connected device.

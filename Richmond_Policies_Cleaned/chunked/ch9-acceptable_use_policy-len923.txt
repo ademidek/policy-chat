@@ -1,0 +1,13 @@
+. information maintained on university systems is a vital asset that
+will be available only to those who have a legitimate business need to access it in order to conduct
+university business. the university does not allow the use of administrative data for anything but the
+conduct of university business. employees accessing data must observe requirements for confidentiality
+and privacy, must comply with protection and control procedures, and must accurately present the data in
+any use.
+members of the university of richmond community must:
+• read and agree to abide by the university's data security policy.
+• be personally responsible for the security and usage of any system connected to the university of
+richmond network, not owned by the university of richmond. find information on connecting
+your computer.
+• choose passwords that meet university standards and keep their passwords secure. see the
+password policy

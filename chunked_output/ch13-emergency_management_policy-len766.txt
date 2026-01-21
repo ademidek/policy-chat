@@ -1,0 +1,7 @@
+sec-2003.4 – continuity plans
+each business unit that is determined by the university to provide essential functions shall maintain a
+continuity plan that reflects sufficient forethought and detail to ensure a high probability of successful
+maintenance or restoration of essential functions following a disruptive event. continuity of operations plans shall be submitted to the office of emergency management annually for
+approval in an emergency management-approved format and shall address at a minimum the following areas:
+a) assignment of personnel as the continuity coordinator for the department. b) direction and control, including authorities and responsibilities of key personnel, the succession of key
+departmental leadership, and delegations of authority.

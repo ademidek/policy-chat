@@ -1,0 +1,4 @@
+7. if an employee is approved to work in a state that is not on the pre-approved list, the date that the
+employee is permitted to work in that state will be delayed until the university completes all
+necessary steps to be in compliance with that state's laws and regulations. employees residing and working out-of-state at the time this policy is implemented should contact their
+supervisor and human resources to ensure compliance.

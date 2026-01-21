@@ -1,0 +1,8 @@
+irm-4007 – administrative data management policy
+university of richmond | 5
+data user – an individual who accesses administrative data to perform their assigned duties. data users
+are responsible for:
+• safeguarding their access privileges
+• the use of the administrative data in conformity with all applicable university policies,
+• securing such data. information services (is) -- information technology experts assigned to transactional and reporting
+systems that maintain administrative data.

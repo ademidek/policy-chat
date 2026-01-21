@@ -1,0 +1,12 @@
+. members include representatives from institutions of higher
+education, higher education technology companies, and other related organizations.
+family educational rights and privacy act (ferpa) - a federal law enacted to protect access to student
+records and provide control over the disclosure of information from these records.
+general data protection regulation (gdpr) – a european union privacy law enacted to protect the data
+and privacy rights of natural persons in the union.
+gramm-leach-bliley act (glba) - a federal law enacted to control how financial institutions deal with
+the private information of individuals.
+health insurance portability and accountability act (hipaa) - a federal law enacted to set national
+standards for the security of electronic-protected health information.
+higher education information security council (heisc) – supports higher education institutions as they
+improve information security governance, compliance, data protection, and privacy programs.

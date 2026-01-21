@@ -1,0 +1,26 @@
+. data transfers that occur on an ongoing basis are subject to separate policies
+and procedures per the data security policy.
+index:
+irm-4005.1 .......definitions
+irm-4005.2…...policy statement
+irm-4005.3…...applicable regulations and accreditation standards
+policy statement:
+irm-4005.1 – definitions
+confidential information – sensitive information that must be safeguarded in order to protect the privacy of
+individuals and the security and integrity of systems and to guard against fraud.
+policy #: irm-4005 policy title: external data transfer policy
+effective: 10/6/2020 responsible office: information services
+date
+approved:
+10/06/2020
+approval: vice president for information services and
+chief information officer
+replaces
+policy dated:
+10/17/2013 responsible
+university official:
+vice president for information services and
+chief information officer
+
+irm-4005 – external data transfer policy
+university of richmond | 2

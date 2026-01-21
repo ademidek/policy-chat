@@ -1,0 +1,5 @@
+higher education information security council (heisc) – supports higher education institutions as they
+improve information security governance, compliance, data protection, and privacy programs. information security program – the administrative, technical, or managerial controls used to protect the
+confidentiality, integrity, and availability of sensitive or protected information that is stored, processed, or
+transmitted by the university and its affiliates. information security standard – specifies requirements for compliance with university information
+security and technology policies, other university policies, as well as applicable laws and regulations.

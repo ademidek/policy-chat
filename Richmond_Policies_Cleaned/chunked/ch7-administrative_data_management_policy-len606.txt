@@ -1,0 +1,9 @@
+. access and confidentiality – access to university administrative data is based on the business needs
+of the university and should enhance the ability of the university to achieve its mission. employees
+shall have access to the administrative data needed to perform their official responsibilities.
+
+irm-4007 – administrative data management policy
+university of richmond | 3
+individually identifiable data shall be available to the extent necessary to perform administrative tasks;
+unit record data will be provided only when aggregate data or other alternatives cannot effectively meet
+the business need

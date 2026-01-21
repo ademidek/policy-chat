@@ -1,0 +1,17 @@
+. data trustee: vice president for student development (todd adams)
+b. data steward(s): director of disability services (cort schneider); disability
+services accessibility specialist (julia kelly)
+c. data stewardship domains: disability data for students (maxient and clockwork)
+11)campus services & facilities data
+a. data trustee: executive vice president and chief operating officer (dave
+hale)
+b. data steward(s): executive director campus business services (jerry
+clemmer*)
+
+c. data stewardship domains: dining/catering (micros, hospitality suite),
+csgold/onecard, event management, campus bookstore, school dude, hvac
+(talon, niagara, thinstack), building data, ricoh.
+12)ifx data
+a. data trustee: vice president for planning & policy (lori schuyler)
+b. data steward(s): executive director, institutional effectiveness (melissa hartz*)
+c

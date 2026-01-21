@@ -1,0 +1,18 @@
+. data stewards are those individuals listed as the responsible party in the university's records
+and retention schedule.
+policy #: irm-4003 policy title: information security policy
+effective: 05/14/2018 responsible office: information services
+date
+approved:
+05/14/2018
+approval: vice president and chief information officer
+replaces
+policy dated:
+n/a responsible
+university official:
+vice president and chief information officer
+
+irm-4003 – information security policy
+university of richmond | 2
+educause - a nonprofit association dedicated to the advancement of higher education through the
+effective use of information technology

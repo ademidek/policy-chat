@@ -1,0 +1,6 @@
+contract approver
+the contract approver is the university employee responsible for approving or rejecting requests for
+contracts and contract terms and conditions that fall within the realm of their responsibility. contract
+approvers are able to view, edit, create, and update contract information in the cms and attach related
+documentation for their department or division. contract approvers are also able to approve, reject, or put on
+hold contracts in the cms.

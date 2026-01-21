@@ -1,0 +1,3 @@
+this section defines data security
+requirements for the use of genai by university faculty, staff, and students. these requirements are in
+addition to all other requirements defined in this policy. a.

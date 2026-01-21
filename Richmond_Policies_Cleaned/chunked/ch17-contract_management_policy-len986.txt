@@ -1,0 +1,15 @@
+. the contract manager is responsible for ensuring the contract information is entered and the document and
+related supporting documentation is uploaded.
+fin-4408.7 compliance and monitoring
+the contract manager, or individual(s) that works regularly with a vendor with whom the university has a
+contract, is responsible for administering the contract for the purposes of compliance with the terms,
+notification of actions, and for making business decisions based on the performance of the contract.
+contract managers shall record changes, renewals, addenda and amendments to contracts within the cms.
+
+fin-4408 – contract management policy
+university of richmond | 6
+fin-4408.8 – roles and responsibilities
+all individuals responsible for the purchase of goods and services on the university's behalf must be familiar
+with contracting requirements and this policy.
+responsibility of contract requestor
+contract requestors are responsible for inputting the contract record into the cms.

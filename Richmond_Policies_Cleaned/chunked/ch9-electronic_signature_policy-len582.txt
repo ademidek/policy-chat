@@ -1,0 +1,8 @@
+. use commercially reasonable and current electronic security protocols;
+b. appropriately verify the identifies of the signatories;
+c. maintain the information in a retrievable format for the time period prescribed in the
+university's record retention policy; and
+d. be auditable.
+except as provided in this policy, university employees or others signing a contract or electronic record on
+behalf of the university shall only use an electronic signature product (e.g., box sign) that has been
+approved by the university and for which the university has a current enterprise contract

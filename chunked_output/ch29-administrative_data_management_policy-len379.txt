@@ -1,0 +1,10 @@
+exhibit 1
+university of richmond administrative data stewards
+november 11, 2024
+data stewardship domains and their respective data trustees and data stewards:
+1) finance data
+a. data trustee: executive vice president and chief operating officer (dave
+hale)
+b. data steward(s): senior associate vp & university controller (laurie
+melville), assistant controller (steve walker*)
+c.

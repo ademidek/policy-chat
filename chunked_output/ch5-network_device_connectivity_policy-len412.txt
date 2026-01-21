@@ -1,0 +1,5 @@
+the restricted network allows aging technology to
+continue to run on a short-term basis, until it is upgraded or replaced, by restricting the ability of devices
+to connect to services on the campus network. visitor network
+the university provides an anonymous and unencrypted wi-fi network for visitors. there may be some
+restrictions regarding access to university and internet resources on the visitor network.

@@ -1,0 +1,16 @@
+. associate registrar
+(bryan moyer), sr. associate registrar (erica jackson)
+c. data stewardship domains: student academic history (courses, grades, registration,
+curriculum, degree audit, transcripts-electronic, transfer, paper, and microfiche;
+grade changes, transfer work); graduation (application, conferral, honors, diploma
+information); academic courses (catalog, course set up, schedule); academic
+curriculum (major/minors, degrees, programs,
+gradtracker); classrooms (location management for academic buildings);
+compliance (ferpa training, ncaa eligibility, veteran's administration
+certifications); emergency contact data for students; student photos
+
+5) financial aid data
+a. data trustee: vice president for enrollment management (stephanie dupaul)
+b. data steward(s): avp and director student financial aid (william bryan),
+sr. associate director financial aid (kathryn owens*)
+c

@@ -1,0 +1,8 @@
+. data trustees are responsible for:
+• the establishment of administrative data management policies and procedures
+• approving all requests, whether new or changes, for agreements/partnerships involving sharing
+university data from their data domain with third party vendors and ensuring these requests
+follow the university's official it governance processes for review and approval
+• assigning data management accountability to appropriate data stewards.
+data steward – typically a senior operational manager in a functional area responsible for a data
+stewardship domain

@@ -1,0 +1,6 @@
+irm-4006.8 – an individual's right to control their personal data
+articles 15-21 of the gdpr give individuals the right to control their personal data by directing richmond as
+controller, to do one or more of the following, subject to certain conditions and limitations:
+(a) allow the individual access to their personal data to see what information richmond has collected
+concerning the individual;
+(b) correct (rectify) any inaccuracy in the individual's personal data;

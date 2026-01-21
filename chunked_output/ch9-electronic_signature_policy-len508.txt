@@ -1,0 +1,8 @@
+fin-4412 – electronic signature policy
+university of richmond | 3
+behalf of the university using an electronic signature. this requirement applies to click-through contracts for
+software or software as a service. fin-4412.3 ........approved electronic signature methods and products
+electronic signatures must be obtained by using an electronic signature method that meets the following
+requirements: for an e-signature method to meet the requirements of this policy, the proposed e-signature
+method must:
+a.

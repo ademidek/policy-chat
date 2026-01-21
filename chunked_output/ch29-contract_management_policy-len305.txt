@@ -1,0 +1,3 @@
+departments are expected to upload current, active contracts that predate the system implementation, along
+with any related documentation, to the cms. 7. the contract manager is responsible for ensuring the contract information is entered and the document and
+related supporting documentation is uploaded.

@@ -1,0 +1,12 @@
+. make its internal practices, books and records relating to its receipt or creation of phi
+available to the seretary of hhs for purposes of determining business associate's
+compliance with privacy rules.
+g. authorize termination of the agreement by university upon a material breach by
+business associate, or for other reasons.
+3. compliance responsibilities: business associates must agree to report any use or disclosure of phi not
+permitted by the business associate agreement and any successful security incident to university within
+a commercially reasonable period, but in no event later than within fifteen (15) business days, after it is
+discovered or should have reasonably been discovered.
+4. enforcement and sanctioning of business associates: any business associate found to have violated
+the business associate agreement shall be subject to penalties, up to and including termination of the
+agreement

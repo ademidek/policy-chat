@@ -1,0 +1,13 @@
+. a delegate may not further
+delegate approval authority that has been delegated to them.
+examples of appropriate delegations include the following:
+• employees with transactional supervisory responsibilities, such as time approval, leave approvals and
+travel expense approvals, may delegate those responsibilities to their supervisor or the cost center
+manager in their area.
+• employees with responsibility for managing budgets and approving financial transactions may
+delegate those approval responsibilities to another cost center manager.
+• employees with responsibility for approval of payments to students may delegate those
+responsibilities to the avp financial aid or the director of financial aid
+• employees with responsibility for system access approvals may delegate those approval
+responsibilities in accordance with the policies associated with that system, typically to another system
+administrator.

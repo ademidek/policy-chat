@@ -1,0 +1,14 @@
+data security policy
+policy background:
+initial policy created may 4, 2006
+revision history added may 18, 2010
+added deans and vps as approvers for user files access; evps as alternates. reviewed by it governance
+committee and president's cabinet prior to approval. dec 18, 2020
+revised version approved by vice president for information services and chief information officer feb 4,
+2021
+policy contacts:
+vice president for information services and chief information officer
+director of information security
+assistant vice president for systems and networks
+assistant vice president for telecommunications, media support, user services, and academic computing
+services

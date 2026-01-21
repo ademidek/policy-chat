@@ -1,0 +1,12 @@
+the following contracts do not require legal review:
+• contracts written using a ur contract form/template, provided that there are no changes made to the terms
+and conditions of the ur contract form/template;
+• contracts written using a vendor/third party contract form when:
+o the total value of the contract is less than $10,000,
+o the subject of the contract does not involve unique risks, including the risk of harm to individuals or
+damage to property,
+o the contract does not provide the vendor with access to the university data, or
+o the contract does not involve the t ransfer or licensing of university intellectual property, including
+copyrights, patents, trademarks, word marks, or logos;
+• contracts with hotels or other event venues written using the vendor's standard form and which contain
+no unusual provisions shifting risk to the university.

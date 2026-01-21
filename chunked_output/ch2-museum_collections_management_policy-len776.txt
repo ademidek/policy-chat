@@ -1,0 +1,24 @@
+index:
+acd-8101.1...........definitions
+acd-8101.2...........mission statement
+acd-8101.3...........ethics
+acd-8101.4….......scope of collections and collecting goals
+acd-8101.5...........collection objects on campus
+acd-8101.6...........standard of care
+acd-8101.7...........access
+acd-8101.8...........documentation
+acd-8101.9...........copyright
+acd-8101.10.........insurance and risk management
+acd-8101.11.........acquisition
+acd-8101.12.........temporary custody
+policy #: acd-8101
+policy title: museum collections management policy
+effective: 07/17/2024 responsible office: university museums
+date
+approved:
+07/17/2024 approval: executive vice president & provost
+replaces
+policy dated:
+09/01/2013 responsible
+university official:
+executive director, university museums

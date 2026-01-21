@@ -1,0 +1,6 @@
+be auditable. except as provided in this policy, university employees or others signing a contract or electronic record on
+behalf of the university shall only use an electronic signature product (e.g., box sign) that has been
+approved by the university and for which the university has a current enterprise contract. if required to use
+the electronic signature product of a third-party vendor that has not been approved by the university, the
+university employee authorized to sign the vendor contract must consult with the university's director of
+information security or their designee prior to using such electronic signature product.

@@ -1,0 +1,5 @@
+d. centrally managed accounts and authorizations: enterprise level accounts or authorizations
+that are listed in the enterprise directory service and have authentication credentials in ur's
+enterprise authentication services shall be deprovisioned in accordance with the
+user life
+cycle standard associated with this policy. e.

@@ -1,0 +1,11 @@
+index:
+ext-3004.1 ......definitions
+ext-3004.2 ......policy statement
+ext-3004.3 ......roles and responsibilities
+policy statement:
+ext-3004.1 – definitions
+gift fund: an institutional fund created when a donor, or multiple donors, give a gift(s) for a specific
+purpose(s) as specified in a gift instrument or other written document. group gifts: gifts intended to establish a new gift fund at the university of richmond through the
+combined individual giving of multiple donors. lead donor: for purposes of this policy, a lead donor is the person(s) determined by the university to enter
+into a gift instrument or other written document with the university for a gift fund that has or will have
+multiple donors.

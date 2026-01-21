@@ -1,0 +1,12 @@
+. federal copyright laws also protect the software
+available for use on computers at the university of richmond. the software provided through the
+university for use by faculty, staff, and students may be used only on computing equipment as specified
+in the various software licenses.
+faculty, staff, or students must not copy or reproduce any licensed software or intellectual property found
+on university computing equipment, except as expressly permitted by the software license, author, or
+granting authority. faculty, staff, and students may not use unauthorized copies of licensed software on
+university-owned computers.
+5. problem resolution and policy violations
+in cases where a member of the university community has allegedly committed a policy violation, broken
+a law, or is causing harm to the information infrastructure; information services may immediately revoke
+access privileges pending the outcome of a full review of the alleged violation

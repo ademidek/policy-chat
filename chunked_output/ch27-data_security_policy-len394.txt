@@ -1,0 +1,6 @@
+b. use of email to store or transmit confidential or restricted information
+1. when university employees must exchange confidential or restricted information via email to
+conduct university business, the confidential or restricted information must be sent using the
+university's email service.
+
+2. if university e-mail is accessed or stored on a university or personally owned computing device,

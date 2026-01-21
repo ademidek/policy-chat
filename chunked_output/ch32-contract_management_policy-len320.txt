@@ -1,0 +1,5 @@
+the contract manager is responsible for:
+1. administering the contract and contract record in cms;
+2. understanding the terms of the contracts, including the business terms, scope of work and/or services, and
+high level legal terms and actionable tasks, such as the notice period for contract renewal or cancellation;
+3.

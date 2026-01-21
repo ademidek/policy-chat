@@ -1,0 +1,8 @@
+document the security measures maintained pursuant to this section 1111.3 (b)(1) and
+all modifications and updates to such security measures;
+d. periodically conduct an accurate and thorough assessment of the potential risks and
+vulnerabilities to the confidentiality, integrity, and availability of electronic phi;
+e. regularly review records of information system activity relating to servers or electronic
+transmission and storage platforms for phi, such as audit logs, access reports, and
+security incident tracing reports;
+f.

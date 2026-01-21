@@ -1,0 +1,4 @@
+irm-4002.4. – reporting a cybersecurity incident
+all members of the university shall immediately report any suspected cybersecurity incident to the university
+of richmond information security department using either the "report cybersecurity incident" form located
+on spidertechnet, email, phone, in-person, or by initiating a help desk support ticket.

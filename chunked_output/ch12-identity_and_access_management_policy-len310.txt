@@ -1,0 +1,2 @@
+privileges: the right of an account to perform certain actions on pieces of data in an information service. elevated privileges are rights that exceed the privileges of a typical user of the system. provisioning: the creation, ongoing maintenance, and removal of computing accounts associated with an
+identity.

@@ -1,0 +1,11 @@
+policy #: hrm-1006 policy title: policy on emeritus status
+effective: 09/22/2023 responsible office: office of the provost
+date
+approved:
+09/22/2023
+approval: executive vice president and provost
+replaces
+policy dated:
+02/04/2010 responsible
+university official:
+executive vice president and provost

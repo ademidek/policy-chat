@@ -1,0 +1,6 @@
+payment card industry data security standard (pci dss) - a comprehensive set of payment application
+security requirements designed to ensure the confidentiality and integrity of credit card data. red flags rule - requires many businesses and organizations to implement a written identity theft
+prevention program designed to detect the warning signs – or red flags – of identity theft in their day-to-
+day operations. research and education networking information sharing and analysis center (ren-isac) – computer
+security incident response team supporting the research and education community notifying higher
+education institutions of infected hosts and suspicious network traffic.

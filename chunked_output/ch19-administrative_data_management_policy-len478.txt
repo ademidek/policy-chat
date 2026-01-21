@@ -1,0 +1,6 @@
+data supervisor – an individual who creates, stores, modifies or otherwise manages administrative data
+within a data stewardship domain. data supervisors are responsible for:
+• executing business and data processes related to administrative data
+• maintaining and reinforcing, wherever possible, a uniform set of definitions for commonly
+consumed data throughout the university (e.g., "enrolled student" should wherever possible have
+the same meaning throughout the university).

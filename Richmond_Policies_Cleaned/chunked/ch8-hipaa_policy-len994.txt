@@ -1,0 +1,13 @@
+. covered employees. all employees that have access to or are exposed to phi.
+d. covered entity. a health plan, a health care clearinghouse, or a health care provider that transmits any
+health information in electronic form relating to any covered transaction.
+e. disclosure. the release, transfer, provision of, access to, or divulging in any other manner of information
+outside the entity holding the information.
+f. employees. all full-time, part-time, or temporary employees, interns, independent contractors, trainees,
+and other persons engaged in the performance of work for the university, its offices, programs or
+facilities.
+g. health plan. the group medical plans, dental plan, health flexible spending account plan, and employee
+assistance plan sponsored by the university.
+h. inappropriate disclosure. the intentional or unintentional release, transfer, provision of,access to, or
+divulging of phi in a manner inconsistent with hipaa, its implementing regulations, or this policy.
+i

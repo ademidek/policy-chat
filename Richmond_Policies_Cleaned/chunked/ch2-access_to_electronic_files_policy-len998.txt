@@ -1,0 +1,26 @@
+. this policy outlines the legal or administrative circumstances under
+which access and/or monitoring may occur.
+scope:
+this policy applies to faculty, staff, and student storage of email, voice mail, and data files maintained in
+university approved information systems.
+index:
+irm-4008.1 .......definitions
+irm-4008.2…...policy statement
+irm-4008.3…...applicable regulations and accreditation standards
+policy statement:
+irm-4008.1 – definitions
+user – any individual, including but not limited to faculty, student, staff, contractors, and visitors who has
+access and uses university information resources, systems, or data.
+policy #: irm-4008 policy title: access to electronic files policy
+effective: 02/04/2021 responsible office: information services
+date
+approved:
+02/04/2021
+approval: vice president for information services and
+chief information officer
+replaces
+policy dated:
+05/04/2006 responsible
+university official:
+vice president for information services and
+chief information officer

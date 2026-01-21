@@ -1,0 +1,14 @@
+. – reporting a cybersecurity incident
+all members of the university shall immediately report any suspected cybersecurity incident to the university
+of richmond information security department using either the "report cybersecurity incident" form located
+on spidertechnet, email, phone, in-person, or by initiating a help desk support ticket.
+
+irm-4002 – cybersecurity incident response policy
+university of richmond | 3
+information security department – email: infosec@richmond.edu phone: 804-289-8655
+information services help desk – email: helpdesk@richmond.edu phone: 804-287-6400
+spidertechnet: https://spidertechnet.richmond.edu
+members of the university must cooperate with incident response investigations and may not interfere,
+obstruct, prevent, retaliate against, or dissuade others from reporting an incident or cooperating with an
+investigation.
+irm-4002.5 – roles and responsibilities

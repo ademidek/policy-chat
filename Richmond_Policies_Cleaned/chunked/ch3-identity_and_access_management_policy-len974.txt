@@ -1,0 +1,13 @@
+. this
+includes accessing cloud- and campus-hosted data and applications, data networks, computing devices, and
+others.
+application: software designed to address various needs, ranging from simple utilities and productivity tools
+to complex enterprise system solutions. typically, they have a user interface that allows people to digitally
+interact with them, and they may also rely on data processing, storage and communication functionality to
+accomplish their intended purpose.
+authentication: authentication is the process by which an electronic system or software application confirms
+that a person or device really is who or what it is claiming to be and through which access to the requested
+resource is authorized. strong authentication protocols help both to protect personal and university
+information and prevent misuse of university resources.
+authorization: authorizations are implicit or explicit permissions to use a resource associated with a digital
+account

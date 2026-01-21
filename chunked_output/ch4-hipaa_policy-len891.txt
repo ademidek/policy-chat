@@ -1,0 +1,18 @@
+hrm-1005 – hipaa privacy policy and procedures
+university of richmond | 2
+index:
+hrm-1005.1 .....definitions
+hrm-1005.2 .....policy statement
+hrm-1005.3 .....confidentiality and security of phi
+hrm-1005.4…..administrative requirements for hipaa implementation
+hrm-1005.5…..maintaining appropriate documentation regarding compliance with hipaa
+hrm-1005.6 .....minimum necessary provision
+hrm-1005.7 .....notice of privacy practices
+hrm-1005.8 .....business associates
+hrm-1005.9 .....enforcement and sanctioning of employees
+hrm-1005.10 ...breach incident by the university or business associate
+hrm-1005.11 ...employee rights
+hrm-1005.1 – definitions
+a. breach. the acquisition, access, use, or disclosure of phi which compromises the security or privacy of
+the phi unless the university or a business associate demonstrates that there is a low probability that the
+phi has been compromised.

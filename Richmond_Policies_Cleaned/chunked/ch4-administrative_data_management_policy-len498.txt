@@ -1,0 +1,6 @@
+. such data includes, but is not limited to, general ledger/accounting, human
+capital management, student, alumni/development, space management, student housing data, and also
+includes any data derived from the use of such data. administrative data specifically does not include faculty
+generated classroom data nor faculty- or student-generated research data.
+data classification: details and examples of university data classification levels are contained in the
+university's data security policy

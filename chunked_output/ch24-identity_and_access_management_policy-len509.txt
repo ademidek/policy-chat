@@ -1,0 +1,7 @@
+provisioning
+a. birthright entitlements: when an account is created in the university's central identity system,
+certain authorizations are immediately created with it, such as the ability to authenticate against
+ur's enterprise authentication systems, access to ur's data network, and several online
+resources. accounts are granted these authorizations automatically during the account creation
+process managed by information services and are often related to an individual's affiliation
+with the university.

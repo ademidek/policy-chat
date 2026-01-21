@@ -1,0 +1,338 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+the purpose of this policy is to:
+1. facilitate assignment of appropriate access to and responsibility for university data used for official
+educational, administrative, and financial data input, reporting, and dissemination.
+2. establish a standard and structure for data stewardship and ownership.
+scope:
+this policy applies to the university and all of its affiliates. as used in this policy, the term "affiliates"
+means organizations or entities in which the university owns a controlling interest or has the right to elect the
+majority of the entity's governing board.
+index:
+irm-4007.1 .......definitions
+irm-4007.2…...policy statement
+irm-4007.3 .......roles and responsibilities
+irm-4007.4…...applicable regulations and accreditation standards
+policy #: irm-4007
+policy title: administrative data management
+policy
+effective: 05/01/2023 responsible office: information services
+date
+approved:
+04/17/2023 approval: vice president for information services and chief
+information officer
+replaces
+policy dated:
+08/01/2020 responsible
+university official:
+vice president for information services and chief
+information officer
+
+irm-4007 – administrative data management policy
+university of richmond | 2
+policy statement:
+irm-4007.1 – definitions
+administrative data: data that is gathered, produced, stored, and/or disseminated concerning any aspect of
+the university's operations. such data includes, but is not limited to, general ledger/accounting, human
+capital management, student, alumni/development, space management, student housing data, and also
+includes any data derived from the use of such data. administrative data specifically does not include faculty
+generated classroom data nor faculty- or student-generated research data.
+data classification: details and examples of university data classification levels are contained in the
+university's data security policy. university data is classified as: confidential, restricted, official use only,
+or public.
+data stewardship domain: a university administrative or operational area, function or process and the
+authoritative data elements created, collected, and managed by that area throughout the lifecycle of that data,
+regardless of the transactional system(s) in which they reside (e.g., finance data).
+system-of-record: an information storage system that is the authoritative data source for a given data
+element or piece of information (e.g., banner).
+transactional system: an information processing system involving the collection, modification and retrieval
+of data, as contrasted with systems used solely for analytics or reporting. (e.g., slate).
+irm-4007.2 – policy statement
+1. university ownership of administrative data – administrative data is owned by the university of
+richmond. as such, all members of the university community have the obligation to appropriately use
+and safeguard the data, in all formats and in all locations.
+a. to the extent possible, administrative data should be collected and stored with common
+definitions, and consistent formats and data entry standards to foster data accuracy and
+consistency in reporting and data integration, (e.g., consistency in country codes in student and
+alumni applications).
+b. administrative data must be safeguarded to maintain the confidentiality and privacy of
+personally identified and personally identifiable information in accordance with university
+policies.
+2. data classification – administrative data is categorized as confidential, restricted, official use only
+or public following the university's data security policy and must be safeguarded appropriately.
+3. access and confidentiality – access to university administrative data is based on the business needs
+of the university and should enhance the ability of the university to achieve its mission. employees
+shall have access to the administrative data needed to perform their official responsibilities.
+
+irm-4007 – administrative data management policy
+university of richmond | 3
+individually identifiable data shall be available to the extent necessary to perform administrative tasks;
+unit record data will be provided only when aggregate data or other alternatives cannot effectively meet
+the business need. the data management committee is responsible for ensuring that procedures are
+developed by functional offices to address those cases in which a member of the university community
+seeks permission to access administrative data beyond that which is needed for the normal
+performance of their duties.
+because no computer system is completely immune from unauthorized access or attempted access
+(e.g., "hacking"), applying layered security controls (e.g., multiple levels of access permissions) will
+better safeguard university computers and our ever-expanding body of administrative data, which is
+often sensitive. in order that the proper controls are applied, it is the responsibility of each person
+accessing administrative data to:
+a. know the classification of the administrative data being used.
+b. follow the appropriate security measures.
+c. consult related policies for further information.
+specific policies implementing data access and security, including those developed by functional areas
+shall be reviewed by the data management committee to ensure consistency with this policy.
+4. training – before an individual is permitted access to administrative data in any form, training in the
+use and attributes of the data, functional area data policies, and university policies regarding data is
+strongly encouraged. the data stewards shall establish the appropriate levels of training for all such
+individuals within their units.
+5. integrity, validation, and correction – administrative data must be safeguarded and managed in all
+formats and media (e.g., print and digital), at all points of access, and in all locations (both on-campus
+and off-campus) through coordinated efforts and shared responsibilities. each data steward shall be
+responsible for developing a plan for their functional area to assess the risk of erroneous or inconsistent
+data and indicate how such administrative data, if found, will be corrected. the data management
+committee will be responsible for ensuring that each functional area uses that plan to develop and
+implement processes for identifying and correcting erroneous or inconsistent data.
+6. extraction, manipulation, and reporting – extraction, manipulation, and reporting of administrative
+data must be done only for university business purposes and consistent with this and other applicable
+university policies. personal use of administrative data, in any format and at any location, is
+prohibited. all data users are expected to be familiar with and conform to the university's
+acceptable
+use policy.
+irm-4007.3 – roles and responsibilities
+see exhibit 1 for data trustees and data stewards for each data stewardship domain.
+
+irm-4007 – administrative data management policy
+university of richmond | 4
+data trustee – a senior university official (typically at the level of vice president or higher) who
+oversees a data steward. data trustees are responsible for:
+• the establishment of administrative data management policies and procedures
+• approving all requests, whether new or changes, for agreements/partnerships involving sharing
+university data from their data domain with third party vendors and ensuring these requests
+follow the university's official it governance processes for review and approval
+• assigning data management accountability to appropriate data stewards.
+data steward – typically a senior operational manager in a functional area responsible for a data
+stewardship domain. data stewards are responsible for all of the following for data within their data
+stewardship domain:
+• developing and documenting data standards
+• documenting and annually updating data integrations and partnering with information services to
+map third party data sources and destinations (effective may 1, 2024)
+• establishing the business rules and business processes for their respective data stewardship
+domains
+• establishing the business rules and business processes for the transactional systems associated
+with their data stewardship domain
+• ensuring compliance with federal regulations, regional accreditation standards, and other rules
+and regulations associated with management of the data in their data stewardship doman (e.g.,
+gdpr, ferpa, glba, pci) and providing associated training
+• ensuring data privacy (e.g., should we collect this data?) and data security (e.g., confidentiality)
+• monitoring/overseeing data sharing (e.g., data exports, reporting, data integrations)
+• adjudicating requests to access unit record or aggregate data within data stewardship domain
+• complying with university records retention policy
+• reviewing data access permissions annually
+• understanding integrations and their impacts across related data stewardship domains
+• partnering with information services to review and approve new systems or data integrations that
+impact data
+• acting as data ambassadors to communicate data and process changes • implementation of this
+policy.
+data supervisor – an individual who creates, stores, modifies or otherwise manages administrative data
+within a data stewardship domain. data supervisors are responsible for:
+• executing business and data processes related to administrative data
+• maintaining and reinforcing, wherever possible, a uniform set of definitions for commonly
+consumed data throughout the university (e.g., "enrolled student" should wherever possible have
+the same meaning throughout the university).
+
+irm-4007 – administrative data management policy
+university of richmond | 5
+data user – an individual who accesses administrative data to perform their assigned duties. data users
+are responsible for:
+• safeguarding their access privileges
+• the use of the administrative data in conformity with all applicable university policies,
+• securing such data.
+information services (is) -- information technology experts assigned to transactional and reporting
+systems that maintain administrative data. is is responsible for:
+• overseeing the safe transport and storage of data to and from campus-hosted systems
+• establishing and maintaining the underlying campus infrastructure
+• performing activities required to keep the data intact and available to users
+• working with data supervisors to develop automated processes to identify erroneous,
+inconsistent, or missing data
+• working with data support groups and data stewards to resolve data issues.
+office of institutional effectiveness (ifx) – ifx is responsible for:
+• working with data stewards to develop definitions of commonly used data elements and define
+how official university metrics are calculated
+• promptly reporting data discrepancies and inconsistencies discovered in the course of its work to
+the appropriate data supervisor for resolution
+• implementing consistent reporting guidelines across campus based on institutional policies and
+federal regulations
+• providing all external reporting in all data stewardship domains
+• assessing and appropriately fulfilling all requests that require data from multiple data
+stewardship domains
+data management committee (dmc) – a university-wide committee primarily composed of data
+stewards and data supervisors. the dmc is co-chaired by the director, institutional effectiveness and
+the assistant vice president for systems and networks. data stewards will share best practices during
+their meetings, as well as raise concerns that cross functional areas. designated data users may be
+invited to attend, as appropriate. the dmc is responsible for:
+• reviewing the operational effectiveness of administrative data management policies and
+procedures and making recommendations for improvement and change
+• providing oversight of all university processes which capture, maintain, and report on
+administrative data
+• ensuring regular and appropriate collaborative communication with data users on operational
+changes that may impact business processes and data.
+
+irm-4007 – administrative data management policy
+university of richmond | 6
+irm-4007.4 – applicable regulations and accreditation standards
+a. sacscoc principles of accreditation 12.5 (student records)
+b. health insurance portability and accountability act of 1996 (hipaa), public law 104-191
+c. payment card industry data security standard (pci dss)
+d. family educational rights and privacy act (ferpa) (20 u.s.c. § 1232g; 34 cfr part 99)
+e. red flags rule of the fair and accurate credit transaction act of 2003 (fact act), public law
+108159, section 114
+f. code of virginia, § 18.2-186.6. breach of personal information notification.
+g. general data protection regulation (gdpr) (eu) 2016/679
+h. gramm- leach-bliley act (glba), also known as the financial services modernization act of 1999,
+public law 106–102, 113 stat. 1338
+related policies:
+irm-2001 – use of technology and information resources
+irm-4002 – data exposure policy
+irm-4003 – information security policy
+irm-4004 – data security policy
+irm-4006 – general data privacy regulation privacy notice
+irm-4005 external data transfer policy
+responding to requests for information about members of the university community
+acd-2004 – privacy of education records (ferpa) policy
+policy background:
+initial policy approved: july 27, 2020
+policy was reviewed by it governance steering committee, the school deans, and president's cabinet prior
+to approval in 2020.
+non-substantive updates made to policy and the list of administrative data stewards updated on august 23,
+2021
+list of administrative data stewards updated on august 3, 2022
+policy reviewed by president's cabinet prior to revision may in 2023.
+faculty administrative data added as a domain in september 2023.
+list of administrative data stewards updated october 10, 2024 to reflect personnel changes in some offices.
+
+irm-4007 – administrative data management policy
+university of richmond | 7
+list of administrative data stewards updated november 11, 2024 to reflect personnel changes in some
+offices and student employment transition to hr.
+policy contacts:
+vice president for information services and chief information officer
+
+exhibit 1
+university of richmond administrative data stewards
+november 11, 2024
+data stewardship domains and their respective data trustees and data stewards:
+1) finance data
+a. data trustee: executive vice president and chief operating officer (dave
+hale)
+b. data steward(s): senior associate vp & university controller (laurie
+melville), assistant controller (steve walker*)
+c. data stewardship domains: budget data, accounting data, grants,
+investment data (spider mgt), procurement and accounts payable data,
+student accounts (bursar) data, payroll and tax data
+2) hr & student employment data
+a. data trustee: executive vice president and chief operating officer (dave
+hale)
+b. data steward(s): chief human resources officer (geraldine sullivan),
+director hr operations (jillian zemp*), tas, student employment (caitie
+hoeckele)
+c. data stewardship domains: employment data (staff, faculty, contractors,
+temps, students, etc.), benefits/compensation data, position control data, payroll
+data, performance data, learning data, employee recruiting data, emergency contact
+data for employees, employee (and dependent) photos, w-4's, i9's
+3) student admission data
+a. data trustee: vice president for enrollment management (stephanie dupaul)
+b. data steward(s): director of admission, operations, (lindsey monacell)
+c. data stewardship domains: admission prospects/inquiries, high school/college data,
+score reports (sat, act, toefl, gre, gmat, lsat), admission applications
+and related materials, basic parent data (until point of enrollment), application
+decision history, decision notification, spcs
+admission, law admission, mba admission
+4) student registration data (for both credit and non-credit students)
+a. data trustee: vice president for planning & policy (lori schuyler)
+b. data steward(s): university registrar (kristen ball*), sr. associate registrar
+(bryan moyer), sr. associate registrar (erica jackson)
+c. data stewardship domains: student academic history (courses, grades, registration,
+curriculum, degree audit, transcripts-electronic, transfer, paper, and microfiche;
+grade changes, transfer work); graduation (application, conferral, honors, diploma
+information); academic courses (catalog, course set up, schedule); academic
+curriculum (major/minors, degrees, programs,
+gradtracker); classrooms (location management for academic buildings);
+compliance (ferpa training, ncaa eligibility, veteran's administration
+certifications); emergency contact data for students; student photos
+
+5) financial aid data
+a. data trustee: vice president for enrollment management (stephanie dupaul)
+b. data steward(s): avp and director student financial aid (william bryan),
+sr. associate director financial aid (kathryn owens*)
+c. data stewardship domains: financial aid applications, fafsa applications, css
+profiles, tax returns, parent/guardian/student income, parent/guardian/student assets,
+family size/status, home equity, expected family contribution (both fm and im),
+need-based grant, scholars, scholarships, athletic funding, pell grants, loans
+(federal/private/parent), academic progress, title iv, withdrawals, award
+notifications, work study
+6) advancement/alumni data
+a. data trustee: vice president for advancement (martha callaghan)
+b. data steward(s): asst. vp advancement systems (kim lebar), director
+advancement data & analytics (matt kane),
+director, advancement operations (katie bell)
+c. data stewardship domains: constituent data (alumni, parents, donors, prospective
+donors), gift data, career/outcomes data
+7) health & well-being data
+a. data trustee: vice president for student development (todd adams)
+b. data steward(s): director of operations, health and well-being (kelly
+harris)
+c. data stewardship domains: student health (pyramed, labcorp), university
+recreation (fusion), health promotion (everfi), caps (titanium)
+8) center for student involvement data
+a. data trustee: vice president for student development (todd adams)
+b. data steward(s): director of student involvement (vittoria doyle),
+c. data stewardship domains: student involvement (extra-curricular) and events
+(presence, eventbrite)
+9) student development & housing data
+a. data trustee: vice president for student development (todd adams)
+b. data steward(s): senior director of housing and residence life (patrick benner*)
+c. data stewardship domains: student conduct (maxient), academic progress
+(maxient), student housing (starrez, banner)
+10) disability services
+a. data trustee: vice president for student development (todd adams)
+b. data steward(s): director of disability services (cort schneider); disability
+services accessibility specialist (julia kelly)
+c. data stewardship domains: disability data for students (maxient and clockwork)
+11)campus services & facilities data
+a. data trustee: executive vice president and chief operating officer (dave
+hale)
+b. data steward(s): executive director campus business services (jerry
+clemmer*)
+
+c. data stewardship domains: dining/catering (micros, hospitality suite),
+csgold/onecard, event management, campus bookstore, school dude, hvac
+(talon, niagara, thinstack), building data, ricoh.
+12)ifx data
+a. data trustee: vice president for planning & policy (lori schuyler)
+b. data steward(s): executive director, institutional effectiveness (melissa hartz*)
+c. data stewardship domains: assessment data (aqua, taskstream ams), course
+evaluations (courseeval), survey data (qualtrics), census files (frozen files for
+admission, enrollment, faculty, and degree completion stored in box)
+d. cross-functional requests: all cross-functional requests (those that require
+data from multiple data domains) should be routed to ifx for assessment and
+fulfillment.
+13)information services data
+a. data trustee: vice president and chief information officer (keith mcintosh)
+b. data steward(s): asst. vp systems and networks (troy boroughs*), asst
+vp telecom, media and user services (mark nichols)
+c. data stewardship domains: identity data (netid, urid, network passwords, ur
+email addresses, dns names), ur phone numbers, computing assets
+14) faculty administrative data
+a. data trustee: executive vice president for academic affairs & provost (joan
+saab)
+b. data steward(s): director, ur better (dustin engels*)
+c. data stewardship domains: academic appointment data (tenure status, rank,
+academic title, etc.); faculty employment files (appointment letters, transcripts);
+faculty performance data (annual reviews, mid-course reviews, tenure & promotion
+portfolios and files); faculty portfolio data (publications, service, credentials—
+faculty success); faculty governance records (faculty senate minutes,
+university/school committee documents)
+*members of the university of richmond's data management committee

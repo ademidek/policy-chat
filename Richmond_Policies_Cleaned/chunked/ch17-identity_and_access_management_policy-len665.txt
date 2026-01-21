@@ -1,0 +1,9 @@
+system-of-record to trigger corresponding identity life cycle events for students (e.g., account
+provisioning, status changes, and deprovisioning).
+• collaborates with information services to verify student data changes are correctly reflected in
+identity and access management systems in accordance with institutional policy and regulatory
+requirements.
+• notifies information security immediately of any urgent student account termination needs.
+application owners – for purposes of this policy, application owners are typically operational managers
+in a functional area responsible for the administration of a departmental software application or
+computer system

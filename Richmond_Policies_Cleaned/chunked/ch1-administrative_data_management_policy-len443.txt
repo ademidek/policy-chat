@@ -1,0 +1,10 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+the purpose of this policy is to:
+1. facilitate assignment of appropriate access to and responsibility for university data used for official
+educational, administrative, and financial data input, reporting, and dissemination.
+2. establish a standard and structure for data stewardship and ownership.
+scope:
+this policy applies to the university and all of its affiliates

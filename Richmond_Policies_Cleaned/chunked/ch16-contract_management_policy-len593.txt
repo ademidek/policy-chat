@@ -1,0 +1,8 @@
+. system access is provided only after a user has undergone cms training.
+4. this system shall be utilized for all university contracts.
+5. a contract record for each contract must be created in the system at the beginning of the contract
+preparation process, according to the contract management procedures. all subsequent activity, including
+amendments and addenda, must be linked to this record in order to provide a complete history.
+6. departments are expected to upload current, active contracts that predate the system implementation, along
+with any related documentation, to the cms.
+7

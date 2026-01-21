@@ -1,0 +1,5 @@
+sec-2005 – electronic card access policy
+university of richmond | 2
+campus card system. once an individual presents their "credential" to the reader, a request is
+electronically communicated from the reader to the networked card system. an individual's access rights and privileges can fluctuate over time based on their status within the
+university and/or access schedules set in place by departments/buildings.

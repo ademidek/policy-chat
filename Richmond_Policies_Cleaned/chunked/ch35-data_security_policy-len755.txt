@@ -1,0 +1,21 @@
+. the university of richmond takes great care to safeguard data and privacy, however, if the
+university experiences such an event, we must be prepared to act quickly. the
+cybersecurity incident
+response policy outlines an action plan for our incident response.
+related policies and regulations:
+ferpa policy
+university record retention policy
+cybersecurity incident response policy
+computer systems backup policy
+external data transfer policy
+hipaa privacy policy and procedures
+gramm-leach-bliley act (glba)
+policy background:
+date policy action
+08/01/2011 original version
+12/30/2012 minor revisions and web links added
+02/26/2014 formatting and updated links
+
+irm-4004 – data security
+university of richmond | 11
+02/26/2014 bullet #6 added to section 3

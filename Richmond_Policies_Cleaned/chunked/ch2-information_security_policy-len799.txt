@@ -1,0 +1,16 @@
+. the policy provides direction for
+information security related policies, standards, procedures, and guidelines to ensure the confidentiality,
+integrity, and availability of university information resources.
+scope:
+this policy applies to anyone who accesses university data, systems, or networks as well as those who
+design, implement, or manage those information resources.
+index:
+irm-4003.1…………definitions
+irm-4003.2…………policy statement
+irm-4003.3…………roles and responsibilities
+irm-4003.4…………applicable regulations and accreditation standards
+policy statement:
+irm-4003.1 – definitions
+application owner – a business or functional position responsible for managing a business application.
+data steward - a university official with executive responsibility over a university division or
+department

@@ -1,0 +1,22 @@
+data stewards are responsible for all of the following for data within their data
+stewardship domain:
+• developing and documenting data standards
+• documenting and annually updating data integrations and partnering with information services to
+map third party data sources and destinations (effective may 1, 2024)
+• establishing the business rules and business processes for their respective data stewardship
+domains
+• establishing the business rules and business processes for the transactional systems associated
+with their data stewardship domain
+• ensuring compliance with federal regulations, regional accreditation standards, and other rules
+and regulations associated with management of the data in their data stewardship doman (e.g.,
+gdpr, ferpa, glba, pci) and providing associated training
+• ensuring data privacy (e.g., should we collect this data?) and data security (e.g., confidentiality)
+• monitoring/overseeing data sharing (e.g., data exports, reporting, data integrations)
+• adjudicating requests to access unit record or aggregate data within data stewardship domain
+• complying with university records retention policy
+• reviewing data access permissions annually
+• understanding integrations and their impacts across related data stewardship domains
+• partnering with information services to review and approve new systems or data integrations that
+impact data
+• acting as data ambassadors to communicate data and process changes • implementation of this
+policy.

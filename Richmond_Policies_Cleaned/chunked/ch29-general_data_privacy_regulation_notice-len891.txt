@@ -1,0 +1,13 @@
+. in such cases, richmond shares data
+with such third parties subject to the imposition of appropriate safeguards to prevent further
+unauthorized disclosure.
+• de-identified and aggregate information: richmond may use and disclose data in de-identified or
+aggregate form without limitation.
+irm-4006.6 – retention and destruction of an individual's data
+the gdpr requires that an individual's personal data be kept no longer than necessary. the applicable time
+period will depend on the nature of such personal data and will also be determined by legal requirements
+imposed under applicable laws and regulations. richmond's record retention policy and record retention
+schedule can be found at:
+record retention policy and schedule
+irm-4006.7 – transfer of personal data to the united states
+personal data that an individual provides while in the eu, will be transferred to the united states

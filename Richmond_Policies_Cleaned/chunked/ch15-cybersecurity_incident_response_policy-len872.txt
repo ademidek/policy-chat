@@ -1,0 +1,17 @@
+. 1338
+i. national institute of standards and technology (nist) sp 800-61
+
+irm-4002 – cybersecurity incident response policy
+university of richmond | 5
+related policies:
+irm-4003 – information security policy
+irm-4004 – data security policy
+irm-4006 – general data privacy regulation privacy notice
+acd-2004 – privacy of education records (ferpa) policy
+policy background:
+initial policy created: july 12, 2007
+minor revisions in april 2020 reviewed by it governance committee and president's cabinet prior to approval
+on 06/29/2020. policy was previously titled, "data exposure policy".
+06/26/24: major revision to shift focus away from operational processes since those are covered in the incident
+response plan. aligned definitions with other policies for uniform terms. added incident documentation
+retention. updated general responsibilities to be more policy-focused

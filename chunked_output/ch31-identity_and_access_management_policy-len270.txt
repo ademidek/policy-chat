@@ -1,0 +1,1 @@
+• provide and maintain centralized authentication services, including multi-factor authentication. • manage and maintain authorizations for enterprise software applications. • manage and maintain a service that grants and revokes birthright entitlements, as appropriate.

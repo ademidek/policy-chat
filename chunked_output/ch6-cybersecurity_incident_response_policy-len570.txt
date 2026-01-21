@@ -1,0 +1,7 @@
+restricted information: see definition in the university of richmond data security policy
+. ur-cirt: university of richmond cyber incident response team. the ur-cirt is a function of the
+information security office and is responsible for coordinating the response to cybersecurity incidents
+irm-4002.2 – policy statement
+this policy outlines the roles and responsibilities that govern the response to and reporting of cybersecurity
+incidents that impact the confidentiality, integrity, or availability of the university of richmond's information
+and technology services.

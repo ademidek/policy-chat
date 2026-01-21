@@ -1,0 +1,5 @@
+confidential or restricted information must be securely maintained, controlled, and protected to
+prevent unauthorized access. e. authorization to access confidential or restricted information is limited to those faculty, staff,
+students or vendors who require such access to perform their job on behalf of the university and
+will be provisioned in accordance with the principle of least privilege as noted in section irm-
+4004.1.

@@ -1,0 +1,224 @@
+university of richmond | 1
+university of richmond
+policy manual
+scope:
+this policy applies to the university of richmond and all of its affiliates. as used in this policy, the term
+"affiliates" means organizations or entities in which the university owns a controlling interest or has the right
+to elect the majority of the entity's governing board.
+index:
+irm-2001.1…..definitions
+irm-2001.2 .......policy statement
+irm-2001.3 .......applicable regulations & accreditation standards
+policy statement:
+irm-2001.1 – definitions
+user – any individual, including but not limited to faculty, student, staff, contractors, visitors; who access
+and use university information resources or data.
+irm-2001.1 – policy statement
+1. responsible use of university information and computing resources
+all members of the university of richmond community who use the university's computing and network
+facilities must use them in an ethical, responsible, and legal manner. this means that individuals are
+personally responsible for their use of these resources. individuals must be familiar with and follow all
+university and information services policies. an attempt to engage in a prohibited activity is considered a
+violation whether the attempt is successful or not.
+policy #: irm-2001 policy title: acceptable use policy
+effective: 04/28/2020 responsible office: information services
+date
+approved:
+04/27/2020
+approval: vice president for information services
+and chief information officer
+replaces
+policy dated:
+2/3/2017 responsible
+university official:
+vice president for information services
+and chief information officer
+
+irm-2001 – acceptable use policy
+university of richmond | 2
+the university's network and computer infrastructure is a critical and finite resource. community
+members rely on high availability and good performance in order to accomplish their work. systems using
+excessive amounts of bandwidth, causing network disruption, or are deemed to be a security and/or
+privacy risk may be disconnected from the network or otherwise limited without warning. if the network
+event is related to faculty research, is will attempt to contact the faculty member to resolve the issue
+before taking the resource offline. information services may employ automated systems that partition or
+restrict network bandwidth, protocols, or access either internally or at the internet gateway.
+the university does not monitor or generally restrict the content of material traversing the university's
+networks or stored on university managed or contracted systems and devices. the university reserves the
+right to remove or limit access to material posted on university-owned or administered systems and
+networks when university policies, contractual obligations, or state as well as federal laws are violated.
+the university provides computers, software, and network equipment for use by the university
+community. the university retains ownership and reserves the right to add, remove, upgrade, and replace
+hardware or software on those systems as deemed necessary by information services. in those cases
+where hardware and/or software was obtained by faculty to support their research, information services
+will work with that faculty member to review available mitigations.
+members of the university of richmond community must:
+• use resources supplied for purposes that are consistent with the business and mission of the
+university of richmond.
+• limit personal use of university computing and storage resources to ensure availability of
+resources for the business and mission of the university.
+• use the university's computing facilities and information resources, including hardware, software
+and computer accounts, responsibly and appropriately.
+• respect the rights and property of others.
+• comply with all applicable federal, state, and local laws as well as university policies.
+• comply with all contractual and license agreements.
+• accept personal responsibility for the proper use of individual accounts and all activity associated
+with them.
+• safeguard equipment entrusted to them.
+members of the university of richmond may not:
+• share accounts, passwords, or other computer or network authentication. information services
+may grant authorization for group or organization accounts when there is a need. see computing
+accounts at the university of richmond.
+• use any means to view or intercept data or network traffic not intended for their viewing or use.
+• view, copy, disclose, or modify any files or data that do not belong to them, or to which they do
+not have specific permission.
+• use computing or network resources to harass, threaten, or otherwise cause harm to others.
+
+irm-2001 – acceptable use policy
+university of richmond | 3
+• use the university's computing resources for commercial or personal purposes not related to the
+university's business operations, academic, research, and scholarly pursuits.
+• use any it systems in a way which suggests university endorsement of any political party,
+candidate, or ballot initiative. this includes e-mailing political messages to any list service
+maintained by the university which is not explicitly purposed for the posting of political messages.
+• interfere with the proper functioning of the university of richmond wired or wireless network. in
+particular users may not perform service denial attacks and users may not install their own network
+equipment on campus. see the wireless access policy.
+• use university of richmond it systems to distribute, produce, publish, and/or sell obscene or
+illegal content.
+2. information security and privacy
+the university takes information security and privacy very seriously for all of its members as well as all
+of its systems.
+the university is the owner of all administrative data; individual units or departments have stewardship
+responsibilities for portions of that data. information maintained on university systems is a vital asset that
+will be available only to those who have a legitimate business need to access it in order to conduct
+university business. the university does not allow the use of administrative data for anything but the
+conduct of university business. employees accessing data must observe requirements for confidentiality
+and privacy, must comply with protection and control procedures, and must accurately present the data in
+any use.
+members of the university of richmond community must:
+• read and agree to abide by the university's data security policy.
+• be personally responsible for the security and usage of any system connected to the university of
+richmond network, not owned by the university of richmond. find information on connecting
+your computer.
+• choose passwords that meet university standards and keep their passwords secure. see the
+password policy. do not use the password that you choose for your university of richmond
+accounts with other off-campus services such as social media, streaming platforms, shopping, etc.
+as the privacy of your password may not be protected outside the university's network.
+• report unauthorized use of your accounts to your supervisor or the director of information
+security. if you discover a possible security issue related to university systems report the problem
+immediately by calling 289-8655 or emailing abuse@richmond.edu.
+• use only those computers and computer accounts for which you have authorization. if you need
+additional privileges or access contact the help desk or appropriate system administrator with
+your request.
+• comply with requests from information services. information services' staff will conduct periodic
+security checks on systems and networks. individuals may be asked to change their password,
+
+irm-2001 – acceptable use policy
+university of richmond | 4
+upgrade software, apply a patch or perform some other action to improve system security. non-
+compliance may result in termination of access.
+• when displaying or publishing photos on web pages or other public forums you have a
+responsibility not to compromise the privacy of individuals who are identifiable in those photos.
+as a rule, photo releases are not required for candid photos taken in public areas. however, a page
+owner or publisher should immediately remove any photo if the subject of the photo objects to its
+use and requests its removal.
+members of the university of richmond may not:
+• disguise or attempt to disguise their identity or the identity of their account or the machine that
+they are using. users may not attempt to impersonate another person or computing system account.
+the use of aliases or nicknames associated with your account in systems where those are
+commonly used is not considered a disguise and is not prohibited.
+• attempt to gain unauthorized access to any account or system.
+• create or use any program or electronic form that collects account names, passwords or personally
+identifiable information about individuals without the direct knowledge, approval and assistance of
+information services.
+• copy, report or distribute any personally identifiable, sensitive or confidential data or files to
+which you as a user of university resources are not authorized or gain inadvertent access. users
+must report any occurrences to the data owner or to the director of information security.
+the foregoing is not an all-inclusive list; the university reserves the right to determine what uses of its
+equipment and facilities fall within the bounds of the business and mission of the university. report
+abuses of information or computing resources to the appropriate information services administrator or to
+epolicy@richmond.edu.
+3. e-mail and other electronic communications
+e-mail, text messaging, instant messaging, and other applications are used by most members of the
+university community. however, all users should understand the limitations of privacy and confidentiality
+related to them. they should not be used for confidential communication or the transmission of sensitive
+data. see the university's data security policy for additional information.
+e-mail messages are written records that could be subject to review with just cause. e-mail records and
+information in electronic form on central computers can be subpoenaed. messages that the user has
+deleted may still exist on system's backup media for weeks or months.
+certain types of e-mail and uses of e-mail or other forms of electronic communications are prohibited;
+these include chain letters, obscene messages, harassing messages, and unsolicited political messages. e-
+mail that violates any university policy or is otherwise used for an illegal purpose is prohibited.
+all e-mail sent through the university's systems and networks must accurately show from whom the e-
+mail originated.
+the university may employ automated systems to reduce the amount of unwanted "junk" mail. it is
+known that this may on occasion reject a valid e-mail.
+
+irm-2001 – acceptable use policy
+university of richmond | 5
+spiderbytes should be used for conveying messages to a large number of recipients. spiderbytes is a
+message forum for university of richmond students, faculty and staff to exchange important information
+regarding university business and campus-wide events. do not e-mail large lists through outlook.
+4. observing the digital millennium copyright act, and protecting intellectual property and
+copyright
+copyright is a form of protection of intellectual property provided by the laws of the united states to the
+authors of original works. copyright is an issue of particular seriousness because technology now allows
+the easy copying and transmission of some protected works.
+it is the responsibility of all students, faculty, and staff at the university of richmond to understand and
+comply with the university's policy regarding the digital millennium copyright act. the university's
+designated agent for notices under the digital millennium copyright act is the head of scholarly
+communications in boatwright memorial library. federal copyright laws also protect the software
+available for use on computers at the university of richmond. the software provided through the
+university for use by faculty, staff, and students may be used only on computing equipment as specified
+in the various software licenses.
+faculty, staff, or students must not copy or reproduce any licensed software or intellectual property found
+on university computing equipment, except as expressly permitted by the software license, author, or
+granting authority. faculty, staff, and students may not use unauthorized copies of licensed software on
+university-owned computers.
+5. problem resolution and policy violations
+in cases where a member of the university community has allegedly committed a policy violation, broken
+a law, or is causing harm to the information infrastructure; information services may immediately revoke
+access privileges pending the outcome of a full review of the alleged violation. whenever possible, the
+individual will be notified by phone, electronic, campus or u.s. mail of the alleged violation. a
+representative of the information services staff will contact the person to propose a meeting to discuss the
+alleged violation.
+depending on the nature of the alleged offense, information services may contact the appropriate senior
+university administrator (director of human resources, dean, or vice president) or campus police
+alerting them of the alleged violation and conferring on the appropriate next steps. if the problem or issue
+in question overlaps with another disciplinary or law enforcement process, information services will
+coordinate with the appropriate office or agency. penalties for illegal activity or serious violations may be
+as severe as suspension or dismissal from the university or criminal prosecution.
+6. reporting abusive incidents, harassment or irresponsible behavior related to technology
+if you are a victim of abusive incidents related to technology or you become aware of abusive use of
+university technology resources, report the violation to the dean of your college, your supervisor,
+campus police, or information services at epolicy@richmond.edu. sending a message to
+epolicy@richmond.edu will alert a senior member of the information services staff to your situation.
+keep copies of e-mail messages, a record of the time and date(s) of the occurrence, and all other
+information related to the incident for investigative purposes.
+
+irm-2001 – acceptable use policy
+university of richmond | 6
+irm-2001.2 – applicable regulations & accreditation standards
+sacscoc principles of accreditation 10.6 distance and correspondence education
+sacscoc principles of accreditation 12.5 student records
+digital millennium copyright act of 1998
+related policies:
+information security policy
+wireless access policy
+data security policy
+password policy
+digital millennium copyright act policy
+policy background:
+initial policy approved june 29, 1999
+revised to designate agent for digital millennium copyright act (dmca) may 18, 2010
+integrated with data security policy march 13, 2014
+revised for new dmca agent designation october 2, 2015
+visitor wireless network added february 3, 2017
+minor revisions in march 2020 reviewed by it governance committee and president's cabinet prior to
+approval on april 27, 2020.
+policy contacts:
+vice president for information services and chief information officer
+assistant vice president for systems and networks
+director of information security
+head of scholarly communications

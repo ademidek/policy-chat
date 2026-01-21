@@ -1,0 +1,11 @@
+• monitoring/overseeing data sharing (e.g., data exports, reporting, data integrations)
+• adjudicating requests to access unit record or aggregate data within data stewardship domain
+• complying with university records retention policy
+• reviewing data access permissions annually
+• understanding integrations and their impacts across related data stewardship domains
+• partnering with information services to review and approve new systems or data integrations that
+impact data
+• acting as data ambassadors to communicate data and process changes • implementation of this
+policy.
+data supervisor – an individual who creates, stores, modifies or otherwise manages administrative data
+within a data stewardship domain

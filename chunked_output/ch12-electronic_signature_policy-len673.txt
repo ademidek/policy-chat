@@ -1,0 +1,6 @@
+fin-4412.4..…… acceptance of third-party electronic signatures
+in general, when the university enters into a contract or is a signatory to an electronic record involving a
+third party, the university and third party should consent to the use and acceptance of electronic signatures. preferably, the contract or electronic record will contain language that the respective signatories certify that
+they are authorized to sign documents on behalf of their organization and consent to the use of electronic
+signatures. in situations where obtaining such consent is impossible or impracticable, consent may be
+implied by the context or the parties' conduct or course of dealing.

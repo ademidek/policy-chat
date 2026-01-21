@@ -1,0 +1,4 @@
+restructured document for clarity and more defined groupings of
+requirements. replaced "university administrative information" with "administrative data"
+and aligned that definition with the definition in the administrative data management policy. updated the definition of data steward to reference the administrative data management
+policy instead of the records retention schedule.

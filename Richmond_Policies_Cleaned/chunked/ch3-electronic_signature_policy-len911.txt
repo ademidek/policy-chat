@@ -1,0 +1,23 @@
+effective: 05/21/2024 responsible office: office of general counsel
+date
+approved:
+05/20/2024 approval: executive vice president and chief operating
+officer vice president and general counsel
+replaces
+policy dated:
+n/a responsible
+university officials:
+vice president and general counsel
+director of procurement
+
+fin-4412 – electronic signature policy
+university of richmond | 2
+fin-4412.4..…… acceptance of third-party electronic signatures
+fin-4412.5 ...........violations
+policy statement:
+fin-4412.1 – definitions
+assurance — the degree of confidence in the identity of the individual providing an e-signature.
+authentication — the process of securely verifying the identity of an individual providing an electronic
+signature.
+authorization — verifying that an authenticated user has permission to access specific electronic university
+services and/or perform certain operations on behalf of the university.

@@ -1,0 +1,15 @@
+. the contract manager is responsible for:
+1. administering the contract and contract record in cms;
+2. understanding the terms of the contracts, including the business terms, scope of work and/or services, and
+high level legal terms and actionable tasks, such as the notice period for contract renewal or cancellation;
+3. monitoring the performance by both the university and the vendor of the obligations under the contract;
+4. managing the relationship between the vendor and the university;
+5. ensuring charges are appropriate and payment is made in accordance with the terms of the contract; and
+6. identifying the funding source for the purchase.
+7. uploading the fully executed contract and related documentation into the cms and recording the contract
+status.
+responsibility of contract approvers
+contract approvers are responsible for:
+1. reading and reviewing each contract received;
+2. ensuring that the contract meets the business needs of the university; and
+3

@@ -1,0 +1,3 @@
+a contract record for each contract must be created in the system at the beginning of the contract
+preparation process, according to the contract management procedures. all subsequent activity, including
+amendments and addenda, must be linked to this record in order to provide a complete history. 6.

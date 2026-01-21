@@ -1,0 +1,4 @@
+the process can be automated or manual, or a mixture of both. service accounts: a service account is used when it is necessary for electronic systems or software
+applications to authenticate to other electronic systems or software applications without any association with a
+person. user accounts: a user account is a unique identity assigned to a specific person that allows that person to
+access a computer, network, or software application.

@@ -1,0 +1,4 @@
+privileged accounts: certain accounts may have extra privileges related to the management of
+a device or application. administrative privilege can be added to either user or service account
+types. privileged accounts must utilize multifactor authentication (mfa) if that security
+capability can be configured for the relevant system or application.

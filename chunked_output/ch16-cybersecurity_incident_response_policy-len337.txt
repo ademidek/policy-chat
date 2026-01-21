@@ -1,0 +1,4 @@
+once the incident is contained, this team will also conduct a "lessons learned" post-incident review
+to evaluate changes in processes, systems and/or policies to prevent a repeat incident. members of the ur-
+cirt are required to respond to declared incidents both during and after standard work hours. ur-cirt general responsibilities
+1.

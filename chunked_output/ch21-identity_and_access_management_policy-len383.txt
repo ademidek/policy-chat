@@ -1,0 +1,5 @@
+irm-4009 – identity and access management policy
+university of richmond | 4
+some software applications support their own local credential stores for the purpose of user
+authentication. this method is often referred to as native or application-level authentication. applications that are small in scope, with a very limited number of users, may be configured for local
+authentication.

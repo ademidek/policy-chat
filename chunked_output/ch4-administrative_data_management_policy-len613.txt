@@ -1,0 +1,9 @@
+irm-4007 – administrative data management policy
+university of richmond | 2
+policy statement:
+irm-4007.1 – definitions
+administrative data: data that is gathered, produced, stored, and/or disseminated concerning any aspect of
+the university's operations. such data includes, but is not limited to, general ledger/accounting, human
+capital management, student, alumni/development, space management, student housing data, and also
+includes any data derived from the use of such data. administrative data specifically does not include faculty
+generated classroom data nor faculty- or student-generated research data.

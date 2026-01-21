@@ -1,0 +1,12 @@
+policy #: sec-2010
+policy title: policy prohibiting firearms on campus
+effective: may 6, 2005 responsible office: business affairs
+date
+approved:
+may 6, 2005 approval: board of trustees
+replaces
+policy dated:
+n/a responsible
+university official:
+associate vice president for public safety
+and chief of police

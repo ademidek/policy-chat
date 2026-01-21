@@ -1,0 +1,10 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+the incident response policy provides the structure and processes required to effectively respond to an
+information security incident with the goal of minimizing the negative impact to the confidentiality, integrity,
+and availability of university of richmond (ur) data and information technology assets. the university of
+richmond takes great care to safeguard data and privacy; therefore, if the university experiences such an
+event, we must be prepared to act quickly. scope:
+this policy applies to the university of richmond and all of its affiliates.

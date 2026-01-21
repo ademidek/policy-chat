@@ -1,0 +1,14 @@
+. it is insufficient to rely on central deprovisioning of accounts as a method of
+terminating locally deployed authorizations, as the timeliness of account deprovisioning is
+dependent on factors that are beyond the control of local application administrators.
+irm-4009.3 –roles and responsibilities
+information services – information technology experts dedicated to maintaining identity management
+systems that centrally manage digital accounts shall have the following responsibilities:
+
+irm-4009 – identity and access management policy
+university of richmond | 5
+• create, remove, and maintain digital accounts in centralized enterprise directory services.
+• create, remove, and monitor central service accounts.
+• create, remove, and monitor central privileged accounts.
+• provide and maintain centralized authentication services, including multi-factor authentication.
+• manage and maintain authorizations for enterprise software applications.

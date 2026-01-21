@@ -1,0 +1,14 @@
+. requests for access to certain areas on
+campus will need to be approved.
+index:
+sec-2005.1 .......definitions
+sec-2005.2 .......policy statement
+sec-2005.3 .......roles & responsibilities
+policy statement:
+sec-2005.1 – definitions
+electronic card access
+one card services administers the university of richmond's centralized electronic door access program.
+the same system that manages card based financial transactions also manages electronic door access.
+each individual is assigned access rights according to their needs. all access rights and privileges are
+maintained within the campus card system and not contained on the university of richmond identification
+card itself

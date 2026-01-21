@@ -1,0 +1,5 @@
+additionally,
+the proposed delegation must not place the delegate in a position of approving their own transactions or those
+initiated by their approver (see "segregation of duties" discussion, below). the approver is responsible for
+actions taken by their delegate; delegation does not shift responsibility or accountability for the task from the
+approver. delegations should be infrequent and for short periods of time, generally no longer than two weeks.

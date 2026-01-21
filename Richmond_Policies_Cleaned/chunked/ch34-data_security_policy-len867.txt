@@ -1,0 +1,13 @@
+. faculty may include the aup in course syllabi if genai is
+permitted for use in the course.
+d. any administrative data or education records used in a generative ai application must be approved by
+the data steward and reassessed annually.
+e. output from a genai application must be reviewed by the data steward for confidentiality, integrity,
+accuracy, fairness, regulatory compliance, and academic attribution before publication or ingestion into
+another university system.
+f. when a genai application provides data or a decision, a disclaimer must clearly state that artificial
+intelligence was used to generate the output. this ensures transparency and informs users about the nature
+of the information they are receiving.
+irm-4004.7 – data exposure plan
+reports of data compromises and the exposure of sensitive information seem to occur with increasing
+frequency

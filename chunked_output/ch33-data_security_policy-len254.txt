@@ -1,0 +1,3 @@
+the third-party must acknowledge receipt of the data. acknowledgement must be either in writing
+(e.g., email or letter), via delivery receipt (e.g., if a shipping service or u.s. mail is used), or
+auditable log entry for file sharing / transfer services.

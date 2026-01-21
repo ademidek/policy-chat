@@ -1,0 +1,3 @@
+changes in affiliation will automatically result in changes to birthright
+entitlements. b. requestable entitlements: these are entitlements that are requested by an individual but that
+require approval by an application owner or data steward before being granted.

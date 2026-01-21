@@ -1,0 +1,13 @@
+• providing oversight of all university processes and systems which create, maintain, and report
+on identity and access management data. • ensuring regular and appropriate collaborative communication with the it governance
+steering committee on operational changes related to identity and access management that
+may impact business processes. related policies:
+irm-4004 - data security policy
+irm-4008 - access to electronic files policy
+irm-4007 - administrative data management policy
+irm-2001 - acceptable use policy
+irm-4003 - information security policy
+policy background:
+policy approved on 10/10/2025 following review by president's cabinet
+policy contacts:
+vice president for information services and chief information officer

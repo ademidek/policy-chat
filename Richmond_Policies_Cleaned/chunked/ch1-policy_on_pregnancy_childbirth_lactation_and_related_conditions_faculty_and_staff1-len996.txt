@@ -1,0 +1,25 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+this policy is designed to foster adherence to the university of richmond's commitment to non-
+discrimination and to ensure compliance with applicable laws.
+scope:
+this policy applies to the university of richmond and all of its affiliates. as used in this policy, the term
+"affiliates" means organizations or entities in which the university owns a controlling interest or has the right
+to elect the majority of the entity's governing board.
+index:
+hr
+m-5008.1 .....policy
+hrm-5008.2 .....definitions
+hrm-5008.3 .....non-discrimination
+hrm-5008.4 .....reasonable accommodations
+hrm-5008.5 .....lactation space and break time
+hrm-5008.6 .....confidentiality
+hrm-5008.7 .....anti-retaliation
+policy statement:
+go
+v-hrm-5008.1 – policy
+t
+he university is committed to providing equal opportunity and reasonable accommodations to its employees
+who are pregnant, lactating, or have conditions related to pregnancy or childbirth

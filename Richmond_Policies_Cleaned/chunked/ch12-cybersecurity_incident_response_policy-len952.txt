@@ -1,0 +1,13 @@
+. members of the ur-
+cirt are required to respond to declared incidents both during and after standard work hours.
+ur-cirt general responsibilities
+1. the ur-cirt directs the analysis, containment, eradication, and recovery phases for incidents in
+accordance with the ir plan and may authorize or expedite emergency changes to systems when
+required to as part of the response. emergency changes will be documented in the ur change
+management system.
+2. the ur-cirt will coordinate external response with 3rd party suppliers who host university data in
+accordance with existing agreements and the ir plan.
+3. during the conduct of incident response activities, the ur-cirt is authorized to monitor university
+information resources in scope to the response and retrieve any communications or other relevant
+records (e.g., email, instant messages, login session data, metadata, files, documents, etc.) for specific
+users without notice or further approval

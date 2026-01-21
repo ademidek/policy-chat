@@ -1,0 +1,10 @@
+irm-4005 – external data transfer policy
+university of richmond | 3
+policy background:
+initial policy created july 12, 2007
+updated encryption strength october 17, 2013
+added web upload mechanism and encryption strength for data transfers october 2020.
+reviewed by it governance committee and president's cabinet prior to approval, on october 6, 2020
+policy contacts:
+vice president for information services and chief information officer
+director of information security

@@ -1,0 +1,3 @@
+service accounts: these accounts should be created sparingly and documented. their use must
+be reviewed annually. the password requirements for service accounts must be no less
+stringent than those for user accounts.

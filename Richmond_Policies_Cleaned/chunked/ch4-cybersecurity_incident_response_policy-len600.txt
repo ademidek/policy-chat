@@ -1,0 +1,9 @@
+. not all
+events become incidents. an event may be electronic, physical, or social in nature.
+incident: an event that disrupts the normal operations of information and technology services; or threatens the
+confidentiality, integrity, or availability of university information systems or data.
+incident response plan (ir plan): the documentation of a predetermined set of instructions and procedures to
+detect and respond to cybersecurity incident.
+restricted information: see definition in the university of richmond data security policy
+.
+ur-cirt: university of richmond cyber incident response team

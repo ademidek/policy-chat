@@ -1,0 +1,5 @@
+. added incident documentation
+retention. updated general responsibilities to be more policy-focused. included nist 800-61 reference.
+policy contacts:
+vice president for information services and chief information officer
+director of information security

@@ -1,0 +1,8 @@
+irm-4003 – information security policy
+university of richmond | 3
+irm-4003.2 – policy statement
+the university is required to develop, implement and maintain a comprehensive information security
+program containing administrative, technical, and operational controls. the university's information
+security program is based upon best practices recommended in nist sp800-53r5 and is appropriately
+tailored to the university's size, complexity, and the nature of its activities. the program also incorporates security requirements of applicable regulations including, but not limited
+to, ferpa, pci-dss, glba, hipaa, gdpr, and red flags rule.

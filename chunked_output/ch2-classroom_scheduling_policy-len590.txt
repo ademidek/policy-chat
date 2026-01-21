@@ -1,0 +1,18 @@
+index:
+prm-1004.1 ......policy
+appendix a……time-slots
+policy statement:
+prm-1004.1 – policy
+the university registrar is responsible for the assignment of classroom space to each class at the university. the highest priority for classroom space is for offering classes at the university. classrooms may be reserved
+policy #: prm-1004
+policy title: classroom scheduling policy
+effective: 04/15/2024 responsible office: registrar's office
+date
+approved:
+04/08/2024 approval: executive vice president and provost
+replaces
+policy dated:
+2009
+responsible
+university official:
+university registrar

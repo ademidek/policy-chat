@@ -1,0 +1,5 @@
+contract approvers are responsible for reading and approving the terms of all
+contracts within their scope of responsibility. contract manager
+the university employee responsible for managing the ongoing relationship with the vendor including
+implementation, renewal, and support. this person is responsible for ensuring that the university's rights and
+obligations under the contract are met.

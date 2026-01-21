@@ -1,0 +1,12 @@
+. note that these devices also represent a risk to other devices in the restricted
+network. any unusual activity or disruptions should be reported to the help desk.
+restrictions for devices on the restricted network are documented in the
+network device connectivity
+standard.
+
+irm-3001– network device connectivity policy
+university of richmond | 4
+visitor network
+faculty, staff, and students should not connect devices to the visitor network. visitor devices include any
+workstation or smart device brought to campus by a visitor of the university. visitors are not permitted to
+connect servers or embedded devices to the visitor network

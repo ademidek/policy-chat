@@ -1,0 +1,13 @@
+. information services staff will provide guidance regarding the use of record
+identifiers.
+6. vendors who host or process confidential or restricted information shall periodically complete an
+independent audit using an established security framework (e.g., nist 800-53, iso 270001,
+hitech, etc.) to validate the effectiveness of their information security controls.
+7. faculty and staff shall require vendors to which they provide administrative data or education
+records to comply with this policy or substantially similar standards contained in the vendor
+contract.
+b. education records
+1. education records are protected under the family educational rights and privacy act of 1974
+("ferpa"), as amended, and its implementing regulations.
+2. all faculty and staff must comply with the university's ferpa policy statement.
+3

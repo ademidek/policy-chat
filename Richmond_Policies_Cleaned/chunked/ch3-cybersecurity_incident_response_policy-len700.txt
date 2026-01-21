@@ -1,0 +1,19 @@
+08/05/2024
+approval: vice president for information services and
+chief information officer
+replaces
+policy dated:
+06/29/2020 responsible
+university official:
+vice president for information services and
+chief information officer
+
+irm-4002 – cybersecurity incident response policy
+university of richmond | 2
+irm-4002.4.…..reporting a cybersecurity incident
+irm-4002.5 .......roles and responsibilities
+irm-4002.6…...applicable regulations and accreditation standards
+policy statement:
+irm-4002.1 – definitions
+confidential information: see definition in the university of richmond data security policy.
+event: is an observable occurrence in the operation of an information resource, service, or network

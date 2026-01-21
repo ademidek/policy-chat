@@ -1,0 +1,8 @@
+irm-3001– network device connectivity policy
+university of richmond | 3
+irm-3001.3 – policy
+all networks (campus, restricted, and visitor) must be comprised of switches, wi-fi access points, and
+vpn devices that have been configured and deployed by network services. no third party or
+departmental network access equipment is permitted. in all cases, users of university networks (campus, restricted, and visitor) are always required to adhere
+to the requirements of the acceptable use policy (https://is.richmond.edu/policies/acceptable-use.html), as
+well as those policies outlined at http://is.richmond.edu/policies/index.html.

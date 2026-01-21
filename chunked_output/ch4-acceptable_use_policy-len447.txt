@@ -1,0 +1,6 @@
+irm-2001 – acceptable use policy
+university of richmond | 2
+the university's network and computer infrastructure is a critical and finite resource. community
+members rely on high availability and good performance in order to accomplish their work. systems using
+excessive amounts of bandwidth, causing network disruption, or are deemed to be a security and/or
+privacy risk may be disconnected from the network or otherwise limited without warning.

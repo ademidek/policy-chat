@@ -1,0 +1,16 @@
+. the university's health plan and the health care components of the
+university shall:
+a. maintain access control procedures for information systems containing electronic phi
+that limit access to those covered employees who have been granted access by the health
+care components of the university, including, but not limited to assigning unique login
+name or number to track user identify and establishing procedures for accessing
+electronic phi in an emergency;
+3. physical security. the university's health plan and the health care components of the
+university shall:
+a. maintain reasonable and appropriate physical security measures to limit physical access
+to electronic information systems containing phi and the facilities in which they are
+housed to covered employees and business associates authorized to access such
+systems and/or facilities;
+b. maintain procedures for the appropriate use, surroundings, and security of workstations
+that have access to electronic phi;
+c

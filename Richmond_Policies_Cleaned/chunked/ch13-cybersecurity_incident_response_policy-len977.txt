@@ -1,0 +1,14 @@
+. all monitoring and access will be documented in accordance
+with the ir plan.
+4. any external disclosure regarding an incident must be reviewed and approved by the vice president of
+information services in consultation with university general counsel and university communications.
+5. the ur-cirt will coordinate with external law enforcement, service providers or government agencies
+as required and defined in the ir plan. the ur-cirt is authorized to share threat and incident
+information with these organizations under a court order or approval of university counsel.
+6. upon conclusion of an incident, the ur-cirt will finalize and distribute the incident report in
+accordance with the ir plan.
+irm-4002.6 – applicable regulations and accreditation standards
+a. sacscoc principles of accreditation 12.5 (student records)
+b. health insurance portability and accountability act of 1996 (hipaa), public law 104-191
+c. payment card industry data security standard (pci dss)
+d

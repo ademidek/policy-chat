@@ -1,0 +1,4 @@
+output from a genai application must be reviewed by the data steward for confidentiality, integrity,
+accuracy, fairness, regulatory compliance, and academic attribution before publication or ingestion into
+another university system. f. when a genai application provides data or a decision, a disclaimer must clearly state that artificial
+intelligence was used to generate the output.

@@ -1,0 +1,437 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+the university of richmond collections management policy is intended to provide a framework to ensure
+that the items held by the university of richmond museums are used in a manner that complements and
+supports the academic mission of the university of richmond, as well as to articulate the institution's
+commitment to the stewardship of the objects that comprise its collections.
+scope:
+this policy applies to all objects, including gemstones, specimens, decorative arts, fine arts and similar items,
+owned by, held by, or in the care of the university of richmond museums.
+index:
+acd-8101.1...........definitions
+acd-8101.2...........mission statement
+acd-8101.3...........ethics
+acd-8101.4….......scope of collections and collecting goals
+acd-8101.5...........collection objects on campus
+acd-8101.6...........standard of care
+acd-8101.7...........access
+acd-8101.8...........documentation
+acd-8101.9...........copyright
+acd-8101.10.........insurance and risk management
+acd-8101.11.........acquisition
+acd-8101.12.........temporary custody
+policy #: acd-8101
+policy title: museum collections management policy
+effective: 07/17/2024 responsible office: university museums
+date
+approved:
+07/17/2024 approval: executive vice president & provost
+replaces
+policy dated:
+09/01/2013 responsible
+university official:
+executive director, university museums
+
+acd-8101 – museum collections management policy
+university of richmond | 2
+acd-8101.13.........accession
+acd-8101.14.........deaccession
+acd-8101.15.........disposal
+acd-8101.16.........incoming loans
+acd-8101.17.........outgoing loans
+acd-8101.18.........personal collections
+acd-8101.19.........appraisals and identification
+acd-8101.20.........revision and compliance
+policy statement:
+acd-8101.1 – definitions
+accessioning – the formal process used to accept legally and to record a specimen or object as part of a
+collection; the act of accepting objects into the category of materials that a museum holds in the public trust;
+the creation of an immediate, brief, and permanent record utilizing a control number for an object or group of
+objects added to the collection from the same source at the same time, for which the museum has custody,
+right or title.
+acquisition (n) – something acquired by a museum (but not necessarily involving accessioning into the
+collection); (v) the process of obtaining custody (physical transfer) of an object or collection.
+appraisal – a judgment of what something is worth; an expert or official valuation, as for taxation; the
+process of determining the monetary value of something.
+cataloguing – the process of organizing the information about an accession by creating records of specific
+information; the creation of a full record, in complete descriptive detail, of all information about an object,
+assembly, or lot, cross-referenced to other records and files, and often containing a photograph, sketch, film,
+sound, or other electronic data.
+collections management policy – a written document, approved by the institution's governing authority,
+that specifies how collections will be acquired, accessioned, documented, stored, used, cared for, and disposed
+of.
+conservation – maximizing the endurance and minimizing the deterioration of an object or specimen
+through time, with as little change to it as possible.
+deaccessioning – the formal process of removing an accessioned object or group of objects from an
+institution's collection.
+deed of gift – a contract that transfers ownership of an object from a donor to an institution and describes
+the conditions of the gift.
+disposal – the process of physically removing a deaccessioned object from the museum's custody.
+incoming loan – objects, lots, specimens, or archival materials to which the museum does not have legal title
+but for which it is legally responsible while they are in its possession and used in museum-sponsored
+activities.
+
+acd-8101 – museum collections management policy
+university of richmond | 3
+inventory (n)- an itemized listing of objects, often including current location, for which the museum has
+responsibility; (v) the process of physically locating objects through an inventory.
+loan agreement – an agreement between a lender and a borrower of an object, specifying the object and
+outlining the conditions of the loan and the respective responsibilities of each party.
+outgoing loan – an object loaned by a museum to another institution. it is an outgoing loan from the
+perspective of the lending institution; such a loan would be an incoming loan to the borrowing institution.
+provenance – for works of art and historical objects, the background and history of ownership. the more
+common term for anthropological collections is "provenience," which defines an object in terms of the
+specific geographical location of origin. in scientific collections, the term "locality," meaning specific
+geographic point of origin is more acceptable.
+repatriation – to return or restore the control of an object to the country of origin or rightful owner.
+restricted gift – the voluntary transfer of ownership of property with conditions and/or limitations place
+upon that ownership.
+acd-8101.2 – mission statement
+the university of richmond museums comprise the joel and lila harnett museum of art, the joel and
+lila harnett print study center, and the lora robins gallery of design from nature. the university
+museums serve the university's students and community, the greater richmond area, and statewide,
+national, and international audiences. the museums provide the opportunity for the appreciation,
+knowledge, and scholarship of art, cultural history, and science through the collections, exhibitions (on-
+campus and traveling), and scholarly publications. academic and public programs include special courses,
+lectures, gallery talks, artists' residencies, workshops, concerts, symposia, and other events. the
+collections of the three museums include approximately 100,000 objects, ranging from gemstones and
+shells, to decorative arts and artifacts from many cultures, to prints from the renaissance to the present, to
+contemporary paintings and sculpture. internships, fellowships, and work-study positions and research
+opportunities for students are integral to the museums' offerings.
+the university museums complement and support the academic mission of the university of richmond
+by providing educational and cultural resources in the fields of the visual arts and natural sciences that
+welcome, inspire, and challenge the students, faculty, and staff of the university and engage the members
+of the surrounding communities.
+acd-8101.3 – ethics
+the university of richmond museums (hereafter referred to as "museums") conform to the ethical
+principles established by and articulated in the university of richmond code of organizational ethics and
+integrity (http://www.richmond.edu/compliance/code-of-ethics.pdf). the museums likewise adhere to the
+ethical codes as established by the american alliance of museums (aam), the association of art
+museum directors (aamd), the college art association (caa), and the international council of
+museums (icom).
+
+acd-8101 – museum collections management policy
+university of richmond | 4
+acd-8101.4 - scope of collections and collecting goals
+the museums were formed as a department of the university of richmond (hereafter referred to as
+"university") in 1999 to integrate and expand the offerings of the joel and lila harnett museum of art,
+the joel and lila harnett print study center, and the lora robins gallery of design from nature. the
+permanent collection contains:
+• fine art, including contemporary and historic paintings, prints, photographs, drawings, and sculptures
+housed in the harnett museum of art and the harnett print study center;
+• decorative arts, including contemporary and historic vessels, icons, coins, tools, and various other cultural
+artifacts and ethnographic objects housed in the lora robins gallery of design from nature;
+• natural science specimens, including rocks, minerals, gemstones, fossils, shells, and corals also housed in
+the lora robins gallery of design from nature.
+the museums seek objects that are representative of its primary collecting areas, with the intent of filling gaps
+and strengthening weak areas in the permanent collection. the encyclopedic nature of the museums'
+collections within the fields of fine art, decorative arts, ethnography, and natural sciences is intended to
+support, enrich, and extend the academic mission of the university of richmond, especially within the liberal
+arts but applicable to and serving the five schools of the university. the museums will not collect and
+accession any objects that do not conform to the established collecting areas as stated.
+the museums also maintain a library and archives in support of the permanent collection and maintain a
+separate education collection. the education collection contains those objects deemed not suitable for the
+permanent collection but that may nonetheless have utility for educational programs or related activities.
+educational collection objects may include:
+• unique objects that are unsuitable for the permanent collection but may provide visitors with a hands-on
+experience;
+• common objects that are numerous and easy to replace;
+• objects in poor condition that still have use;
+• props and reproductions.
+the museums will not collect and accession objects that do not meet the museums' acquisitions criteria as set
+forth in section acd-8101.11, acquisition. see section acd-8101.11 for further discussion of the acquisition
+process.
+acd-8101.5 - collection objects on campus
+the museums exhibit collection objects in various spaces on campus in addition to its exhibition spaces.
+works from the permanent collection may be exhibited outside of the museums only if the area meets the
+security and environmental standards of the museums. the executive director has the authority to approve
+such placement and display, and museum staff will ensure that the area continues to meet these standards.
+since care of all objects on campus is of primary importance, the museums retain the right to determine
+proper placement of any object to ensure that it is free of hazards. it is the responsibility of the curator of
+museum collections to monitor the condition of all campus objects on a regular basis.
+
+acd-8101 – museum collections management policy
+university of richmond | 5
+acd-8101.6 - standard of care
+the standards of care we provide objects in the permanent collection follow industry determined best
+practices. the museums adhere to the best practices as established by the aam, the aamd, the caa, and
+the icom. the museums are committed to the prudent management of its permanent collections, including
+the appropriate storage, security, and conservation of the collections, to ensure the preservation of collection
+objects for future generations.
+any object, whether an acquisition or loan object, must be inspected as to condition before entering secured
+storage and being commingled with the collections. the curator of museum collections oversees or conducts
+condition reporting, and is responsible for determining whether an object requires conservation.
+acd-8101.7 – access
+in order to safeguard the collections as described above, the museums generally maintain the collections
+storage areas as restricted-access areas. while full-time museums staff will have access to these areas, part-
+time staff, university staff and faculty from other departments, students, and volunteers will have only
+supervised access. access to the collections and records for outside researchers will be permitted subject to
+staff availability.
+acd-8101.8 – documentation
+the maintenance of clear, accurate, and accessible records on the identification, location, and condition of
+collection objects is the primary responsibility of the museums. the museums maintain the collection
+records and documents for all acquisitions, accessions, deaccessions, location records, inventories, and loans.
+all records are duplicated when necessary, and all digital records are routinely backed-up.
+the museums maintain an inventory of its collections and routinely check its collections to verify of records
+and to examine the objects for damage and loss. a full inventory is conducted every five years on a rotating
+basis for each museum's collection. any damage or loss is reported to the executive director, who will report
+the damage or loss to the appropriate university authorities.
+acd-8101.9 – copyright
+the museums strive to attain copyrights for all objects in the collection when title is transferred.
+in any instance in which the museums believe that the right to reproduce an object may be held by another
+person or organization, the potential user will be notified in writing that the museums undertake no
+responsibility for determining the nature of such right or for obtaining whatever permission may be necessary
+to reproduce the object.
+all reproductions are to be fully credited.
+acd-8101.10 - insurance and risk management
+the university's current insurer insures all of the museums' collections at fair market value while on campus,
+in transit, and while in the custody of borrowers. objects on incoming loan are insured by the university
+unless the lender wishes to carry insurance. the lender must provide proof of policy for the museums'
+records. also see section acd-8101.15, incoming loans.
+
+acd-8101 – museum collections management policy
+university of richmond | 6
+acd-8101.11 – acquisition
+the museums endeavor to collect objects of high quality through gift, bequest, purchase, and by exchange or
+transfer that further its educational mission. new acquisitions should enhance the cultural and educational
+value of the museums' collection. the museums are under no obligation to accept bequests or gifts offered to
+it. the museums may also practice selective acquisition, which means that the museum may choose to accept
+only certain objects that are part of a larger gift and reject others that do not conform to the museum's
+collecting standards.
+in the case of a gift, objects not accepted for the permanent collection (i.e., non-accessioned works) may be
+considered for the education collection with the donor's approval.
+it is understood that the use of these items may result in their deterioration or loss over time.
+the museums will not knowingly or willfully acquire any object that does not adhere to the laws of cultural
+property. these laws include the u.s. convention on cultural property implementation act (public law 97-
+446, title iii) and the native american graves protection and repatriation act (public law 101-601). the
+museums will not acquire undocumented rocks, fossils, flora, or fauna, including human remains.
+all additions to the museums collections are carefully considered and evaluated. acquisitions support the
+mission of the university and the role of the museums in serving the faculty, staff, and students of the
+university community and outreach to the greater community. the museums' professional staff is responsible
+for determining what objects are appropriate to the mission and collecting goals of the museums. the
+executive director and curatorial staff are responsible for identifying, researching, and proposing possible
+acquisitions. also, the executive director and curatorial staff consult with members of the faculty or other
+individuals when additional expertise is needed or desired. acquisitions are proposed by the museums'
+professional staff with a written proposal of the object's authenticity, provenance, attribution, condition, and
+significance for the collections to the museums collections committee (comprising the executive director,
+the deputy director and curator of exhibitions, the curator of museum collections, the curator of museum
+programs, the museum operations manager, and the
+executive vice president & provost, or her/his
+designee).
+all acquisitions must be approved by the museums collections committee. when a gift valued under $5,000
+is approved by the committee, the museums will produce a written deed of gift that is binding when signed
+by the donor(s) and the museums executive director. all gifts valued at more than $5,000 must first be
+approved by the museums collections committee and then be presented to the university's gift acceptance
+committee for final approval. when a gift is approved by the gift acceptance committee, the museums will
+produce a written deed of gift that is binding when signed by the donor(s) and the museums executive
+director.
+all acquisitions will be considered after careful evaluation based on, but not limited to, the following criteria:
+• ability to physically and financially care for the objects;
+• relevance to the museums' mission statement and collecting goals;
+• aesthetic quality;
+• evidence of authenticity;
+• satisfactory provenance;
+• pedagogical value;
+• historical significance of the object, in terms of an artist's career, a historical movement, or relationship to
+the university of richmond, the city of richmond, or the commonwealth of virginia;
+• relationship to the collection's existing strengths and weaknesses;
+
+acd-8101 – museum collections management policy
+university of richmond | 7
+• potential of the work for exhibition or study and research for faculty, staff, and students;
+• physical nature, size, and condition as they relate to the resources required for storage, maintenance,
+restoration, or conservation; examples include potentially hazardous organic matter, controlled substances
+such as formaldehyde, objects that off-gas flammable fumes, or objects that can become highly reactive;
+• degree, if any, to which accessioning the object might appear to give rise to commercial exploitation or
+bring discredit upon the museums or the university itself;
+• restrictions or conditions attached to the acquisition. the museums will not acquire objects with
+restriction as to perpetual exhibition or retention.
+for offers of large collections, the museums will further consider its ability to fulfill the greater
+responsibilities associated with the care, preservation and utilization of the number of objects in the proposed
+acquisition. the museums retain the right under the terms of gift, purchase, bequest, or exchange to accession
+the collection either in whole or in part. additional considerations for purchases for the permanent collection
+may also include:
+• fairness of the purchase price.
+• possibility that a comparable object might be obtained by gift or bequest.
+• terms of any restrictions that might apply to the purchase funds intended to be used.
+• purchase price relative to the importance of the object to the collection.
+• the museums will never purchase objects owned by staff that work directly for the museums or by
+employees of the university.
+for all gifts, promised and fractional gifts, the museums will comply with the gift acceptance policies and
+guidelines as established by the office of advancement, effective july 1, 2009, as part of the university of
+richmond comprehensive gift acceptance policy. a gift proposal summary for gifts covered in this policy
+will be prepared by the museums executive director and submitted for approval by the gift acceptance
+committee.
+acd-8101.12 - temporary custody
+museums staff have authority to accept objects into the museum's custody on a temporary basis, not to
+exceed ninety days, for the purposes of informal identification, examination, possible gift or loan. in such
+cases, the museums will issue a receipt of delivery signed by a designated museum staff member
+acknowledging receipt of the object(s). the museums will care for the objects using the same standard of
+care as objects in its permanent collections.
+acd-8101.13 – accession
+following the best practices established for the museum industry, all objects acquired for the permanent
+collection will be accessioned. each object is given a distinct accession number to uniquely identify the object
+within the collection.
+acd-8101.14 – deaccession
+it is the intent of the museums to acquire objects with care so that it is seldom necessary to engage in
+deaccession. nonetheless, the museums are aware that periodic evaluation of the collections and careful use
+of deaccessioning may strengthen the quality of the museums' collection over time. as part of the museums'
+periodic inventory process, items will be considered for deaccession (see section acd-8101.8,
+documentation).
+
+acd-8101 – museum collections management policy
+university of richmond | 8
+deaccessions will be considered only with great caution, and the benefits of a proposed deaccession should
+clearly outweigh possible disadvantages. once deaccessioned, an object may be disposed of through transfer,
+sale, or placement into the educational collection. to be deaccessioned, an object must be in the museums'
+possession for at least two years.
+the museums may, as a courtesy, notify donors, descendants, or relatives of the donors of the museums'
+intent to deaccession an object, although it is not obligated to do so unless so stated as a condition of the
+original gift.
+the criteria applied to deaccessioning and disposal are as stringent as those applied to the museums'
+acquisition process, and reflect professional standards and ethics as established by the aam and the aamd.
+deaccessions from the collection should be made only after evaluation based on, but not limited to, the
+following criteria:
+• the object does not conform to the museums' mission statement or is outside the collection development
+goals of the museums;
+• the object is determined to have insufficient historical, artistic or scientific significance;
+• the object is determined not to be authentic;
+• the correction of a false or erroneous provenance of the object renders it inappropriate for the collection;
+• a better example has been acquired;
+• the museums cannot continue to provide for the maintenance or treatment of an object at professionally
+accepted standards;
+• the object poses a threat to other objects in the collection or to staff members;
+• the object is beyond repair or conservation would be so prohibitively expensive that the integrity of the
+object would be compromised;
+• the object is over-represented in the collection;
+• the museums does not hold clear title to the object or the object had been exported or imported in
+violation of state or federal law;
+• the object is unintentionally destroyed.
+objects in the collection are deaccessioned by formal written recommendation of the museums staff and must
+be approved by the executive director. the approved written recommendation is filed with the permanent
+files of the object. all documents and data on deaccessioned objects are retained.
+acd-8101.15 – disposal
+the following are approved methods of disposal for deaccessioned objects, in preferred order:
+• transfer to the legal owner in cases where the deaccession has been due to the fact the museums does not
+hold legal title;
+• transfer to or exchange with an appropriate tax exempt educational institution, including another
+department at the university;
+• exchange for another object with educational, nonprofit organizations, or reputable dealers. if an object is
+exchanged, the requirements for acquisitions must be followed for the new object;
+• public sale with an established auction house or a private sale;
+• destruction, if necessary, due to biohazard or deterioration beyond retrieval. the method of destruction
+must comply with local, state, and federal codes; must be witnessed by a museums staff member, and
+attested to in writing that is deposited in the object's permanent file.
+
+acd-8101 – museum collections management policy
+university of richmond | 9
+following the policies and guidelines established by the aam, the aamd, and the caa, any proceeds from
+the sale of deaccessioned objects will be kept in a restricted fund, and used solely for the purchase of other
+objects for the permanent collection, not for other costs such as operating expenses or building funds, either
+for the museums or the university. under no circumstances will objects be given or sold privately to
+university employees, volunteers, or their representatives.
+acd-8101.16 - incoming loans
+incoming loans may be accepted from an individual or organization for the purpose of exhibition, research, or
+educational programming. the executive director has the sole authority to approve loans. the museums
+reserve the right to determine when, if, and, for how long objects borrowed will be exhibited.
+loan periods are typically restricted to a maximum two-year duration, possibly longer if extended to the
+needed length of time for traveling exhibition tours organized by the museums. after careful review, and with
+special justification, the executive director may approve a loan renewal. special circumstances for renewal
+would include if the object were integral to an exhibition, an active educational program, or for research.
+permanent loans will not be accepted. long-term loans will not be accepted from individuals but may be
+allowable from other museums or collecting organizations.
+insurance in the amount determined by the lender, and agreed upon by the museums, must be placed on all
+loans and carried from the time the objects arrive at the museums until the objects are returned to the lender.
+the lender may elect to insure the loan under the lender's own policy. if the items on loan are to be insured by
+the university, the museums will coordinate with the office of risk management to ensure appropriate
+coverage.
+the museums will provide the same standard of care and for borrowed objects that it gives to its own
+collections. no alterations shall be conducted without written consent from the owner. museums staff is
+responsible for checking the condition of all borrowed objects upon arrival and before the borrowed objects
+leave the custody of the museums.
+it is the lender's responsibility to notify the museums if there is any change of ownership of any objects or if
+there is a change in the identity or address of the lender. the museums assume no responsibility to search for
+the lender who cannot be reached at the address of record. if the museums efforts to return objects within a
+reasonable period following the termination of the loan are unsuccessful, then the objects will be maintained
+at the lender's risk and expense for a maximum of one year. if after one year the objects have not been
+claimed, then the lender/owner shall be deemed to have made the objects an unrestricted gift to the museums
+as defined by state law (code of virginia §55-210).
+upon termination of a loan, the lender is on notice that a return or renewal must be affected, or else a gift of
+the objects will be inferred. objects will be returned only to the lender of record unless otherwise directed by
+the lender in writing not to do so. in the case of uncertainty, the museums reserve the right to require the
+lender/claimant to establish title by proof satisfactory to the museums.
+these guidelines are conveyed to lenders via the museums' loan agreement form, issued upon agreement
+between the museums and the lender, preferably prior to the museums' possession of the borrowed objects.
+acd-8101.17 - outgoing loans
+outgoing loans for educational and scholarly purposes may be made to non-profit institutions with a similar
+mission and who adhere to generally recognized professional museum standards. loans to private individuals
+
+acd-8101 – museum collections management policy
+university of richmond | 10
+will not be considered.
+institutions seeking a loan must provide the museums details as to the purpose, period, insurance, security,
+and transportation of the loan. a standard facilities report issued by the aa m must be obtained by the
+museums prior to acceptance of the loan. the executive director has the sole authority to approve loans.
+the following will be considered when determining whether a loan request will be granted:
+• intended use;
+• condition of the object and suitability of the object to travel;
+• duration;
+• borrower's physical plant, including security, lighting, and environmental controls;
+• transportation needs;
+• insurance coverage;
+• the impact of the loan upon the museums' exhibitions, education programs, and teaching and research
+needs;
+• willingness of the borrower to agree to and apparent ability to fulfill appropriate terms regarding packing
+and travel arrangements and costs, insurance coverage, special conditions of display, and any special
+handling requirements.
+in order for the loan request to be approved, the museums must have on file a signed, written agreement
+between the museums and the borrowing institution detailing the terms of the loan.
+objects borrowed from the museums must be insured when off premises, in transit, and while in the custody
+of borrowing organization. these objects may be insured under the borrower's policy if the executive
+director approves the borrower's insurance. prior to shipment the borrower must furnish proof of insurance
+coverage or agree in writing to reimburse the museums for insurance coverage. the museums will provide
+the most recent appraisal value of objects requested for loan. if an appraised value is not available, the
+museums will provide a documented fair market value.
+loans are subject to recall upon reasonable written request and will be subject to immediate recall in the event
+that any of the museums' conditions of the loan are not fulfilled.
+loan periods are restricted to a maximum of two years. depending on the conditions listed above, shorter loan
+periods may be preferable. after careful review, the executive director may approve a loan renewal.
+circumstances for renewal would include if the object were integral to an exhibition, an active educational
+program, or research. permanent outgoing loans will not be issued.
+acd-8101.18 - personal collections
+personal collecting activities of museums staff should not pose any conflict of interest with the museums, and
+particularly in terms of shared fields of interest.
+acd-8101.19 - appraisals and identification
+under no circumstances will a member of the museums staff give an appraisal. staff members may assist
+third parties only by identifying organizations and publications from which information on appraisers may be
+obtained. the museums cannot provide appraisals to individuals but will make object(s) available for an
+appraiser's inspection. when accepting gifts, the museums will stipulate the responsibility for securing (and
+paying for) appraisals and furnishing this information to the appropriate government authorities rests with the
+donor.
+
+acd-8101 – museum collections management policy
+university of richmond | 11
+where a statement is required by the irs to confirm a donor's gift, the museums will comply with the irs
+requirements and provide such information. the acceptance of an object at its appraised value does not imply
+an endorsement of the appraisal by the museums.
+museums staff may, as a public service, provide an informal identification of an object to owners for their
+personal information, provided that:
+• the owner agrees to use such a service for educational purposes only;
+• the service will not be used in connection with any past or contemplated commercial transaction;
+• the owner understands that the service represents only an informal opinion by staff;
+• and the rendition of such an opinion in no way implies or expresses authentication or value.
+acd-8101.20 - revision and compliance
+the museums executive director and other museums staff will review this policy periodically, with no
+interval between reviews exceeding five years. the executive director and the executive vice president &
+provost or his/her designee shall approve any additions, deletions, or revisions to this policy.
+related policies:
+gift acceptance policy
+gov-1000, conflict of interest policy
+fin-4403, procurement policy
+fin-4409, delegation of contract approval and signature authority
+policy background:
+non-substantive changes in 2024.
+policy contacts:
+executive director, university museums

@@ -1,0 +1,4 @@
+all requests
+should be made, tracked, and fulfilled through the online ticketing application (e.g.,
+spidertechnet) maintained by information services. c. deprovisioning: information systems shall be designed and deployed in a way that facilitates
+timely removal of a person's authorizations and accounts at appropriate times.

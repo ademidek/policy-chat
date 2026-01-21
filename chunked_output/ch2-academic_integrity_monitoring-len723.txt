@@ -1,0 +1,21 @@
+index:
+acd-2002.1 ......definitions
+acd-2002.2 ......statement
+acd-2002.3 ......exhibit
+acd-2002.4 ......applicable regulations & accreditation standards
+policy statement:
+acd-2002.1 – definitions
+student athletes
+student-athlete status is coded semester-by-semester. student-athletes are counted as a student-
+athlete if they were coded as an active student-athlete in the semester in which the data were
+collected, unless stated otherwise. policy #: acd-2002 policy title: academic integrity monitoring
+effective: 07/25/2024 responsible office: office of the provost
+date
+approved:
+07/25/2024
+approval: board of trustees
+replaces
+policy dated:
+01/1/2018 responsible
+university official:
+executive vice president & provost

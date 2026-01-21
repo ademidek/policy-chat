@@ -1,0 +1,8 @@
+vice presidents, deans, associate/assistant vice presidents, and academic/administrative unit leaders are
+required to designate a data steward for any information resource under their control. they must also
+designate an application owner for any information resource not centrally managed by information
+services. this policy also places responsibility on deans, associate/assistant vice presidents and
+academic/administrative unit leaders to: 1) require appropriate computer use as specified in the policy
+acceptable use policy, 2) ensure compliance with information technology policies and standards by
+people and services under their control, and 3) implement and monitor additional procedures as necessary
+to provide appropriate security of information and technology resources within their area of responsibility.

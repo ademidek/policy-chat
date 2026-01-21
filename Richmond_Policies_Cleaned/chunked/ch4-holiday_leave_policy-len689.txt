@@ -1,0 +1,9 @@
+. only hours worked on an observed holiday
+will be credited toward overtime calculations.
+to qualify for holiday pay, an employee must be in an approved pay status the scheduled day before and
+the scheduled day after the holiday. in addition, the employee must meet (or be officially excused from)
+their last assigned work shift prior to the holiday and meet (or be officially excused from) the next
+assigned work shift following the holiday.
+holiday hours will be paid based on scheduled total weekly hours divided by 5. no holiday pay is granted
+when a holiday occurs during leave without pay, during an unpaid leave of absence, parental leave, while
+on layoff status, or on a suspension

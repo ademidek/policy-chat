@@ -1,0 +1,2 @@
+outlining the conditions of the loan and the respective responsibilities of each party.
+outgoing loan – an object loaned by a museum to another institution

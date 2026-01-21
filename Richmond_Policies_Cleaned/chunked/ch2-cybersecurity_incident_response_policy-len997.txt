@@ -1,0 +1,20 @@
+. this policy applies to all users of university data
+classified as restricted or confidential, whether faculty, staff, student, contractor, consultant, or agent thereof.
+this policy further applies to any computing or data storing devices or services (e.g., software-as-a-service
+(saas), platform-as-a-service (paas), etc.) owned or leased by the university that experience a cybersecurity
+incident, as well as any computing or data storing device or service, regardless of ownership, which is used to
+store, process, or transmit university data; which, if lost, stolen, or compromised could lead to unauthorized
+disclosure of university data.
+index:
+irm-4002.1 .......definitions
+irm-4002.2…...policy statement
+irm-4002.3 .......record retention
+policy #: irm-4002
+policy title: cybersecurity incident response policy
+effective: 08/14/2024 responsible office: information services
+date
+approved:
+08/05/2024
+approval: vice president for information services and
+chief information officer
+replaces

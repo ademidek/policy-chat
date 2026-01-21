@@ -1,0 +1,13 @@
+policy #: fin-4103
+policy title: employee cellular/mobile phone and device
+policy
+effective: 04/01/2024 responsible office: controller's office
+date
+approved:
+03/01/2024 approval: executive vice president and chief operating
+officer
+replaces
+policy dated:
+n/a responsible
+university official:
+senior associate vice president & controller

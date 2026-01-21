@@ -1,0 +1,5 @@
+the account may either exist in a central repository to
+which software applications may connect to consume identity and authentication information, or it may be
+managed locally on an information system or device. irm-4009.2 – policy statement
+1. accounts
+a.

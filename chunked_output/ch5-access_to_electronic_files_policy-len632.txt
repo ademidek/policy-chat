@@ -1,0 +1,6 @@
+information services monitors and collects data related to the university's systems and networks as necessary
+to manage the campus network traffic and to ensure that resources are available for academic, scholarly, and
+administrative uses. designated information services personnel, such as system administrators, have special
+privileges necessary for the implementation and maintenance of the university's systems and networks. the
+number of information services staff with system administrator privileges for any given system is limited to
+the number required for reliable operation, cross training, and adequate support coverage.

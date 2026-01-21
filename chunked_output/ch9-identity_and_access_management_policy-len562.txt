@@ -1,0 +1,5 @@
+identity: digital credentials and characteristics that uniquely represent a person, device, or application within
+an organization's network. a digital identity can consist of multiple accounts, credentials, and entitlements
+associated with a single entity or person. identity and access management (iam): a security and business discipline that combines policies, processes,
+and technologies to ensure the right people or devices gain appropriate access to the right assets at the right
+time for the right reasons, while preventing unauthorized access and fraud.

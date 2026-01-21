@@ -1,0 +1,27 @@
+. devices that cannot be meet these requirements may be
+permitted to connect to the restricted network. a visitor network is provided for anonymous wi-fi access
+for those not affiliated with the university.
+policy #: irm-3001 policy title: network device connectivity policy
+effective: 07/01/2021 responsible office: information services
+date
+approved:
+06/29/2021
+approval: vice president for information services & chief
+information officer
+replaces
+policy dated:
+11/18/2016 responsible
+university official:
+vice president for information services & chief
+information officer
+
+irm-3001– network device connectivity policy
+university of richmond | 2
+irm-3001.2 – definitions
+university networks
+campus network
+the campus network is the primary point of access for faculty, staff, and students to the university's
+computing resources, systems, and data.
+restricted network
+university assets that do not meet the minimum network security requirements may be connected to the
+restricted network

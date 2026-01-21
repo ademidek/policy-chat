@@ -1,0 +1,12 @@
+index:
+acd-7301.1 ......definitions
+acd-7301.2 ......appointment of endowed faculty chairs
+acd-7301.3 ......appointment of endowed administrative chairs
+acd-7301.4 ......selection of endowed chairs
+acd-7301.5 ......names of endowed chairs
+acd-7301.6 ......applicable regulations and accreditation standards
+policy statement:
+acd-7301.1 – definitions
+endowed faculty chairs
+an endowed faculty chair is a teaching and research position awarded to a faculty member for which all or
+part of the faculty member's compensation is paid for by the endowment. typically, an appointment to an

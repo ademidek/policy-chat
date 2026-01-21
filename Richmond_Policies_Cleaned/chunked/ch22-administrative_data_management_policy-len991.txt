@@ -1,0 +1,19 @@
+. data trustee: executive vice president and chief operating officer (dave
+hale)
+b. data steward(s): senior associate vp & university controller (laurie
+melville), assistant controller (steve walker*)
+c. data stewardship domains: budget data, accounting data, grants,
+investment data (spider mgt), procurement and accounts payable data,
+student accounts (bursar) data, payroll and tax data
+2) hr & student employment data
+a. data trustee: executive vice president and chief operating officer (dave
+hale)
+b. data steward(s): chief human resources officer (geraldine sullivan),
+director hr operations (jillian zemp*), tas, student employment (caitie
+hoeckele)
+c. data stewardship domains: employment data (staff, faculty, contractors,
+temps, students, etc.), benefits/compensation data, position control data, payroll
+data, performance data, learning data, employee recruiting data, emergency contact
+data for employees, employee (and dependent) photos, w-4's, i9's
+3) student admission data
+a

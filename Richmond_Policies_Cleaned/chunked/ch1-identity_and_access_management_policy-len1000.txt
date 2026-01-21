@@ -1,0 +1,29 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+to establish a framework that facilitates appropriate access by authorized individuals and entities to university
+electronic systems, data, and resources at the right time, and for legitimate academic, research, and
+administrative purposes.
+scope:
+this policy applies to anyone who accesses university of richmond (ur) data, electronic systems, software
+applications, or data networks as well as those who design, implement, or manage associated information
+services.
+index:
+irm-4009.1 .......definitions
+irm-4009.2 .......policy statement
+irm-4009.3 .......roles and responsibilities
+policy statement:
+irm-4009.1 – definitions
+policy #: irm-4009
+policy title: identity and access management policy
+effective: 10/10/2025 responsible office: information services
+date
+approved:
+10/10/2025 approval: vice president for information services and
+chief information officer
+replaces
+policy dated:
+n/a
+responsible
+university official:

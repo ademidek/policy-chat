@@ -1,0 +1,14 @@
+. with very few exceptions, they can be found in the campus data center.
+smart devices
+a smart device is typically a general-purpose computing device that has multiple functions, but unlike a
+traditional desktop or laptop, it is usually much smaller and more mobile.
+embedded devices
+an embedded device generally contains a special-purpose operating system. the device is typically
+dedicated to a small set of tasks and is usually "headless" meaning there is no person directly operating the
+device.
+
+irm-3001– network device connectivity policy
+university of richmond | 3
+irm-3001.3 – policy
+all networks (campus, restricted, and visitor) must be comprised of switches, wi-fi access points, and
+vpn devices that have been configured and deployed by network services

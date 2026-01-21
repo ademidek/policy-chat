@@ -1,0 +1,3 @@
+authorization: authorizations are implicit or explicit permissions to use a resource associated with a digital
+account. once the user of an account is authenticated, a system or resource determines if the person requesting
+access is authorized to use it. deprovisioning: the removal of computing accounts associated with an identity.

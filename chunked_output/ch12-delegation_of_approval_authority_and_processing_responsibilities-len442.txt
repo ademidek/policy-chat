@@ -1,0 +1,4 @@
+approvers with different types of approval responsibilities should assign each type of responsibility to the
+most appropriate delegate, even if that results in having multiple delegates during an absence. for transactions related to grants, a principal investigator may only delegate approval to someone with first-
+hand knowledge of the research/project that the grant is funding (e.g. a lab manager or post-doc working on
+the same project).

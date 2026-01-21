@@ -1,0 +1,14 @@
+. responsibilities related to the storage, access, and use of
+university administrative information
+09/11/2015
+the responsibilities related to the storage, access, and use of university administrative
+information section was updated to include specific guidelines about internal sharing of
+university administrative information.
+4/2/2024 major revision. restructured document for clarity and more defined groupings of
+requirements. replaced "university administrative information" with "administrative data"
+and aligned that definition with the definition in the administrative data management policy.
+updated the definition of data steward to reference the administrative data management
+policy instead of the records retention schedule. added definition for "vendor" that aligns
+with the contract management policy. updated suggestive language to be directive by
+replacing "should" with "shall" throughout the policy. added explicit reference to gramm-
+leach-bliley act (glba) for restricted data

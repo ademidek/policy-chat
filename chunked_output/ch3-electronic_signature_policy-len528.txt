@@ -1,0 +1,17 @@
+index:
+fin-4412.1 ........definitions
+fin-4412.2 ........use of electronic signatures
+fin-4412.3 ........approved electronic signature methods and products
+policy #: fin-4412
+policy title: electronic signature policy
+effective: 05/21/2024 responsible office: office of general counsel
+date
+approved:
+05/20/2024 approval: executive vice president and chief operating
+officer vice president and general counsel
+replaces
+policy dated:
+n/a responsible
+university officials:
+vice president and general counsel
+director of procurement

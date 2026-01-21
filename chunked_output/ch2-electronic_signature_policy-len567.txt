@@ -1,0 +1,5 @@
+this policy does not require the use of electronic signatures or prohibit the ability to engage in contracts or
+other transactions on paper. this policy does not apply: (a) to university systems with existing built-in electronic approval workflows,
+such as workday, ellucian banner, chrome river, esm and onbase; (b) when a handwritten signature on
+paper is required by law; (c) to facsimile signatures used on checks issued by the university; or (d) to internal
+agreements (as defined herein) or other documents or records that are solely internal to the university.

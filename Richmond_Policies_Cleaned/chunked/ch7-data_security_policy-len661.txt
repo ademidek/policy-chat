@@ -1,0 +1,16 @@
+. confidential information: confidential information is sensitive information that must be
+safeguarded to protect the privacy of individuals and the security and integrity of systems
+and to guard against fraud. confidential information must be afforded the highest level of
+privacy and security controls. confidential information includes, but is not limited to:
+• social security numbers (ssn)
+• credit and debit card numbers
+• bank account and other financial
+account numbers
+• medical or counseling records or
+information
+• passwords, passphrases, pins, security
+codes, and access codes
+• tax returns
+• credit histories or reports
+• background check report
+b

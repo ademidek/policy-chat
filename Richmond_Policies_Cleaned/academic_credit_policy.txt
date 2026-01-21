@@ -1,0 +1,460 @@
+policy #: acd-1001
+policy title: academic credit policy
+effective: 11/15/2024 responsible office: registrar's office
+date
+approved:
+11/15/2024 approval: university faculty senate
+replaces
+policy dated:
+11/19/2021 responsible
+university official:
+university registrar
+purpose:
+this policy outlines current practices used to determine academic credit within schools at the university of
+richmond.
+scope:
+this policy applies to the university of richmond and all of its affiliates. as used in this policy, the term
+"affiliates" means organizations or entities in which the university owns a controlling interest or has the right
+to elect the majority of the entity's governing board.
+index:
+acd-1001.1................policy
+policy statement:
+acd-1001.1 – policy
+academic credit is awarded to a student upon the successful completion of an approved instructional course,
+or by the demonstration of competency, demonstration of proficiency, or fulfillment of learning objectives.
+the university of richmond supports a variety of academic credit systems, each approved and maintained by
+the faculty of the respective school(s). each school is responsible for demonstrating that these requirements
+are met for all courses.
+u
+niversity of
+r
+ichmond
+policy manual
+
+acd-1001 – academic credit policy
+university of richmond | 2
+i. traditional undergraduate schools
+the three traditional undergraduate schools, the school of arts and sciences, the robins school of
+business, and the jepson school of leadership studies, moved to a system of "units" beginning in fall
+2008. in these schools, an undergraduate unit is based on "time-on-task" as a standard and recognizes
+10-14 hours per week as the minimum time that a typical good student should need to spend on a
+course, if that course is sufficiently challenging and if that student is to achieve a high level of
+learning, as measured by intended learning objectives. the minimum time includes time spent inside
+the classroom as well as time spent outside the classroom including formal lecture time, in-class and
+out-of-class discussions, group work, lab work, practice drills, studio work, practica, virtual labs,
+participation in online discussion sessions, reading, event attendance, review sessions, studying, field
+experiences, service learning and civic engagement, oral presentations, etc.
+courses that are offered under the same course title and number must meet the criteria and learning
+objectives outlined when the course was approved by the faculty for inclusion in the curriculum,
+regardless of instructional mode. therefore, undergraduate courses offered in an online or blended
+format in the school of arts & sciences, the robins school of business, and the jepson school of
+leadership studies will count toward university major, minor, and general education requirements for
+degree-seeking undergraduate students in those schools as if they had been offered in an in-person
+format.
+one unit is the equivalent of 3.5 semester hours. a total of 35 units are required for graduation.
+a. credit courses
+1. traditional courses include an individualized mix of in-class and out- of-class activities.
+a. students enrolled in courses in the robins school of business must attend at least 75
+percent of the class meetings— regardless of the reason for absence—to be eligible to
+receive credit for the course.
+2. nontraditional courses including theatre practica, music ensembles and individual music
+lessons require regular student participation and the amount of credit is commensurate with
+time required and learning objectives.
+3. undergraduate research, independent studies. for supervised research and similar
+activities, the amount of effort required for one unit of credit is determined by the
+supervising faculty. (for more specific information on independent studies, see policy on
+undergraduate independent studies.)
+4. student teaching, internships. credit is commensurate with the hours involved and the
+quality of the learning experience and is determined by the credit-awarding academic
+department. academic credit is awarded when the student fulfills the objectives set by the
+academic department. (for more specific information on internships, see policy on
+undergraduate academic internships.)
+5. intensive format courses, such as those offered during summer terms, may include
+premeeting reading and post-meeting research work to ensure for adequate preparation,
+reflection and analysis concerning the subject matter. credit is assigned based on
+
+acd-1001 – academic credit policy
+university of richmond | 3
+demonstrated competencies or learning objectives acquired which are equivalent to those of
+students in a traditional classroom setting.
+6. courses offered online or in blended format may meet synchronously or asynchronously
+depending on how technology is utilized to accomplish the learning goals, provided the
+credit definition is met. credit is assigned based on demonstrated competencies or learning
+objectives acquired and are equivalent to those of students in a traditional classroom setting.
+b. transfer credit
+1. domestic: credit in transfer may be accepted only for courses which are comparable to
+courses offered in the school of arts and sciences, jepson school of leadership studies,
+and/or robins school of business curriculum at the university of richm ond. moreover,
+the coursework must have been taken at an institution accredited by a regional accrediting
+agency or the international equivalent at the time the work was taken, and a grade or
+equivalent of c (2.0) or better must have been earned. approved credit earned at another
+institution will be converted to the university of richmond unit (one unit is the equivalent
+of 3.5 semester hours) and applied to the record accordingly. up to five 3- semester hour
+courses will be transferred in as one unit; addit ional 3- semester hour courses will be
+transferred in as .86 units. coursework accepted in transfer shall be applied to specific
+degree requirements subject to the discretion of the academic department concerned. units
+awarded are added into units required for graduation, but grades are not calculated in the
+grade point average.
+2. international: international credit transfer follows the same procedures as stated above for
+domestic transfer credit. when students attend richmond study abroad programs or other
+programs officially recognized by the office of international education, and the
+coursework otherwise meets the richmond transfer criteria, credit for general elective units
+towards graduation is automatically awarded. coursework accepted in transfer shall be
+applied to specific degree requirements subject to the discretion of the academic department
+concerned. in order to determine equivalency of international systems of credit to
+richmond's unit system, the best available criteria for comparing the two sys tems will be
+utilized including credits required for the degree, credits required to be enrolled fulltime, or
+instructional time. credit may be rounded in cases where doing so is necessary to provide
+a comparable amount of credit (e.g. if a student was enr olled in a full-time load of four 3-
+semester hour courses while studying abroad, those courses would be rounded up to 0.9
+units so the total would equate to a full-time load at richmond which is 3.5 units).
+c. credit by examination: credit earned by examination is awarded based on the demonstration of
+proficiency and may be used to satisfy requirements in the same manner as the college courses
+which the tests replace, or as the academic department concerned might specify. credit earned by
+examination will not be awarded for the same course more than once. students may also be
+exempt from a course based on an examination score as approved by the appropriate academic
+department. exemption will meet an individual requirement but will not be eligible for the
+transfer of credit.
+
+acd-1001 – academic credit policy
+university of richmond | 4
+ii. graduate business
+credit in the graduate school of business is measured in semester hours. historically, a semester hour
+of credit measures the total time commitment an average student is expected to devote to learning per
+week of study. generally, one semester hour of credit represents a total of three hours per week of in-
+class and out-of-class work. in this context, an hour is defined as 50 minutes. a typical course worth
+three semester hours would meet for a minimum of 2100 minutes, excluding the final examination
+period, for a standard semester containing 15 weeks of instruction, including final examinations.
+a. credit courses: traditional courses meet for the above described time periods in a traditional
+classroom setting and require the requisite additional work outside of class.
+b. transfer credit:
+1. domestic. credit in transfer may be accepted only for courses which are comparable to
+courses offered in the graduate school of business curriculum at the university of
+richmond. moreover, the coursework must have been taken at an institution accredited by
+aacsb at the time the work was taken, and a grade or equivalent of b (3.0) or better must
+have been earned. approved credit earned at another institution will be converted to the
+university of richmond semester hour and applied to the record accordingly. semester
+hours awarded are added into semester hours required for graduation, but grades are not
+calculated in the grade point average.
+2. international. international credit transfer follows the same procedures as stated above for
+domestic transfer credit. when students attend richmond study abroad programs or other
+programs officially recognized by the office of international education, and the coursework
+otherwise meets the richmond transfer criteria, credit for general elective units towards
+graduation is automatically awarded. coursework accepted in transfer shall be applied to
+specific degree requirements subject to the discretion of the academic department
+concerned. in order to determine equivalency of international systems of credit to
+richmond's system, the best available criteria for comparing the two systems will be
+utilized including credits required for the degree, credits required to be enrolled full-time, or
+instructional time.
+iii. university of richmond school of law
+credit in the law school is measured in semester hours. the law school has an academic semester
+of 13 weeks in which classes are regularly scheduled.
+a. credit courses
+1. general policy
+the law school shall award academic credit for only those experiences where one or more
+faculty members has identified learning outcomes and verified evidence of student
+achievement. in addition, for each credit awarded, an experience must demand of a student
+
+acd-1001 – academic credit policy
+university of richmond | 5
+at least 42.5 total hours of in-class and out-of-class work. before approving any course or
+other experience for academic credit, the associate dean for academic affairs shall
+accordingly consider its intended learning outcomes, the way in which student achievement
+is to be verified by faculty, and the number of hours of work it will demand of students. see
+course approval form for additional information.
+for reference, here is how a credit hour is earned in a typical course, with 2550 minutes
+being the standard per credit hour:
+13 weeks x 55 minutes/credit hour of class = 715 minutes
+13 weeks x 2 hours of out-of-class work = 1560 minutes
+exam/credit hour of class = 60 minutes
+preparing for exam = 215 minutes (or approximately 3.6 hours of preparation per hour of
+exam)
+for classes without a final exam or classes that meet outside of the typically scheduled 55
+minutes/credit hour, these missing minutes can be achieved through additional out-of-class
+work.
+2. academic credit for independent research paper
+students may receive one, two, or three-credits for preparing an independent research (ir)
+paper. to earn one credit, the student must prepare a paper of at least 2,500 words; to earn
+two credits the student must prepare a paper of at least 5,000 words; and to earn three
+credits, the student must prepare a paper of at least 7,500 words. all word counts are
+exclusive of footnotes. in addition to meeting the word-court requirements, students must
+spend at least 42.5 hours per ir credit-hour researching their topic, writing and editing their
+paper, or meeting with their faculty advisor.
+the upper-level writing requirement (ulwr) necessitates a paper of at least 5,000
+words, exclusive of footnotes. thus, to receive ulwr credit, the student must enroll in at
+least 2 credits of ir coursework. further, the student must comply with all other ulwr
+requirements.
+2.a. additional academic credit for upper-level writing requirement seminars
+some seminars require students to prepare a substantial research paper that satisfies the
+ulwr criteria. in recognition of the additional student-work required to prepare an
+ulwr paper, these seminars may award an additional academic credit beyond that
+which would typically be award based on number of weekly hours spent in classroom
+instruction. for example, a seminar that meets for two-hours of weekly classroom
+instruction, may nonetheless award three academic credits. the additional credit is
+awarded because faculty expect the student will spend an additional 42.5 hours
+researching their topic, writing and editing their paper, and meeting with their faculty
+
+acd-1001 – academic credit policy
+university of richmond | 6
+advisor, beyond the time that student would expend preparing for an exam or similar
+summative assessment in a non-ulwr paper course.
+3. credit for externships
+credit for externships is based on the total time the student spends engaging in approved
+externship-associated activities. these activities may include time spent in a regularly
+scheduled classroom component of an externship course; time spent at an externship
+placement; assignments associated with an externship course (such as reflections); or time
+spent preparing approved alternative assignments associated with an externship placement.
+students are required to track the total time they spend engaged in approved externship-
+associated activities and verify they have met the required total hours. students are awarded
+one credit hour for each 42.5 hours of approved externship-associated activities, thus:
+• for a 5-credit externship, the student must reach 212.5 total hours
+• for a 6-credit externship, the student must reach 255 total hours
+• for a 7-credit externship, the student must reach 297.5 total hours
+• for an 8-credit externship, the student must reach 340 total hours
+• for a 13-credit externship the student must reach 552.5 total hours
+4. credit for clinics
+credit for clinics is based on the total time the student spends engaging in approved clinic-
+associated activities. these activities may include time spent in a regularly scheduled
+classroom component of the clinic; time spent preparing assignments for the clinic class; or
+time spent preparing for, or engaging in, clinic-associated client representation. students
+are required to track the total time they spend engaged in approved clinic-associated
+activities and verify they have met the required total hours. students are awarded one credit
+hour for each 42.5 hours of approved clinic-associated activities. thus, for a typical six-
+credit clinic, students are required to reach 255 total hours.
+5. credit for research assistants
+students may earn credit for meaningful (non-clerical) work as a research assistant (ra)
+for a faculty member. students may receive one- or two-credits for serving as an ra in any
+single semester and may include up to three total ra credits towards the number of credits
+required for graduation. credit for ra positions is based on the total time the student spends
+engaging in approved ra-associated activities. these activities may include meaningful
+research, writing, editing, or other engagement with a supervising faculty member. students
+are required to track the total time they spend engaged in approved activities and verify they
+have met the required total hours. students are required to compete 42.5 hours of approved
+activities for each credit.
+students must apply to the associate dean for academic affairs in order earn credit as an
+ra. the student's application must be jointly completed by the student and supervising
+faculty member and must explain; 1) the learning objective(s) for the student in performing
+
+acd-1001 – academic credit policy
+university of richmond | 7
+the research assistance; and 2) the written work product the student will produce that will
+allow the faculty-supervisor to verify student achievement.
+6. credit for participation in approved external competitions
+upper-level student members (not first-year students) of the moot court board, trial
+advocacy board, or negotiation and alternative dispute resolution board may earn one
+credit per semester for participation in approved external competitions. in order to earn this
+credit, competition team members must comply with all the following requirements:
+• the competition team must be comprised entirely of members of the recognized team.
+• the competition team must be supervised by an approved coach.
+• each competition team-member seeking credit must spend at least 13-hours practicing
+for the competition with the approved coach and at least 30 additional hours
+independently preparing and practicing for the competition.
+• each competition team-member seeking credit must track the time they spend engaged
+in coach-proctored and independent practice and preparation and verify they have met
+the required total 30-hours.
+• the approved competition team coach must verify all required proctored and
+independent hours are met.
+• each competition team member seeking credit must enroll in a competition "course"
+established by the associate dean.
+• the competition team must follow all processes for team travel (e.g., budget submission,
+etc.) required by the dean's office.
+team coaches must be approved by the associate dean for academic affairs in accordance
+with all the following requirements:
+• the team must contact the associate dean and identify which competition the team will
+attend before the beginning of the semester in which the competition occurs. as part of
+this outreach, the competition team must request that credit be awarded team members
+for competition participation. the team must also provide the names of several potential
+qualified coaches (e.g., local attorneys).
+• the associate dean will review the coach list and make reasonable efforts to directly
+engage a qualified coach on the team's behalf.
+• the team will accept the associate dean's appointment and understands that the
+associate dean will seek a single coach or team of coaches assigned to the team for an
+entire semester, whenever possible.
+• the associate dean shall arrange for the dean's office to pay coach's salary directly;
+however, the cost of the coach traveling to a competition with the team will be paid by
+the team and must be included in the team's budget proposal.
+6.a. requests to obtain external competition credit for novel teams
+upper-level students who are not members of the moot court board, trial advocacy
+board, or negotiation and alternative dispute resolution board may also be eligible to
+receive one credit per semester for participation in external competition with the approval
+
+acd-1001 – academic credit policy
+university of richmond | 8
+of the associate dean for academic affairs. competition team members must work
+directly with the associate dean and follow all dean's office requirements related to
+funding, coaching, course enrollment, and travel. further, team members seeking credit
+will be required to spend at least 13-hours practicing with an approved coach and spend
+at least another 30-hours independently preparing and practicing for the outside
+competition. each competition team-member seeking credit must track the time they
+spend engaged in coach-proctored and independent practice and preparation and verify
+they have met the required total 30-hours. further, the approved competition team coach
+must verify all required proctored and independent hours are met.
+b. transfer credit – j.d. students
+1. domestic transfer students: transfer students who completed their first year of law
+school at another u.s. law school may apply no more than 33 hours of coursework done at
+another law school toward satisfaction of the j.d. degree. in order for course credits to
+transfer, courses must be taken at an institution accredited as degree-granting by a recognized
+regional accrediting body for higher education and accredited by the american bar
+association at the time the coursework is completed.
+domestic transfer students will not be ranked within their respective classes until graduation.
+instead, transfer students will receive a number corresponding to their position in the class if
+they had been ranked based on the student's post-transfer grade point average.
+2. ur students visiting away: students who are granted permission to visit another law
+school due to compelling circumstances may apply no more than 33 hours of coursework
+done at another law school toward satisfaction of the j.d. degree. in order for course
+credits to transfer, courses must be taken at an institution accredited as degree-granting by a
+recognized regional accrediting body for higher education and accredited by the american
+bar association at the time the coursework is completed.
+3. international transfer students: lawyers who earned a first degree in law from outside
+the united states may apply no more than 28 hours of coursework from that degree. these
+students take the regular first year curriculum and are subject to the same graduation
+requirements as all j.d. students.
+4. transfer credits for joint degree programs: up to 12 credits may be applied for
+graduate work in a university of richmond-approved joint j.d.-masters program.
+5. non-joint degree graduate credits: for graduate-level non-law school work, not part
+of an approved joint-degree program, up to 9 credits earned in pursuit of a concurrent
+graduate degree or up to 6 credits of non-degree related graduate work may be applied.
+
+acd-1001 – academic credit policy
+university of richmond | 9
+for any credit to transfer, the coursework must be taken for a grade and, in order for the work
+to be counted, the student must receive a c (2.0) or better in each course; all coursework
+proposed to transfer is subject to approval by the associate dean for academic affairs. no
+online credits or degrees will be accepted for transfer purposes.
+with regards to paragraphs 4 and 5, credits may be applied only for graduate work taken
+after the student has matriculated at the university of richmond school of law.
+c. transfer credits – ll.m. students
+students may not transfer credits from an ll.m. degree at another institution towards an ll.m. degree
+at the law school.
+students who are enrolled in the ll.m. degree program may apply for admission to the j.d. program.
+the requirements for admission to the j.d. program are the same for ll.m. students as they are for
+any applicant. applications from current ll.m. degree students will ordinarily be considered in the
+spring semester after fall grades have been released. credits earned while a student is enrolled in the
+ll.m. program may not be transferred to the j.d. degree program and do not count towards a j.d.
+degree.
+iv. school of professional and continuing studies, undergraduate
+undergraduate credit in the school of professional and continuing studies is measured in semester
+hours. historically, a semester hour of credit measures the total time commitment an average student
+is expected to devote to learning per week of study. generally, one semester hour of credit represents
+a total of three hours per week of in-class and out-of-class work. in this context, an hour is defined as
+50 minutes. a typical course worth three semester hours would meet for a minimum of 2100 minutes,
+excluding the final examination period, for a standard semester containing 15 weeks of instruction,
+including final examinations. emerging delivery methodologies may necessitate determining a
+semester hour of undergraduate credit with non-time based methods. these courses use
+demonstration of competency, demonstration of proficiency, or fulfillment of learning objectives to
+insure they are equivalent to traditionally delivered courses. students enrolled in courses in the
+school of professional and continuing studies must attend at least 75 percent of the class meetings—
+regardless of the reason for absence—to be eligible to receive credit for the course.
+a. credit courses
+1. traditional courses meet for the above described time periods in a traditional classroom
+setting and require the requisite additional work outside of class.
+2. hybrid courses meet in a traditional classroom setting for at least 51% of the required time
+listed above and the remaining instruction is delivered online. credit is assigned based on
+demonstrated competencies or learning objectives acquired and are equivalent to those of
+students in a traditional classroom setting.
+3. online courses meet in a traditional classroom setting for less than 50% of the required
+time listed above and may not meet at all. credit is assigned based on demonstrated
+
+acd-1001 – academic credit policy
+university of richmond | 10
+competencies or learning objectives acquired and are equivalent to those of students in a
+traditional classroom setting.
+4. undergraduate research, independent studies. for supervised research and similar
+activities, the amount of effort required for academic credit is determined by the
+supervising faculty. (for more specific information on independent studies, see policy on
+undergraduate independent studies.)
+5. student teaching, internships. credit is commensurate with the hours involved and the
+quality of the learning experience and is determined by the credit-awarding academic
+department. academic credit is awarded when the student fulfills the objectives set by the
+academic department. (for more specific information on internships, see policy on
+undergraduate academic internships.)
+6. intensive format courses, such as those offered during summer terms, may include
+premeeting reading and post-meeting research work to ensure for adequate preparation,
+reflection and analysis concerning the subject matter. credit is assigned based on
+demonstrated competencies or learning objectives acquired which are equivalent to those
+of students in a traditional classroom setting.
+b. prior learning: recognizing that much learning is achieved through non- traditional methods, the
+school of professional and continuing studies awards credit for prior learning. students can seek
+credit for prior learning related to a comparable course offered or accepted in transfer at the
+school of professional and continuing studies. students complete a three-semester-hour course,
+aded 200u, experiential learning and portfolio preparation, then enroll in aded 201u,
+portfolio submission and assessment. portfolios are reviewed by qualified faculty members who
+recommend credit based on the extent and depth of each student's learning.
+c. transfer credit: credit in transfer may be accepted only for courses which are comparable to
+courses offered in the school of professional and continuing studies, school of arts and
+sciences, jepson school of leadership studies, and/or robins school of business curriculum at
+university of richmond. moreover, the coursework must have been taken at an institution
+accredited by a regional accrediting agency or the international equivalent at the time the work
+was taken, and a grade or equivalent of c (2.0) or better must have been earned. coursework
+accepted in transfer shall be applied to specific degree requirements subject to the discretion of
+the school of professional and continuing studies. clep exams are considered transfer credits.
+the school of professional and continuing studies generally does not accept credits earned with
+a pass/no pass designation. semester hours awarded are added into semester hours required for
+graduation, but grades are not calculated in the grade point average.
+v. school of professional and continuing studies, graduate
+graduate credit in the school of professional and continuing studies is measured in semester hours.
+historically, a semester hour of credit measures the total time commitment an average student is
+expected to devote to learning per week of study. generally, one semester hour of credit represents a
+total of three hours per week of in-class and out-of-class work. in this context, an hour is defined as
+50 minutes. a typical course worth three semester hours would meet for a minimum of 2100 minutes,
+
+acd-1001 – academic credit policy
+university of richmond | 11
+excluding the final examination period, for a standard semester containing 15 weeks of instruction,
+including final examinations. emerging delivery methodologies may necessitate determining a
+semester hour of credit with non-time based methods. these courses use demonstration of
+competency, demonstration of proficiency, or fulfillment of learning objectives to insure they are
+equivalent to traditionally delivered courses. students enrolled in courses in the school of
+professional and continuing studies must attend at least 75 percent of the class meetings—
+regardless of the reason for absence—to be eligible to receive credit for the course.
+a. credit courses
+1. traditional courses meet for the above described time periods in a traditional classroom
+setting and require the requisite additional work outside of class.
+2. hybrid courses meet in a traditional classroom setting for at least 51% of the required time
+listed above and the remaining instruction is delivered online. credit is assigned based on
+demonstrated competencies or learning objectives acquired and are equivalent to those of
+students in a traditional classroom setting.
+3. online courses meet in a traditional classroom setting for less than 50% of the required time
+listed above and may not meet at all. credit is assigned based on demonstrated
+competencies or learning objectives acquired and are equivalent to those of students in a
+traditional classroom setting.
+4. graduate research, independent studies. for supervised research and similar activities, the
+amount of effort required for academic credit is determined by the supervising faculty.
+5. student teaching, internships. credit is commensurate with the hours involved and the
+quality of the learning experience and is determined by the credit-awarding academic
+department. academic credit is awarded when the student fulfills the objectives set by the
+academic department.
+6. intensive format courses, such as those offered during summer terms, may include
+premeeting reading and post-meeting research work to ensure for adequate preparation,
+reflection and analysis concerning the subject matter. credit is assigned based on
+demonstrated competencies or learning objectives acquired which are equivalent to those of
+students in a traditional classroom setting.
+b. transfer credit: credit in transfer may be accepted only for courses which are comparable to
+courses offered in the graduate programs in the school of professional and continuing studies or
+other graduate programs at the university of richmond. moreover, the coursework must have
+been taken at an institution accredited by a regional accrediting agency or the international
+equivalent at the time the work was taken, and a grade or equivalent of c (2.0) or better must have
+been earned. coursework accepted in transfer shall be applied to specific degree requirements
+subject to the discretion of the school of professional and continuing studies. the school of
+professional and continuing studies generally does not accept credits earned with a pass/no pass
+designation. semester hours awarded are added into semester hours required for graduation, but
+grades are not calculated in the grade point average.
+vi. noncredit courses for ceu credit.
+
+acd-1001 – academic credit policy
+university of richmond | 12
+courses offered for continuing education units follow accepted guidelines and one ceu is awarded
+for each ten contact hours of instruction in a specified continuing education program or activity.
+related policies:
+policy on undergraduate independent studies
+policy on undergraduate academic internships
+policy background:
+approved by university faculty, may 7, 2012
+revised version approved by university faculty senate, february 17, 2017
+current version reviewed by academic cabinet prior to approval and approved by university faculty senate
+on november 19, 2021.
+non-substantive change to comply with law school name change made on 9/27/22
+policy revisions approved by the law school faculty prior to approval by the faculty senate on 11/15/2024
+p
+olicy contacts:
+university registrar

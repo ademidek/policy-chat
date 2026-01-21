@@ -1,0 +1,11 @@
+scope:
+this policy applies to the data transfer of restricted or confidential data to an external party performed on a
+manual, ad-hoc, or one-off basis. data transfers that occur on an ongoing basis are subject to separate policies
+and procedures per the data security policy. index:
+irm-4005.1 .......definitions
+irm-4005.2…...policy statement
+irm-4005.3…...applicable regulations and accreditation standards
+policy statement:
+irm-4005.1 – definitions
+confidential information – sensitive information that must be safeguarded in order to protect the privacy of
+individuals and the security and integrity of systems and to guard against fraud.

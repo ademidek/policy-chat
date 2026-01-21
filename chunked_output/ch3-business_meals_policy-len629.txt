@@ -1,0 +1,20 @@
+index:
+4204.1 ...............definitions
+4204.2 ...............overview
+4204.3 ...............business meals
+4204.4 ...............departmental meal expenses
+4204.5 ...............food or refreshments for university events
+4204.6 ...............tips and gratuities
+policy #: fin-4204
+policy title: business meals and entertainment
+effective: 07/01/2019 responsible office: office of strategic sourcing & payments
+date
+approved:
+06/13/2019 approval: executive vice president and chief operating
+officer
+replaces
+policy dated:
+prior to 2009 responsible
+university official:
+senior associate vice president and university
+controller

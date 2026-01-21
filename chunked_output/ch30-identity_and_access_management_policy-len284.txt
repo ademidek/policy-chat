@@ -1,0 +1,3 @@
+irm-4009 – identity and access management policy
+university of richmond | 5
+• create, remove, and maintain digital accounts in centralized enterprise directory services. • create, remove, and monitor central service accounts. • create, remove, and monitor central privileged accounts.

@@ -1,0 +1,3 @@
+when an employee misses additional work time beyond the time announced for the early dismissal,
+cancellation or delayed opening, or concludes that they must leave work early even when no cancellation has
+been announced, the employee shall report their time accurately as worked

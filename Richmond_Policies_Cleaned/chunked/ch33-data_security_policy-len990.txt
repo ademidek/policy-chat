@@ -1,0 +1,15 @@
+. these requirements are in
+addition to all other requirements defined in this policy.
+a. confidential, restricted, or official use only information shall not be entered into any publicly available
+or commercial genai application without an approved agreement that includes appropriate data security
+requirements in compliance with university policies.
+b. confidential, restricted, or official use only information shall not be entered into any private genai
+application without prior approval through university it governance. additionally, if the application is not
+owned and administered by the university of richmond, an approved use agreement must be executed with
+the application provider and must include appropriate data security requirements in compliance with
+university policies.
+
+irm-4004 – data security
+university of richmond | 10
+c. each genai application must have an acceptable use policy (aup) defining its terms of use, data
+collection policies, and user responsibilities

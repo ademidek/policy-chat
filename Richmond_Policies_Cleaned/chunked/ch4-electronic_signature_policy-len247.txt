@@ -1,0 +1,3 @@
+services and/or perform certain operations on behalf of the university.
+contract — a contract is a binding commitment by or on behalf of the university that is in oral or written
+form, regardless of the title of the operative document or documents

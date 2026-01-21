@@ -1,0 +1,5 @@
+when accessing or transmitting confidential or restricted information an encrypted connection (e.g.,
+virtual private network (vpn), secure shell (ssh), secure socket layer / transport layer security
+(ssl/tls)) must be used. alternative controls for this requirement must be reviewed and approved
+by the director of information security. refer to the external data transfer policy for detailed
+requirements.

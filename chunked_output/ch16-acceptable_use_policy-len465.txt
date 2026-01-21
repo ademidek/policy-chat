@@ -1,0 +1,5 @@
+employees accessing data must observe requirements for confidentiality
+and privacy, must comply with protection and control procedures, and must accurately present the data in
+any use. members of the university of richmond community must:
+• read and agree to abide by the university's data security policy. • be personally responsible for the security and usage of any system connected to the university of
+richmond network, not owned by the university of richmond.

@@ -1,0 +1,17 @@
+. data steward(s): executive director, institutional effectiveness (melissa hartz*)
+c. data stewardship domains: assessment data (aqua, taskstream ams), course
+evaluations (courseeval), survey data (qualtrics), census files (frozen files for
+admission, enrollment, faculty, and degree completion stored in box)
+d. cross-functional requests: all cross-functional requests (those that require
+data from multiple data domains) should be routed to ifx for assessment and
+fulfillment.
+13)information services data
+a. data trustee: vice president and chief information officer (keith mcintosh)
+b. data steward(s): asst. vp systems and networks (troy boroughs*), asst
+vp telecom, media and user services (mark nichols)
+c. data stewardship domains: identity data (netid, urid, network passwords, ur
+email addresses, dns names), ur phone numbers, computing assets
+14) faculty administrative data
+a. data trustee: executive vice president for academic affairs & provost (joan
+saab)
+b

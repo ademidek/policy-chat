@@ -1,0 +1,3 @@
+system-of-record: an information storage system that is the authoritative data source for a given data
+element or piece of information (e.g., banner). transactional system: an information processing system involving the collection, modification and retrieval
+of data, as contrasted with systems used solely for analytics or reporting. (e.g., slate).

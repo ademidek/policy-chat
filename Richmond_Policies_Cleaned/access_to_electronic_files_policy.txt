@@ -1,0 +1,143 @@
+university of richmond | 1
+university of richmond
+policy manual
+purpose:
+the university of richmond respects the privacy of electronic communications in the same way that it
+respects the privacy of paper correspondence and telephone conversations. therefore, the university does not
+routinely monitor or access the content of electronic communications, computer files, or voice mail whether
+stored on university equipment or in transit on the university network. however, monitoring or access may be
+necessary under certain circumstances. this policy outlines the legal or administrative circumstances under
+which access and/or monitoring may occur.
+scope:
+this policy applies to faculty, staff, and student storage of email, voice mail, and data files maintained in
+university approved information systems.
+index:
+irm-4008.1 .......definitions
+irm-4008.2…...policy statement
+irm-4008.3…...applicable regulations and accreditation standards
+policy statement:
+irm-4008.1 – definitions
+user – any individual, including but not limited to faculty, student, staff, contractors, and visitors who has
+access and uses university information resources, systems, or data.
+policy #: irm-4008 policy title: access to electronic files policy
+effective: 02/04/2021 responsible office: information services
+date
+approved:
+02/04/2021
+approval: vice president for information services and
+chief information officer
+replaces
+policy dated:
+05/04/2006 responsible
+university official:
+vice president for information services and
+chief information officer
+
+irm-4008 – access to electronic files policy
+university of richmond | 2
+irm-4008.2 – policy statement
+the university of richmond owns and provides email, voice, storage, and other electronic services to
+authorized users to facilitate the university's business and academic mission. these electronic resources are
+deployed and maintained by information services to support the university's work of teaching, scholarship,
+research, administration, and public service. incidental and occasional personal use of email and other
+electronic resources is allowed; however, the university may access such content as described in this policy.
+information services monitors and collects data related to the university's systems and networks as necessary
+to manage the campus network traffic and to ensure that resources are available for academic, scholarly, and
+administrative uses. designated information services personnel, such as system administrators, have special
+privileges necessary for the implementation and maintenance of the university's systems and networks. the
+number of information services staff with system administrator privileges for any given system is limited to
+the number required for reliable operation, cross training, and adequate support coverage.
+conditions under which email may be monitored and accessed
+while efforts are made to ensure reasonable expectations of privacy to users' email and electronic files, the
+university may inspect, monitor, or disclose the contents under the following circumstances:
+1. system administration when managing email and file systems, system administrators primarily deal
+with system logs, application files, and email headers. information services personnel may not
+intentionally access the content of email or stored files without the permission of the account holder
+unless there is a situation that threatens the actual operation of the system. occasionally, however,
+because of the way the systems identify and handle problems, information services personnel may not
+avoid observing the contents of email and other files. these personnel shall peruse these emails and/or
+stored files as little as possible in order to perform the necessary task. if information services staff
+must access user content, they shall treat the information or content with strict confidentiality and
+notify the account holder of the incident, except in the case where it is evidence for violations of the
+law or written university policy.
+2. legal compliance the university complies with all valid court orders or other orders with which the
+university must comply by law. these orders may include preservation, inspection, monitoring,
+and/or disclosure of email and/or stored files university counsel and the account holder shall be
+notified of these actions, unless the order obligates non-disclosure.
+3. emergency situations the university may access electronic files or email when access or disclosure
+is needed to prevent the likelihood of imminent significant harm to persons or property. even though
+the situation is deemed an emergency, authorization shall still be sought from the appropriate official
+in consultation with the senior associate vice president for human resources or their designee. for
+faculty accounts the appropriate university official is the dean of the faculty member; for staff
+accounts the appropriate university official is the vice president of the staff's division; for student
+accounts the appropriate university official is the registrar. notification of the actions taken shall be
+given to the account holder; but depending on the emergency and circumstances, notification may not
+occur until after the situation is resolved. in the event the dean or vice president is not readily
+available to provide approval, the requestor may defer to the executive vice president/provost for
+faculty or the executive vice president/chief operating officer for staff.
+4. other compelling circumstances
+
+irm-4008 – access to electronic files policy
+university of richmond | 3
+a. the vice president for information services will respond to requests from university counsel
+and the university auditor to preserve information necessary for pending or anticipated
+litigation or investigations. when directed, the preserved information may be reviewed by
+counsel or the auditor without the permission of the account holder.
+b. an appropriate university official with notification of university counsel may request
+preservation of email and/or stored files in the event of substantial reason to believe that
+violations of law or written university policy have occurred. for faculty accounts the
+appropriate university official is the provost; for staff accounts the appropriate university
+official is the associate vice president of human resources; for student accounts the
+appropriate university official is the registrar.
+c. in the circumstance when access to stored files or email is necessary to conduct university
+business and the employee is no longer working at the university or cannot be contacted, an
+appropriate university official may authorize access to an employee's email account or
+electronic files. for faculty accounts the appropriate university official is the dean of the
+faculty member; for staff accounts the appropriate university official is the vice president of
+the staff's division. in the event the dean or vice president is not readily available to provide
+approval, the requestor may defer to the executive vice president/provost or the executive
+vice president/chief operating officer for staff. this access of stored files or email shall be
+reported to active employees once they are able to be contacted.
+notification and record maintenance – information services shall keep a record of all incidents which
+require the observation of email content. observing only email system logs or email headers will not require
+an entry in this record. entries shall include the email account id, the date, the is staff member's name, and a
+brief explanation.
+preservation of email – users of the university's electronic mail system should be aware that, even though
+the sender and recipient have discarded their copies of a particular email, back-up copies of discarded email
+exist for a while, and can be retrieved if necessary. systems are routinely "backed up" to protect system
+reliability and integrity as well as to prevent potential loss of data. the back-up process results in the copying
+of data onto storage media that may be retained for periods of time and in locations unknown to the originator
+or recipient of the email.
+no guarantee of confidentiality – information services staff follow sound professional practices in
+providing for the security of the email, data, application programs, and system programs under their control.
+however, in today's environment professional practices and protections are not infallible and the security and
+confidentiality of our systems and data cannot be guaranteed. in addition, the recipient of an email message
+may forward it to persons who were not intended to see it. users, therefore, should exercise extreme caution
+in using email to communicate confidential or sensitive matters.
+
+irm-4008 – access to electronic files policy
+university of richmond | 4
+irm-4008.3 – applicable regulations and accreditation standards
+a. red flags rule of the fair and accurate credit transaction act of 2003 (fact act), public law 108-
+159, section 114
+b. family educational rights and privacy act (ferpa) (20 u.s.c. § 1232g; 34 cfr part 99)
+c. health insurance portability and accountability act of 1996 (hipaa), public law 104-191
+d. payment card industry data security standard (pci dss)
+e. sacscoc principles of accreditation 10.6 (distance and correspondence education)
+related policies:
+a. information security policy
+b. acceptable use policy
+c. data security policy
+policy background:
+initial policy created may 4, 2006
+revision history added may 18, 2010
+added deans and vps as approvers for user files access; evps as alternates. reviewed by it governance
+committee and president's cabinet prior to approval. dec 18, 2020
+revised version approved by vice president for information services and chief information officer feb 4,
+2021
+policy contacts:
+vice president for information services and chief information officer
+director of information security
+assistant vice president for systems and networks
+assistant vice president for telecommunications, media support, user services, and academic computing
+services

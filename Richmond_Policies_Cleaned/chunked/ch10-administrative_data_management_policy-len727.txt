@@ -1,0 +1,9 @@
+. each data steward shall be
+responsible for developing a plan for their functional area to assess the risk of erroneous or inconsistent
+data and indicate how such administrative data, if found, will be corrected. the data management
+committee will be responsible for ensuring that each functional area uses that plan to develop and
+implement processes for identifying and correcting erroneous or inconsistent data.
+6. extraction, manipulation, and reporting – extraction, manipulation, and reporting of administrative
+data must be done only for university business purposes and consistent with this and other applicable
+university policies. personal use of administrative data, in any format and at any location, is
+prohibited

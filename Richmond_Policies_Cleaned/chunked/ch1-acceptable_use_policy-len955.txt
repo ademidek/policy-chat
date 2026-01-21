@@ -1,0 +1,19 @@
+university of richmond | 1
+university of richmond
+policy manual
+scope:
+this policy applies to the university of richmond and all of its affiliates. as used in this policy, the term
+"affiliates" means organizations or entities in which the university owns a controlling interest or has the right
+to elect the majority of the entity's governing board.
+index:
+irm-2001.1…..definitions
+irm-2001.2 .......policy statement
+irm-2001.3 .......applicable regulations & accreditation standards
+policy statement:
+irm-2001.1 – definitions
+user – any individual, including but not limited to faculty, student, staff, contractors, visitors; who access
+and use university information resources or data.
+irm-2001.1 – policy statement
+1. responsible use of university information and computing resources
+all members of the university of richmond community who use the university's computing and network
+facilities must use them in an ethical, responsible, and legal manner

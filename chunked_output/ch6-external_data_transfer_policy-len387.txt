@@ -1,0 +1,6 @@
+the preferred encryption strength is aes 256 bit or better. this can be achieved using
+encrypted zip files. if the data is being transferred via web upload, the in-transit encryption should be
+tls 1.2 (weak ciphers disabled) or tls 1.3.
+
+2. the encryption key to the encrypted data must be transferred out of bounds. that is it cannot be
+transferred using the same mechanism as the data.

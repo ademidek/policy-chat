@@ -1,0 +1,15 @@
+. the university's health plan and the health care components
+of the university shall:
+a. maintain procedures that ensure the secure and confidential destruction or final
+disposition of electronic phi (once the retention period for such phi has expired) and/or
+any server, other hardware, or electronic media on which electronic phi is stored.
+b. ensure that, once the retention period has expired, physical copies of phi are shredded
+using secure process by an external vendor with which the university has an appropriate
+business associate agreement.
+hrm-1005.4 – administrative requirements for hipaa implementation
+a. personnel designations.
+1. privacy officer: the person responsible for the development and implementation of university-
+wide policies and procedures relating to the safeguarding of phi subject to hipaa. the privacy
+officer will be trained on all policies and procedures necessary to fulfill these responsibilities in
+ensuring the security and privacy of phi.
+2

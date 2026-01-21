@@ -1,0 +1,12 @@
+. university data is classified as: confidential, restricted, official use only,
+or public.
+data stewardship domain: a university administrative or operational area, function or process and the
+authoritative data elements created, collected, and managed by that area throughout the lifecycle of that data,
+regardless of the transactional system(s) in which they reside (e.g., finance data).
+system-of-record: an information storage system that is the authoritative data source for a given data
+element or piece of information (e.g., banner).
+transactional system: an information processing system involving the collection, modification and retrieval
+of data, as contrasted with systems used solely for analytics or reporting. (e.g., slate).
+irm-4007.2 – policy statement
+1. university ownership of administrative data – administrative data is owned by the university of
+richmond

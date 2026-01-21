@@ -1,0 +1,19 @@
+1338
+related policies:
+irm-2001 – use of technology and information resources
+irm-4002 – data exposure policy
+irm-4003 – information security policy
+irm-4004 – data security policy
+irm-4006 – general data privacy regulation privacy notice
+irm-4005 external data transfer policy
+responding to requests for information about members of the university community
+acd-2004 – privacy of education records (ferpa) policy
+policy background:
+initial policy approved: july 27, 2020
+policy was reviewed by it governance steering committee, the school deans, and president's cabinet prior
+to approval in 2020. non-substantive updates made to policy and the list of administrative data stewards updated on august 23,
+2021
+list of administrative data stewards updated on august 3, 2022
+policy reviewed by president's cabinet prior to revision may in 2023. faculty administrative data added as a domain in september 2023.
+
+list of administrative data stewards updated october 10, 2024 to reflect personnel changes in some offices.

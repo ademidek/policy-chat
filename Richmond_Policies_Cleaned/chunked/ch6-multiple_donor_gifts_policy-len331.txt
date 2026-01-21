@@ -1,0 +1,5 @@
+. if,
+within one (1) year of the specified pledge period, the value of the fund is less than the required
+minimum, the funds may either a) be transferred to an existing fund for a related purpose that will
+most closely accomplish the donor's intent, or b) create a new gift fund of a different type with a
+lower established minimum

@@ -1,0 +1,27 @@
+. examples of official use information includes a name in conjunction with the
+following:
+
+university of richmond | 4
+irm-4004 – data security
+• addresses: permanent, campus, local
+(off-campus), e-mail and campus
+computer network (ip) address, net id
+• associated telephone numbers
+• school or college
+• major and/or minor fields of study
+• degree sought
+• expected date of completion of degree
+requirements and graduation
+• degrees conferred
+• awards and honors (e.g., dean's list)
+• full or part time enrollment status
+• dates of attendance
+• previous institutions attended
+• participation in officially recognized
+activities and sports
+• weight and height of members of athletic
+team members
+• photograph
+• gender
+• race
+d

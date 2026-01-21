@@ -1,0 +1,11 @@
+. the data owner is the data trustee (or their designee, as defined by the
+administrative data steward list) who has direct authority over and full responsibility for the data—not the
+internal users of that data.
+1. this data must be encrypted during transfer and at rest using an encryption strength of aes128, at a
+minimum. the preferred encryption strength is aes 256 bit or better. this can be achieved using
+encrypted zip files. if the data is being transferred via web upload, the in-transit encryption should be
+tls 1.2 (weak ciphers disabled) or tls 1.3.
+2. the encryption key to the encrypted data must be transferred out of bounds. that is it cannot be
+transferred using the same mechanism as the data. for instance, if the data is sent via e-mail, the key
+must be exchanged via phone or letter.
+3. the external party must acknowledge receipt of the data

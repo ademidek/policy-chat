@@ -1,0 +1,5 @@
+data classification: details and examples of university data classification levels are contained in the
+university's data security policy. university data is classified as: confidential, restricted, official use only,
+or public. data stewardship domain: a university administrative or operational area, function or process and the
+authoritative data elements created, collected, and managed by that area throughout the lifecycle of that data,
+regardless of the transactional system(s) in which they reside (e.g., finance data).

@@ -1,0 +1,35 @@
+. under
+each learning outcome, indicate the courses in which it is incorporated and how it is
+incorporated by using the following codes: i-introduced in the course, r-reinforced, e-
+emphasized.
+course new
+course
+outcome 1 outcome 2 outcome 3
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+
+9
+e
+xhibit 5: preliminary faculty roster form
+qualifications of full-time and part-time faculty
+name of program:
+type of program:
+(e.g., degree, major, minor, concentration)
+name and department of program coordinator:
+school(s): date form completed:
+1 2 3 4
+faculty name
+(ft/pt)
+list the faculty who will be
+teaching in the new program
+and indicate whether the
+faculty member is full- or part-
+time

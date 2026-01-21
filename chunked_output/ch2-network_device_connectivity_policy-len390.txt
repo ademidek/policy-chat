@@ -1,0 +1,4 @@
+network connectivity can take the form of a wired connection, wi-
+fi connection, or remote access connection via the campus vpn. devices that connect to the campus network must satisfy minimum network security requirements to protect
+the integrity of shared data, systems, and operations. devices that cannot be meet these requirements may be
+permitted to connect to the restricted network.

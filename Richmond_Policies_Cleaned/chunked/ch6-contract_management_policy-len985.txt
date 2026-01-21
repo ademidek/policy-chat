@@ -1,0 +1,18 @@
+. these
+individuals are the only persons with the authority to contractually bind the university. they are able to view,
+edit, approve, reject and put on hold contracts within the cms.
+vendor/third-party contract form
+a vendor/third-party contract form is a contract written using a form provided to the university by a vendor
+or other third party that is written by a vendor, or another party, which may deviate from the university's
+standard terms and conditions.
+
+fin-4408 – contract management policy
+university of richmond | 3
+ur contract form/template
+a ur contract form/template is a contract written using a university' approved contract template or form.
+the university's approved contract templates are available in the cms system.
+vendor
+a vendor is the party with whom the university contracts to provide the goods and/or services identified in a
+contract.
+fin-4408.2 – overview
+the policy provides guidance on managing contractual obligations of the university of richmond

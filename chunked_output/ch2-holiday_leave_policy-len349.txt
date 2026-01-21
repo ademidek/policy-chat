@@ -1,0 +1,9 @@
+policy
+hrm-2008.2 ..... employees working 12 hour rotating shifts in certain departments
+hrm-2008.3 ..... grandfathered employees
+hrm-2008.4…..floating holidays
+policy statement:
+hrm-2008.1 – policy
+the university observes fifteen days of staff holiday and two floating holidays annually:
+• new year's day (or monday after)
+• martin luther king, jr.

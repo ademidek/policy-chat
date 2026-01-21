@@ -1,0 +1,13 @@
+. this includes ensuring that deliverables, deadlines and contract terms and conditions are met;
+addressing related problems; incorporating changes or modifications to the contract; and ensuring both parties
+meet their obligations under the terms of the agreement.
+contract management system
+the university's contract management system (cms) is the system of record for all university contracts.
+as of the effective date of this policy, the cms uses the esm solutions contract management platform
+(esm).
+contract approver
+the contract approver is the university employee responsible for approving or rejecting requests for
+contracts and contract terms and conditions that fall within the realm of their responsibility. contract
+approvers are able to view, edit, create, and update contract information in the cms and attach related
+documentation for their department or division. contract approvers are also able to approve, reject, or put on
+hold contracts in the cms

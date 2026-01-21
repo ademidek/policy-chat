@@ -1,0 +1,10 @@
+. the
+number of information services staff with system administrator privileges for any given system is limited to
+the number required for reliable operation, cross training, and adequate support coverage.
+conditions under which email may be monitored and accessed
+while efforts are made to ensure reasonable expectations of privacy to users' email and electronic files, the
+university may inspect, monitor, or disclose the contents under the following circumstances:
+1. system administration when managing email and file systems, system administrators primarily deal
+with system logs, application files, and email headers. information services personnel may not
+intentionally access the content of email or stored files without the permission of the account holder
+unless there is a situation that threatens the actual operation of the system

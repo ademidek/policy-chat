@@ -1,0 +1,6 @@
+professional organizations, such as
+educause, vascan, heisc, and ren-isac serve as resources for additional security best practices. nist sp800-53r4 and other sources noted above are used to guide development and ongoing
+enhancement of additional information security policies, as needed. irm-4003.3 –roles and responsibilities
+the vice president and chief information officer is the institutional point of contact for information
+security and is responsible for designating the director of information security to coordinate and oversee
+the information security program.

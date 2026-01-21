@@ -1,0 +1,13 @@
+policy #: irm-4008 policy title: access to electronic files policy
+effective: 02/04/2021 responsible office: information services
+date
+approved:
+02/04/2021
+approval: vice president for information services and
+chief information officer
+replaces
+policy dated:
+05/04/2006 responsible
+university official:
+vice president for information services and
+chief information officer

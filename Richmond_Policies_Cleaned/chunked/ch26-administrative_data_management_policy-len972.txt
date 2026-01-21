@@ -1,0 +1,18 @@
+. data trustee: vice president for student development (todd adams)
+b. data steward(s): director of operations, health and well-being (kelly
+harris)
+c. data stewardship domains: student health (pyramed, labcorp), university
+recreation (fusion), health promotion (everfi), caps (titanium)
+8) center for student involvement data
+a. data trustee: vice president for student development (todd adams)
+b. data steward(s): director of student involvement (vittoria doyle),
+c. data stewardship domains: student involvement (extra-curricular) and events
+(presence, eventbrite)
+9) student development & housing data
+a. data trustee: vice president for student development (todd adams)
+b. data steward(s): senior director of housing and residence life (patrick benner*)
+c. data stewardship domains: student conduct (maxient), academic progress
+(maxient), student housing (starrez, banner)
+10) disability services
+a. data trustee: vice president for student development (todd adams)
+b

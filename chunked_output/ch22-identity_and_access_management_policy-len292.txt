@@ -1,0 +1,4 @@
+however, central authentication is always preferred. the operational department creating
+local accounts must define the procedures by which local accounts will be approved and created. the
+procedures must be consistent with this policy as well as with the university's acceptable use policy
+.

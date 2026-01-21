@@ -1,0 +1,3 @@
+that is, it cannot be transferred using the
+same mechanism or channel as the data. for instance, if data are sent via e-mail, the key must be
+exchanged via phone or letter. 5.

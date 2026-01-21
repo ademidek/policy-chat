@@ -1,0 +1,3 @@
+service accounts may not be used by individuals to
+authenticate. after initial testing, service accounts must be configured to be non-interactive if
+possible. c.

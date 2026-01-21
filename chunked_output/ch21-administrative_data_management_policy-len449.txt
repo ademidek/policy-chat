@@ -1,0 +1,7 @@
+is is responsible for:
+• overseeing the safe transport and storage of data to and from campus-hosted systems
+• establishing and maintaining the underlying campus infrastructure
+• performing activities required to keep the data intact and available to users
+• working with data supervisors to develop automated processes to identify erroneous,
+inconsistent, or missing data
+• working with data support groups and data stewards to resolve data issues.

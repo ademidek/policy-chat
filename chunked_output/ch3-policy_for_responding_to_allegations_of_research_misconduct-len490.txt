@@ -1,0 +1,6 @@
+scope:
+this statement of policy applies to all research conducted at or under the auspices of the university of
+richmond by faculty, staff or students engaged in research. it also applies to any person who was employed
+by, was an agent of, or was affiliated by contract or agreement with the university. this document relates to
+allegations of research misconduct (fabrication, falsification, or plagiarism in proposing, performing, or
+reviewing research, or in reporting research results).

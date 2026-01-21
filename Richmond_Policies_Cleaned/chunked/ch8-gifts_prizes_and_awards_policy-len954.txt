@@ -1,0 +1,15 @@
+. the type of award (cash, plaque, etc.), value of the award, the
+student's name, and the student's university id number must be provided to the financial aid
+office and the university controller. the award will be reported as taxable income on form
+1099-misc, if total payments reach $600 or more within the calendar year. unless required by the
+terms of an endowment, academic achievement awards, commencement awards, and other awards
+to students may not be provided as cash or cash equivalents.
+• r
+andom prizes are allowed for participation in events. the prize may not be a gift card or gift
+certificate.
+• awa
+rds distributed to employees at the annual service awards event or as formal recognition for
+teaching, scholarship or service are allowable (e.g., distinguished educator awards).
+• g
+ift cards or gift certificates (or cash) may be given as incentive to research study participants or
+for participation in institutionally sponsored surveys

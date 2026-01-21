@@ -1,0 +1,8 @@
+• manage and maintain authorizations for enterprise software applications.
+• manage and maintain a service that grants and revokes birthright entitlements, as appropriate.
+• manage and maintain a service for requestable entitlements.
+• manage and maintain an auditing service
+• maintain a list of enterprise and departmental applications and their respective application
+owners (available upon request)
+human resources – serves as the authoritative source for faculty, staff, student worker, retiree,
+contractor, and volunteer employment data

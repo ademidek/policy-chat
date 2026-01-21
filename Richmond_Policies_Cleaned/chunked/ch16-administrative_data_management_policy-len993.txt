@@ -1,0 +1,15 @@
+. is is responsible for:
+• overseeing the safe transport and storage of data to and from campus-hosted systems
+• establishing and maintaining the underlying campus infrastructure
+• performing activities required to keep the data intact and available to users
+• working with data supervisors to develop automated processes to identify erroneous,
+inconsistent, or missing data
+• working with data support groups and data stewards to resolve data issues.
+office of institutional effectiveness (ifx) – ifx is responsible for:
+• working with data stewards to develop definitions of commonly used data elements and define
+how official university metrics are calculated
+• promptly reporting data discrepancies and inconsistencies discovered in the course of its work to
+the appropriate data supervisor for resolution
+• implementing consistent reporting guidelines across campus based on institutional policies and
+federal regulations
+• providing all external reporting in all data stewardship domains

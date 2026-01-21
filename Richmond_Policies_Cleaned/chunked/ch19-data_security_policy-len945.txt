@@ -1,0 +1,12 @@
+. data transfers that occur on
+an ongoing basis must be developed or reviewed by information services. for those cases, contact the
+director of systems & networks or the director of information security for direction and approval.
+1. the appropriate data steward must approve, in advance, any transfer of confidential or restricted
+data to a third party.
+2. any staff or faculty member seeking to transfer confidential or restricted data must comply with
+this policy. information services will assist with identifying and securing required approvals.
+3. confidential or restricted information must be encrypted at a file-level during transfer. a minimum
+of aes 128-bit encryption must be used, although stronger encryption levels may be appropriate.
+this can be achieved using encrypted archive (e.g., .zip) files. refer to the external data transfer
+policy for detailed requirements.
+4. the key to encrypted data must be transferred out of band

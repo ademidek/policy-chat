@@ -1,0 +1,7 @@
+incident response team lead – leads incident handling efforts under direction of the director of information
+security or vice president of information services; coordinates duties among team members; records
+activities performed during an incident; responsible for ensuring incident preparation activities are completed
+in accordance with the ir plan; drafts post incident report; updates the university ir plan at the direction of
+the director of information security. server administrator – coordinates and administers centrally managed servers during an incident. alerts
+director of information security when a real or suspected incident has occurred within their department
+managed information resource.
